@@ -6,7 +6,7 @@ Tyler Reny
 ------
 
 
-<img src="/Users/treny/Dropbox/Website/Images/headshot2.jpg" alt="Reny_headshot" align="left" hspace = "10" >
+<img src="/Users/treny/Dropbox/Website/Images/headshot2.jpg" alt="Reny_headshot" align="left" style="PADDING-RIGHT: 10px" >
 
 Tyler is a PhD student studying American political behavior, campaigns and elections, racial and ethnic politics, and quantitative methodology at the University of Washington. His most recent CV can be found [here](https://www.dropbox.com/s/12lqvveeloqpdm8/Academic_CV_9-23-14.pdf?dl=0).
 
