@@ -3,9 +3,12 @@ output: html_document
 ---
 Tyler Reny
 -------
- 
-Tyler is a PhD student studying American political behavior, campaigns and elections, racial and ethnic politics, and quantitative methodology at the University of Washington.
+<img align = "left" src="/Users/treny/Dropbox/Website/Images/headshot_2.jpg" alt="headshot" hspace="10">
 
-Email:  `treny [at] uw.edu`
+Tyler is a PhD student studying American political behavior, campaigns and elections, racial and ethnic politics, and quantitative methodology at the University of Washington. 
+
+[CV](https://www.dropbox.com/s/12lqvveeloqpdm8/Academic_CV_9-23-14.pdf?dl=0)
+
+Email:  `treny@uw.edu`
 
 Twitter: `@tylerreny`
