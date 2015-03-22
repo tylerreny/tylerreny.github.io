@@ -1,0 +1,11 @@
+---
+output: html_document
+---
+Tyler Reny
+-------
+ 
+Tyler is a PhD student studying American political behavior, campaigns and elections, racial and ethnic politics, and quantitative methodology at the University of Washington.
+
+Email:  `treny [at] uw.edu`
+
+Twitter: `@tylerreny`
