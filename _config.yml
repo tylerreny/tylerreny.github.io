@@ -1,9 +1,7 @@
 # Site settings
 title: Tyler Reny
 email: treny@uw.edu	
-description: "Department of Political Science  
-	     101 Gowen Hall, Box 353530  
-	     Seattle, WA 98195"
+description: "Department of Political Science 101 Gowen Hall, Box 353530 Seattle, WA 98195"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tylerreny.github.io" # the base hostname & protocol for your site
 twitter_username: tylerreny	
