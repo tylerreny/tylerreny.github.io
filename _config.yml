@@ -1,0 +1,11 @@
+# Site settings
+title: Tyler Reny
+email: treny@uw.edu	
+description: "Test Test Test"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tylerreny.github.io" # the base hostname & protocol for your site
+twitter_username: tylerreny	
+github_username:  tylerreny
+
+# Build settings
+markdown: kramdown

@@ -1,31 +1,16 @@
 ---
-output: html_document
+layout: page
+title: Research
+permalink: /research/
 ---
-
-Tyler Reny
-------
-
-
-<img src="/Users/treny/Dropbox/Website/Images/headshot2.jpg" alt="Reny_headshot" align="left" style="PADDING-RIGHT: 10px" >
-
-Tyler is a PhD student studying American political behavior, campaigns and elections, racial and ethnic politics, and quantitative methodology at the University of Washington. His most recent CV can be found [here](https://www.dropbox.com/s/12lqvveeloqpdm8/Academic_CV_9-23-14.pdf?dl=0). Teaching materials can be found [here](http://tylerreny.github.io/teaching-site/).
-
-
-<h3>Contact</h3>
-
-Email : `treny@uw.edu` 
-
-Twitter : `@tylerreny`
-
-<h3>Research</h3>
 
 **In Progress**
 
-“Racial Cues and Campaign Advertising in the Age of Obama” (with Loren Collingwood and Ali Valenzuela).
+“Racial Cues and Campaign Advertising in the Age of Obama” (with Loren Collingwood and Ali Valenzuela)
 
 “Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the ’New South”’
 
-“Immigrant Political Ambition: New Americans and the Quest for Political Office” (with Paru Shah).
+“Immigrant Political Ambition: New Americans and the Quest for Political Office” (with Paru Shah)
 
 “Guillermo Horton: Anti-Immigrant Appeals in Statewide Electoral Contests” Working Paper
 
@@ -46,8 +31,6 @@ Twitter : `@tylerreny`
 “Educating Tomorrow’s Workforce is Crucial for America’s Prosperity” (July, 2012). National Journal’s Next America. [link](http://bit.ly/NCHoyf)
 
  
-
-
 
 
 
