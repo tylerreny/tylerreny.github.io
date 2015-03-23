@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /pdf/cv-reny.pdf
+permalink: /cv
 ---
 
-You can find the latest version of my CV [here](tylerreny.github.io/pdf/cv.pdf).
+You can find the latest version of my CV [here](http://tylerreny.github.io/pdf/cv-reny.pdf).
