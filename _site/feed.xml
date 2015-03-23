@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyler Reny</title>
-    <description>Department of Political Science * 101 Gowen Hall, Box 353530 * Seattle, WA 98195</description>
+    <description>Department of Political Science\n   101 Gowen Hall, Box 353530\n Seattle, WA 98195
+</description>
     <link>http://tylerreny.github.io/</link>
     <atom:link href="http://tylerreny.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Mar 2015 23:04:44 -0400</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2015 23:04:44 -0400</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2015 12:07:29 -0400</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2015 12:07:29 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
