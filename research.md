@@ -6,13 +6,18 @@ permalink: /research/
 
 **In Progress**
 
-“Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals” 
+*Campaigns and Elections*
 
-“Immigrant Political Ambition: New Americans and the Quest for Political Office” (with Paru Shah)
+“Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals” 
 
 “Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the ’New South”’
 
 “Racial Cues and Campaign Advertising in the Age of Obama” (with Loren Collingwood and Ali Valenzuela)
+
+*Political Ambition*
+
+“Immigrant Political Ambition: New Americans and the Quest for Political Office” (with Paru Shah)
+
 
 **Non-Academic**
 
