@@ -5,11 +5,14 @@ permalink: /teaching/
 ---
 **POLS 202 American Politics with Professor Mark Smith**
 
-Spring 2015
+*Spring 2015*
 
 [Course Website](http://courses.washington.edu/smithint/amgov.html)
 
 [My Syllabus](http://tylerreny.github.io/pdf/spring_202.pdf)
+
+
+
 
 **Past Teaching**
 
