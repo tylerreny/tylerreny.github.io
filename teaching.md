@@ -14,7 +14,7 @@ permalink: /teaching/
 
 
 
-**Past Teaching**
+**Past Sections**
 
 (Fall 2014) American Politics with Professor Becca Thorpe
 
