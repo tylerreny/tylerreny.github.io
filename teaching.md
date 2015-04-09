@@ -3,13 +3,12 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-**POLS 202 American Politics with Professor Mark Smith**
-
+#POLS 202 American Politics with Professor Mark Smith
 *Spring 2015*
 
-[Course Website](http://courses.washington.edu/smithint/amgov.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Course Website](http://courses.washington.edu/smithint/amgov.html)
 
-[My Syllabus](http://tylerreny.github.io/pdf/spring_202.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[My Syllabus](http://tylerreny.github.io/pdf/spring_202.pdf)
 
 **Resources**
 
