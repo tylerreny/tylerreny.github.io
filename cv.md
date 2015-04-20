@@ -92,6 +92,9 @@ Paru Shah.
 #Conference Presentations
 
 **2015** “Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals”,
+MPSA, Chicago, IL.
+
+**2015** “Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals”,
 WPSA, Las Vegas, NV.
 
 **2014** “Anti-immigrant Appeals in Senate and Gubernatorial Campaigns”, PRIEC, Albuquerque,
