@@ -3,6 +3,11 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+<div>
+  <img src="/img/code_quality.png" align="left" padding="10px" />
+</div>  
+[http://xkcd.com/1513/](http://xkcd.com/1513/)
+
 #POLS 202 American Politics with Professor Mark Smith
 *Spring 2015*
 
