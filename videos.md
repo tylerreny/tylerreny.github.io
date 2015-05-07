@@ -11,5 +11,10 @@ permalink: /videos/
 
 [Page Source](view-source:http://carlyfiorina.org/)
 
+[Polarization](http://voteview.com/images/House_and_Senate_Polar_46-111.jpg)
+
 [Oliver on State Legislatures](https://www.youtube.com/watch?list=UU3XTzVzaHQEd30rQbuvCtTQ&v=aIMgfBZrrZ8)
 
+[Oliver SCOTUS](https://www.youtube.com/watch?v=fJ9prhPV2PI)
+
+[Jim McDermott](http://thecolbertreport.cc.com/videos/bujbay/better-know-a-district---washington-s-7th---jim-mcdermott)
