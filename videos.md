@@ -3,9 +3,11 @@ layout: page
 permalink: /videos/
 ---
 
-May 12, 2015
+**May 12, 2015**
 
 [Oliver News](https://www.youtube.com/watch?v=E_F5GxCwizc)
+
+**May 7, 2015**
 
 [Demon Sheep](https://www.youtube.com/watch?v=rBlNVXMWe_w)
 
