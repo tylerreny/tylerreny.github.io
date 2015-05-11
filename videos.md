@@ -5,6 +5,8 @@ permalink: /videos/
 
 **May 12, 2015**
 
+[Newsroom](https://www.youtube.com/watch?v=0_i9fw43Moo)
+
 [Oliver News](https://www.youtube.com/watch?v=E_F5GxCwizc)
 
 **May 7, 2015**
