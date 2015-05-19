@@ -3,6 +3,12 @@ layout: page
 permalink: /videos/
 ---
 
+**May 18, 2015**
+
+[Jonathan Haidt on Morals and Ideology](https://www.youtube.com/watch?v=yto5DkbumYw)
+
+[Colbert Spiteful Partisanship] (http://thecolbertreport.cc.com/videos/m0huaq/spiteful-partisanship)
+
 **May 12, 2015**
 
 [Newsroom](https://www.youtube.com/watch?v=0_i9fw43Moo)
