@@ -3,6 +3,12 @@ layout: page
 permalink: /videos/
 ---
 
+**May 20, 2015**
+
+[Colbert Presidential Polls](http://thecolbertreport.cc.com/videos/zpnkfm/-skewed--presidential-polls)
+
+[Stewart Skewed Presidential Polls](http://thedailyshow.cc.com/videos/xd8n18/poll-bearers)
+
 **May 18, 2015**
 
 [Jonathan Haidt on Morals and Ideology](https://www.youtube.com/watch?v=yto5DkbumYw)
