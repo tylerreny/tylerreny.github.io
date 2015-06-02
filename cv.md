@@ -34,13 +34,15 @@ Minor, Spanish
 
 #Grants, honors & awards
 
-**2014** Donald R. Matthews Graduate Fellowship Summer Stipend, University of Washington  
+**2015** Department of Political Science Best Graduate Student Paper Award, UW ($500)
 
-**2013** Donald R. Matthews Graduate Fellowship, University of Washington  
+**2014** Donald R. Matthews Graduate Fellowship Summer Stipend, UW ($5000)
 
-**2011** Phi Beta Kappa; Susan Riley Gunderson ’64 Prize for Excellence in the Study of American Government 
+**2013** Donald R. Matthews Graduate Fellowship, UW ($51,000)
+
+**2011** Phi Beta Kappa; Susan Riley Gunderson ’64 Prize for Excellence in the Study of American Government, Skidmore College ($500)
  
-**2009** Pi Sigma Alpha; Levine Intership Award, $3,000  
+**2009** Pi Sigma Alpha; Levine Intership Award, Skidmore College ($3,000)
 
 
 #Publications & talks
