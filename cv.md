@@ -30,6 +30,7 @@ American Government • Campaigns and Elections • Racial and Ethnic Politics �
 #Education
 
 **2011** BA in Government, Skidmore College, NY, *summa cum laude*
+
 Minor, Spanish  
 
 #Grants, honors & awards
