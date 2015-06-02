@@ -29,14 +29,14 @@ American Government • Campaigns and Elections • Racial and Ethnic Politics �
 
 #Education
 
-**2011** BA in Government, Skidmore College, NY, summa cum laude  
+**2011** BA in Government, Skidmore College, NY, *summa cum laude*
 Minor, Spanish  
 
 #Grants, honors & awards
 
 **2015** Department of Political Science Best Graduate Student Paper Award, UW ($500)
 
-**2014** Donald R. Matthews Graduate Fellowship Summer Stipend, UW ($5000)
+**2014** Donald R. Matthews Graduate Fellowship Summer Stipend, UW ($5,000)
 
 **2013** Donald R. Matthews Graduate Fellowship, UW ($51,000)
 
@@ -67,7 +67,7 @@ Paper)
 
 #Informal & reports
 
-**2014** Minority Representation Gaps, by the Numbers (October). Monkey Cage. The Washington Post. http://wapo.st/ZGQntG.
+**2014** Minority Representation Gaps, by the Numbers (October). Monkey Cage. The Washington Post. [http://wapo.st/ZGQntG](http://wapo.st/ZGQntG).
 
 **2014** Represent 2020: Toward a Better Vision for Democracy (September). New American Leaders Project. [http://bit.ly/1tLsVcV](http://bit.ly/1tLsVcV)
 
