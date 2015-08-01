@@ -8,9 +8,11 @@ permalink: /research/
 
 *Campaigns and Elections*
 
-“Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals” 
+“The New Race Card: Demographic Change and the Politics of Immigration” 
 
 “Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the ’New South”’
+
+"Illegal Aliens: Latino and Immigrant Stereotypes and the Mass Media" (with Sylvia Manzano)
 
 “Racial Cues and Campaign Advertising in the Age of Obama” (with Loren Collingwood and Ali Valenzuela)
 

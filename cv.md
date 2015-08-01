@@ -8,26 +8,26 @@ You can download the latest version of my CV [here](http://tylerreny.github.io/p
 
 ##Tyler Reny
 
-University of Washington  
-Washington Institute for the Study of Sexuality, Ethnicity, and Race  
+UCLA    
 Department of Political Science  
-101 Gowen Hall, Box 353530  
-Seattle, WA 98195  
+4289 Bunche Hall  
+Los Angeles, CA 90095  
 
-email: <a href="mailto:treny@uw.edu">treny@uw.edu</a>   
+email: <a href="mailto:ttreny@gmail.com">ttreny@gmail.com</a>   
 website: [tylerreny.com](http://www.tylerreny.com)  
 twitter: [@tylerreny](http://www.twitter.com/tylerreny)  
 
 #Current position
 
-PhD. Student and Graduate Fellow, Washington Institute for the Study of Sexuality, Ethnicity,
-and Race, University of Washington (expected 2018)  
+PhD. Student, UCLA Department of Political Science
 
 #Areas of specialization
 
 American Government • Campaigns and Elections • Racial and Ethnic Politics • Methodology
 
 #Education
+
+**2015** MA in Political Science, University of Washington, WA
 
 **2011** BA in Government, Skidmore College, NY, *summa cum laude*
 
@@ -52,6 +52,10 @@ Minor, Spanish
 
 *In progress*
 
+**2015** "The New Race Card: Demographic Change and the Politics of Immigration"
+
+**2015** "'Illegal Aliens': Mass Media and Latino and Immigrant Stereotypes" (with Sylvia Manzano)
+
 **2014** “Political Ambition and Recruitment: Minorities and Candidate Emergence” (with Paru Shah).  
 
 **2014** “Racial Cues and Campaign Advertising in the Age of Obama” (with Loren Collingwood
@@ -59,12 +63,6 @@ and Ali Valenzuela).
  
 **2014** “Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the
 ’New South”’  
-
-**2014** “Immigrant Political Ambition: New Americans and the Quest for Political Office” (with
-Paru Shah). Under Review  
-
-**2014** “Guillermo Horton: Anti-Immigrant Appeals in Statewide Electoral Contests” (Working
-Paper)  
 
 #Informal & reports
 
