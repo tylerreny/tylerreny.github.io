@@ -52,16 +52,16 @@ Minor, Spanish
 
 *In progress*
 
-**2015** "The New Race Card: Demographic Change and the Politics of Immigration"
+"The New Race Card: Demographic Change and the Politics of Immigration"
 
-**2015** "'Illegal Aliens': Mass Media and Latino and Immigrant Stereotypes" (with Sylvia Manzano)
+"'Illegal Aliens': Mass Media and Latino and Immigrant Stereotypes" (with Sylvia Manzano)
 
-**2014** “Political Ambition and Recruitment: Minorities and Candidate Emergence” (with Paru Shah).  
+“Political Ambition and Recruitment: Minorities and Candidate Emergence” (with Paru Shah).  
 
-**2014** “Racial Cues and Campaign Advertising in the Age of Obama” (with Loren Collingwood
+“Racial Cues and Campaign Advertising in the Age of Obama” (with Loren Collingwood
 and Ali Valenzuela). 
- 
-**2014** “Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the
+
+“Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the
 ’New South”’  
 
 #Informal & reports
