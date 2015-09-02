@@ -146,4 +146,4 @@ Adobe Creative Suites
 Experience with HTML and CSS  
 Proficient in Spanish  
 
-*Updated April 2015*
+*Updated August 2015*
