@@ -111,9 +111,13 @@ State Politics and Policy Conference, Iowa City, Iowa.
 
 #Research Experience
 
+**2015** Research Fellow, New American Leaders Project, NY
+
+**2015** Research Assistant, Professor Lynn Vavreck, UCLA
+
 **2015** Research Assistant, Professor Justin Gest, George Mason University
 
-**2014** Research Assistant, Professor Matt Barreto, University of Washington
+**2014 - 2015** Research Assistant, Professor Matt Barreto, University of Washington
 
 **2014** Research Consultant, New American Leaders Project, NY
 
