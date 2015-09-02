@@ -92,13 +92,15 @@ Paru Shah.
 
 #Conference Presentations
 
-**2015** “Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals”,
+**2015** "The New Race Card: Demographic Change and the Politics of Immigration," APSA, San Francisco, CA. 
+
+**2015** “Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals,”
 MPSA, Chicago, IL.
 
-**2015** “Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals”,
+**2015** “Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals,”
 WPSA, Las Vegas, NV.
 
-**2014** “Anti-immigrant Appeals in Senate and Gubernatorial Campaigns”, PRIEC, Albuquerque,
+**2014** “Anti-immigrant Appeals in Senate and Gubernatorial Campaigns,” PRIEC, Albuquerque,
 NM.
 
 **2014** “Immigrant Political Ambition: New Americans and the Quest for Political Office” (with
