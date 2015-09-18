@@ -48,13 +48,15 @@ Minor, Spanish
 
 #Publications & talks
 
-**Journal articles**
+**Journal Articles**
 
-*In progress*
+**Book Chapters**
+
+**2016** Reny, Tyler and Sylvia Manzano. 2016. "The Negative Effects of Mass Media Stereotypes of Latinos and Immigrants." In *Media and Minorities: Questions on Representation from an International Perspective.* Eds Georg Ruhrmann, Yasemin Shooman, and Peter Widmann.  Jewish Museum of Berlin Press. *forthcoming.*
+
+**In progress**
 
 "The New Race Card: Demographic Change and the Politics of Immigration"
-
-"'Illegal Aliens': Mass Media and Latino and Immigrant Stereotypes" (with Sylvia Manzano)
 
 “Political Ambition and Recruitment: Minorities and Candidate Emergence” (with Paru Shah).  
 
