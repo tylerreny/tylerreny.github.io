@@ -80,7 +80,7 @@ Minor, Spanish
 
 **2012** How the U.S. is Still Struggling with Universal Suffrage (September). National Journal Next America. [http://bit.ly/UDAUpD.](http://bit.ly/UDAUpD)
 
-**2012** Educating Tomorrow’s Workforce is Crucial for America’s Prosperity (July). National Journal Next America. [http://bit.ly/NCHoyf.](http://bit.ly/NCHoyf)
+**2012** Educating Tomorrow's Workforce is Crucial for America's Prosperity (July). National Journal Next America. [http://bit.ly/NCHoyf.](http://bit.ly/NCHoyf)
 
 #Survey Datasets
 
