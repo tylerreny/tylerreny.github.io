@@ -23,7 +23,7 @@ PhD. Student, UCLA Department of Political Science
 
 #Areas of specialization
 
-American Government • Campaigns and Elections • Racial and Ethnic Politics • Methodology
+American Government - Campaigns and Elections - Racial and Ethnic Politics - Methodology
 
 #Education
 
@@ -35,13 +35,15 @@ Minor, Spanish
 
 #Grants, honors & awards
 
+**2016** APSA Warren E. Miller Fund Research Grant ($2000)
+
 **2015** Department of Political Science Best Graduate Student Paper Award, UW ($500)
 
 **2014** Donald R. Matthews Graduate Fellowship Summer Stipend, UW ($5,000)
 
 **2013** Donald R. Matthews Graduate Fellowship, UW ($51,000)
 
-**2011** Phi Beta Kappa; Susan Riley Gunderson ’64 Prize for Excellence in the Study of American Government, Skidmore College ($500)
+**2011** Phi Beta Kappa; Susan Riley Gunderson '64 Prize for Excellence in the Study of American Government, Skidmore College ($500)
  
 **2009** Pi Sigma Alpha; Levine Intership Award, Skidmore College ($3,000)
 
@@ -58,13 +60,11 @@ Minor, Spanish
 
 "The New Race Card: Demographic Change and the Politics of Immigration"
 
-“Political Ambition and Recruitment: Minorities and Candidate Emergence” (with Paru Shah).  
+"Political Ambition and Recruitment: Minorities and Candidate Emergence" (with Paru Shah).  
 
-“Racial Cues and Campaign Advertising in the Age of Obama” (with Loren Collingwood
-and Ali Valenzuela). 
+"Public Reactions to Anti-Latino Appeals in the Age of Obama: Race, Illegality and Changing Norms," (with Loren Collingwood and Ali Valenzuela). 
 
-“Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the
-’New South”’  
+"Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the 'New South'"
 
 #Informal & reports
 
@@ -72,52 +72,43 @@ and Ali Valenzuela).
 
 **2014** Represent 2020: Toward a Better Vision for Democracy (September). New American Leaders Project. [http://bit.ly/1tLsVcV](http://bit.ly/1tLsVcV)
 
-**2013** Run Local: New American Electorate and the 2013 Municiple Elections (March). New American
-Leaders Project. [http://bit.ly/WKwtGR](http://bit.ly/WKwtGR)
+**2013** Run Local: New American Electorate and the 2013 Municiple Elections (March). New American Leaders Project. [http://bit.ly/WKwtGR](http://bit.ly/WKwtGR)
 
-**2013** Obama Barely Touched Immigration in His Speech, but That’s a Good Thing (February). National
-Journal’s Next America. [http://bit.ly/WKwtGR.](http://bit.ly/WKwtGR)
+**2013** Obama Barely Touched Immigration in His Speech, but That's a Good Thing (February). National Journal's Next America. [http://bit.ly/WKwtGR.](http://bit.ly/WKwtGR)
 
-**2012** From the Community to the Capitol: Immigrants Flex Political Muscle in the 2012 Congressional
-Races (October). New American Leaders Project. [http://bit.ly/RLVzVF.](http://bit.ly/RLVzVF)
+**2012** From the Community to the Capitol: Immigrants Flex Political Muscle in the 2012 Congressional Races (October). New American Leaders Project. [http://bit.ly/RLVzVF.](http://bit.ly/RLVzVF)
 
-**2012** How the U.S. is Still Struggling with Universal Suffrage (September). National Journal’s
-Next America. [http://bit.ly/UDAUpD.](http://bit.ly/UDAUpD)
+**2012** How the U.S. is Still Struggling with Universal Suffrage (September). National Journal Next America. [http://bit.ly/UDAUpD.](http://bit.ly/UDAUpD)
 
-**2012** Educating Tomorrow’s Workforce is Crucial for America’s Prosperity (July). National Journal’s
-Next America. [http://bit.ly/NCHoyf.](http://bit.ly/NCHoyf)
+**2012** Educating Tomorrow’s Workforce is Crucial for America’s Prosperity (July). National Journal Next America. [http://bit.ly/NCHoyf.](http://bit.ly/NCHoyf)
 
 #Survey Datasets
 
-**2014** Leadership Development and Recruitment Study (LDRS). Co-Principal Investigator with
-Paru Shah.
+**2014** Leadership Development and Recruitment Study (LDRS). Co-Principal Investigator with Paru Shah.
 
 #Conference Presentations
 
+**2016** "Public Reactions to Anti-Latino Appeals in the Age of Obama: Race, Illegality and Changing Norms,� WPSA, San Diego, CA
+
 **2015** "The New Race Card: Demographic Change and the Politics of Immigration," APSA, San Francisco, CA. 
 
-**2015** “Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals,”
-MPSA, Chicago, IL.
+**2015** "Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals," MPSA, Chicago, IL.
 
-**2015** “Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals,”
-WPSA, Las Vegas, NV.
+**2015** "Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals," WPSA, Las Vegas, NV.
 
-**2014** “Anti-immigrant Appeals in Senate and Gubernatorial Campaigns,” PRIEC, Albuquerque,
-NM.
+**2014** "Anti-immigrant Appeals in Senate and Gubernatorial Campaigns," PRIEC, Albuquerque, NM.
 
-**2014** “Immigrant Political Ambition: New Americans and the Quest for Political Office” (with
-Paru Shah), WPSA, Seattle, WA.
+**2014** "Immigrant Political Ambition: New Americans and the Quest for Political Office" (with Paru Shah), WPSA, Seattle, WA.
 
-**2013** “Guillermo Horton: When Do Gubernatorial Candidates Go Nativist?” (with Bob Turner),
-State Politics and Policy Conference, Iowa City, Iowa.
+**2013** "Guillermo Horton: When Do Gubernatorial Candidates Go Nativist?" (with Bob Turner), State Politics and Policy Conference, Iowa City, Iowa.
 
 #Research Experience
+
+**2016** Research Assistant, Professor Justin Gest, George Mason University
 
 **2015** Research Fellow, New American Leaders Project, NY
 
 **2015** Research Assistant, Professor Lynn Vavreck, UCLA
-
-**2015** Research Assistant, Professor Justin Gest, George Mason University
 
 **2014 - 2015** Research Assistant, Professor Matt Barreto, University of Washington
 
@@ -148,4 +139,4 @@ Adobe Creative Suites
 Experience with HTML and CSS  
 Proficient in Spanish  
 
-*Updated August 2015*
+*Updated March 2016*
