@@ -104,7 +104,7 @@ Minor, Spanish
 
 #Research Experience
 
-**2016** Research Assistant, Professor Justin Gest, George Mason University
+**2015 - 2016** Research Assistant, Professor Justin Gest, George Mason University
 
 **2015** Research Fellow, New American Leaders Project, NY
 
