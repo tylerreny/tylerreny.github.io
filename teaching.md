@@ -8,7 +8,14 @@ permalink: /teaching/
 </div>  
 [http://xkcd.com/1513/](http://xkcd.com/1513/)
 
-**Resources**
+**R Crash Course**
+
+[Packages Required for Course](https://www.dropbox.com/s/f252ofs5gx7civm/load_packages.R?dl=0)
+
+[Course Markdown File](https://www.dropbox.com/s/86jaadexzgpra42/r_crash_course_master.Rmd?dl=0)
+
+
+**Undergrad Resources**
 
 *Gerrymandering*
 
