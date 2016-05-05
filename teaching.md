@@ -10,10 +10,9 @@ permalink: /teaching/
 
 **R Crash Course**
 
-[Packages Required for Course](https://www.dropbox.com/s/f252ofs5gx7civm/load_packages.R?dl=0)
+[Course Markdown](https://www.dropbox.com/s/ohw82wm2f8emvca/r_crash_course_2_survey_data.Rmd?dl=0)
 
-[Course Markdown File](https://www.dropbox.com/s/zcdyn357ald78j1/load_packages.R?dl=0)
-
+[Packages Required for Course](https://www.dropbox.com/s/zcdyn357ald78j1/load_packages.R?dl=0)
 
 **Undergrad Resources**
 
