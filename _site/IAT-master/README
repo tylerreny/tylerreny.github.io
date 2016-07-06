@@ -1,0 +1,75 @@
+**********************************************************
+* project: Open Source, Web-based IAT
+* authors: Winter Mason (m@winteram.com)
+* 	   Steven Allon 
+* source: https://github.com/winteram/IAT
+**********************************************************
+
+OVERVIEW:
+---------
+
+This is meant to be an easy-to-use implicit association test (see
+Greenwald, McGhee, & Schwartz, 1998) for use by interested
+psychologists. The flow of the test is driven by javascript, and
+participant responses are stored in a comma-delimited text file.  At the
+end of the test, a simple effect size is calculated to determine the
+participant's tendency to find two categories more congruent than the other
+two categories.
+
+To create and modify versions of the IAT, and to make them available to
+participants, the experimenter can direct their browser to the
+"experimenter.php" file.
+
+
+REQUIREMENTS:
+-------------
+
+Server-side: PHP (with permission to write files in directory)
+Client-side: Javascript-enabled web browser
+
+
+USE:
+----
+
+1) copy the folder to a publicly accessible folder on your web server
+
+2) create a new version of the IAT using the experimenter tool (Direct your
+   browser to [yourserver.com]/IAT/experimenter.php)
+
+3) [only necessary if IAT uses images] After creating the template, upload
+   the images to the folder "IAT/[template name]/img"
+
+4) Direct participants to your IAT! (e.g., [yourserver.com]/IAT)
+
+
+OUTPUT:
+-------
+
+The output files are in the "output" folder within the template folder for the active IAT.  
+The columns are as follows:
+
+Trial #
+Round #
+Category Label
+Category Index (which item within the category)
+Errors
+Reaction Time (in milliseconds)
+
+CHANGES IN THIS FORK BY TS:
+---------------------------
+
+The first page is reduced to just the button; the subject ID field is still there but hidden.
+The subject ID is filled from the search property of the location, specified like this:
+http://www.server.com/IAT/index.php?subID=12345
+subID value can be alphanumeric
+subID is case sensitive, ie subid does not work
+if no query is present, or if subID is empty (e.g., ?subID= ), subID defaults to 999+random string
+
+After the final screen, the browser automatically navigates to a new location.
+This new location is specified in a property in the input.txt of your template 
+Note that I did not change the template editor yet, so you have to put this in by hand
+The property to add there is "nextURL":"http://xxx.qualtrics.com/SE/?SID=...&subID="
+The participant ID is then appended to this, so it can be easily used in Qualtrics with an embedded data field called subID
+e.g.: {"name":"shorttest","showResult":"noshow","IATtype":"two","nextURL":"http://oslopsych.qualtrics.com/SE/?SID=SV_5ndq0H0yAzLKYx7&subID=",...
+
+
