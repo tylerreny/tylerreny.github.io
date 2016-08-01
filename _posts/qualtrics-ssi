@@ -1,5 +1,3 @@
-I spent the last three weeks trying to integrate a Qualtrics survey with panel company SSI. It turns out that SSI knows nothing about integrating with Qualtrics. And apparently Qualtrics knows nothing about integrating with SSI. In the interest of creating a guide to refer back to for future projects, and perhaps saving anyone else who wants to do this a lot of time, I am typing up this guide on integrating the two.
-
 Some tips for Qualtrics surveys, more generally. First, when you start coding up the survey, use blocks. Always use blocks. And title the blocks by the type of questions in the block. Any online survey that has screening questions should start with a block of screening questions. My current survey asks for age, education, state of residence, gender, and race. All experiments that need to be randomized will have to go in their own blocks. Sections of questions should go in blocks. It is easier to build the survey from the ground up with appropriate blocks than to move questions into blocks later, so start with this.
 
 *Embedded data*
@@ -8,7 +6,6 @@ Some tips for Qualtrics surveys, more generally. First, when you start coding up
 I am not entirely sure how embedded data works, but the sense I get is that it allows you to interface with the panel company and capture data from each user that is referred to you through the panel. I use two embedded data fields in my survey. The first is placed at the front of the survey and simply captures the user ID from SSI. This is used during testing so that the panel company can test the survey using their bots and then send the testing links over to you to make sure you captured the test runs. The only way to ensure that they worked properly is to capture the unique 'psid' from the panel respondent. The other is at the end of the survey right before the complete redirect link. This embedded datafield simply creates a variable in the dataset called 'complete' that takes on a value of 1 if the respondent triggers the field (aka, finishes the survey) and 0 if they didn't. This allows you to easily see how many completed the survey or not.
 
 To set this up in in Qualtrics, go to edit survey and click on Survey Flow. 
-MORE HERE*** 
 The Survey Flow tab is where all the panel integration action happens, aside from setting quotas. That comes later. 
 
 INSTRUCTIONS
@@ -25,25 +22,25 @@ Quota: http://dkr1.ssisurveys.com/projects/end?rst=2&psid=XXXX
 
 Complete: http://dkr1.ssisurveys.com/projects/end?rst=3&psid=XXXX
 
-Qualtrics has a pretty good tutorial for what you need to do with these links which I'll place HERE. However, I will also explain the logic behind these links. 
+Qualtrics has a pretty good tutorial for what you need to do with these links which I'll place here: https://www.qualtrics.com/support/survey-platform/contacts/panel-company-integration/. However, I will also explain the logic behind these links. 
 
 You need to first create a data field that will capture the user ID from the URL that SSI uses to direct respondents to your survey. The psid=XXXX in the redirect links is where that unique user ID will be placed in the link upon redirect. When SSI sends the above links, copy and paste them in a plain text document and save that somewhere. Then follow the link I posted above to create the unique data field that will capture what you need and paste it where XXXX is in each link. Now save this and close it. You'll refer back to it later.
 
 The terminate link and quota links are basically just safeguards for your survey. The survey company is tasked with ensuring that they recruit the sample you ask them to recruit. However, things go wrong and sometimes you get respondents that you don't want in your sample. To ensure that they cannot complete the survey you want to terminate them during the screening phase. For instance, for my survey I want a nationally representative sample of non-Hispanic white adults. We ask for age and race. If we get someone who is 17 years old, or not non-Hispanic white, we redirect them to the screen out link provided by SSI. 
 
-We also set quotas as safeguards. The survey company will send out invitations to more individuals than you actually need to complete the survey. For example, let's say you need 200 responses from individuals who have a college degree. SSI might invite 300 college educated respondents to complete the survey, knowing that 2/3 of college educated respondents will complete the survey on average. Let's say 250 of the respondents in this sample, however, decide to try and complete the survey, we want to be sure that 200 are recorded and the final 50 are terminated before they can complete it. 
+We also set quotas as safeguards. The survey company will send out invitations to more individuals than you actually need to complete the survey. For example, let's say you need 200 responses from individuals who have a college degree. SSI might invite 300 college educated respondents to complete the survey, knowing that about 2/3 of college educated respondents will complete the survey on average. Let's say 250 of the respondents in this sample, however, decide to try and complete the survey, we want to be sure that 200 are recorded and the final 50 are terminated before they can complete it. 
 
 Finally, the complete link simply redirects those who complete the survey to the appropriate page so that they get recognition from SSI for a complete. 
 
 Setting Screen Out Links
 
-To set screen out links you want to ...
+… more here
 
 Setting Quotas
 
 For these, I recommend first establishing your sample with the survey company and then having them send them the quotas they set to determine price-per-complete for you. They will calculate % of sample that needs to fulfill each critera. For instance, as I mentioned before, I needed an adult non-Hispanic white sample balanced by age, education, gender, and state. You can use these to set your own quotas. 
 
-Once you recieve this...
+Once you receive this...
 
 Complete
 
