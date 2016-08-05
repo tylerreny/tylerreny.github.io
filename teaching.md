@@ -14,6 +14,10 @@ permalink: /teaching/
 
 [Packages Required for Course](https://www.dropbox.com/s/zcdyn357ald78j1/load_packages.R?dl=0)
 
+**Resources**
+
+[Intro to R](http://tryr.codeschool.com/)
+
 [//]: # (**Undergrad Resources**)
 
 [//]: # (*Gerrymandering*)
