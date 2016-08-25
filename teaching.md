@@ -10,13 +10,21 @@ permalink: /teaching/
 
 **R Crash Course**
 
-[R Course Script](https://www.dropbox.com/s/ohw82wm2f8emvca/r_crash_course_2_survey_data.Rmd?dl=0)
+[Try-R (please complete before first class)](http://tryr.codeschool.com/)
 
-[Packages Required for Course](https://www.dropbox.com/s/zcdyn357ald78j1/load_packages.R?dl=0)
+[Day 1: Intro to R](https://www.dropbox.com/s/h98l5lnm4agqm6r/R%20Crash%201-Intro%20to%20R%201.Rmd?dl=0)
+
+[Day 2: Data Munging](https://www.dropbox.com/s/zob1p629l3b9401/R%20Crash%202-Data%20Munging.Rmd?dl=0)
+
+[Day 3: Summarizing Data](https://www.dropbox.com/s/7j3xvqcdyc1dj3f/R%20Crash%203-Summarising%20Data.Rmd?dl=0)
+
+[Day 4: Plotting](https://www.dropbox.com/s/65infkrpx6gz86w/R%20Crash%204-Plotting%20Data.Rmd?dl=0)
+
+[Bonus: Predicted Probabilities](https://www.dropbox.com/s/2iytt2p1p3z20zw/R%20Crash%205-Bonus%20Predicted%20Probabilities.Rmd?dl=0)
+
+
 
 **Resources**
-
-[Intro to R](http://tryr.codeschool.com/)
 
 [//]: # (**Undergrad Resources**)
 
