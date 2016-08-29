@@ -6,7 +6,7 @@ permalink: /research/
 
 # Publications
 
-**``The Negative Effects of Mass Media Stereotypes of Latinos and Immigrants" In \textit{Media and Minorities: Questions on Representation from an International Perspective}. Eds Georg Ruhrmann, Yasemin Shooman, and Peter Widmann. Jewish Museum of Berlin Press**
+**``The Negative Effects of Mass Media Stereotypes of Latinos and Immigrants" In *Media and Minorities: Questions on Representation from an International Perspective*. Eds Georg Ruhrmann, Yasemin Shooman, and Peter Widmann. Jewish Museum of Berlin Press**
 
 In this chapter, we leverage data from  a national survey and an interactive
 online experiment to answer two key questions. First, which stereotypes
