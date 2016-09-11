@@ -1,0 +1,163 @@
+%-*- program: xelatex -*-
+%-*- program: biber -*-
+%-*- program: xelatex -*-
+
+\documentclass[11pt, a4paper]{article}
+\usepackage{fontspec} 
+
+% DOCUMENT LAYOUT
+\usepackage{geometry} 
+\geometry{a4paper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in}
+\setlength\parindent{0in}
+
+% FONTS
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\defaultfontfeatures{Mapping=tex-text}
+%\setromanfont [Ligatures={Common}, Numbers={OldStyle}, Variant=01]{Linux Libertine O}
+%\setmonofont[Scale=0.8]{Monaco}
+%%% modified by Karol Kozioł for ShareLaTeX use
+\setmainfont[
+  Ligatures={Common}, Numbers={OldStyle}, Variant=01,
+  BoldFont=LinLibertine_RB.otf,
+  ItalicFont=LinLibertine_RI.otf,
+  BoldItalicFont=LinLibertine_RBI.otf
+]{LinLibertine_R.otf}
+\setmonofont[Scale=0.8]{DejaVuSansMono.ttf}
+
+% ---- CUSTOM COMMANDS
+\chardef\&="E050
+\newcommand{\html}[1]{\href{#1}{\scriptsize\textsc{[html]}}}
+\newcommand{\pdf}[1]{\href{#1}{\scriptsize\textsc{[pdf]}}}
+\newcommand{\doi}[1]{\href{#1}{\scriptsize\textsc{[doi]}}}
+% ---- MARGIN YEARS
+\usepackage{marginnote}
+\newcommand{\amper{}}{\chardef\amper="E0BD }
+\newcommand{\years}[1]{\marginnote{\scriptsize #1}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{7pt}
+\reversemarginpar
+
+% HEADINGS
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\mdseries\upshape\Large}
+\subsectionfont{\mdseries\scshape\normalsize} 
+\subsubsectionfont{\mdseries\upshape\large} 
+
+% PDF SETUP
+% ---- FILL IN HERE THE DOC TITLE AND AUTHOR
+\usepackage[%dvipdfm, 
+bookmarks, colorlinks, breaklinks, 
+% ---- FILL IN HERE THE TITLE AND AUTHOR
+  pdftitle={tyler_reny_vita},
+  pdfauthor={Tyler T. Reny},
+  pdfproducer={http://nitens.org/taraborelli/cvtex}
+]{hyperref}  
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=MidnightBlue} 
+
+% DOCUMENT
+\begin{document}
+{\LARGE Tyler Reny}\\[1cm]
+ University of California, Los Angeles\\
+ Department of Political Science\\
+ 4289 Bunche Hall\\
+ Los Angeles, CA \texttt{90095}\\
+email: \href{mailto:ttreny@gmail.com}{ttreny@gmail.com}\\
+\textsc{url}: \href{http://www.tylerreny.com}{tylerreny.com}\\ 
+twitter: \href{http://www.twitter.com/tylerreny}{@tylerreny}\\ 
+
+%%\hrule
+\section*{Current position}
+\emph{PhD. Student}, UCLA Department of Political Science
+
+%%\hrule
+\section*{Areas of specialization}
+ American Government • Campaigns and Elections • Racial and Ethnic Politics • Methodology
+
+%\hrule
+\section*{Education}
+\years{2015}\textsc{MA} in Political Science, University of Washington, WA\\
+\years{2011}\textsc{BA} in Government, Skidmore College, NY, \textit{summa cum laude}\\
+Minor, Spanish
+
+%\hrule
+\section*{Grants, honors \& awards}
+\years{2016}APSA Warren E. Miller Fund Research Grant (\$2000)\\
+\years{2015}Department of Political Science Best Graduate Student Paper Award, UW (\$500)\\
+\years{2014}Donald R. Matthews Graduate Fellowship Summer Stipend, University of Washington (\$5,000)\\
+\years{2013}Donald R. Matthews Graduate Fellowship, University of Washington (\$51,000)\\
+\years{2011}\textit{Phi Beta Kappa}\\
+Susan Riley Gunderson '64 Prize for Excellence in the Study of American Government (\$500)\\
+\years{2009}\textit{Pi Sigma Alpha}\\
+Levine Intership Award (\$3,000)\\
+
+\section*{Publications}
+
+\subsection*{Journal articles}
+
+\subsection*{Book Chapters}
+
+\years{2016}Reny, Tyler and Sylvia Manzano. ``The Negative Effects of Mass Media Stereotypes of Latinos and Immigrants" In \textit{Media and Minorities: Questions on Representation from an International Perspective}. Eds Georg Ruhrmann, Yasemin Shooman, and Peter Widmann. Jewish Museum of Berlin Press. \textit{forthcoming}.
+
+\subsection*{In progress}
+\years{}``The New Race Card: Demographic Change and the Politics of Immigration''\\
+\years{}``Public Reactions to Anti-Latino Appeals in the Age of Obama: Race, Illegality and Changing Norms'' (with Loren Collingwood and Ali Valenzuela)\\
+\years{}``Should We Stay or Should We Go? The Impact of Immigrant Campaign Appeals in the `New South'''\\
+\years{}``Immigrant Political Ambition:  New Americans and the Quest for Political Office'' (with Paru Shah) \textit{under review} \\
+
+\subsection*{Informal \& reports}
+
+\years{2014}\textit{Minority Representation Gaps, by the Numbers} (October). Monkey Cage. The Washington Post. \href{http://wapo.st/ZGQntG}{http://wapo.st/ZGQntG}.\\
+\years{2014}\textit{Represent 2020: Toward a Better Vision for Democracy} (September). New American Leaders Project. \href{http://bit.ly/1tLsVcV}{http://bit.ly/1tLsVcV}.\\
+\years{2013}\textit{Run Local: New American Electorate and the 2013 Municiple Elections} (March). New American Leaders Project. \href{http://bit.ly/WKwtGR}{http://bit.ly/WKwtGR}.\\
+\years{2013}\textit{Obama Barely Touched Immigration in His Speech, but That's a Good Thing} (February). National Journal's Next America. \href{http://bit.ly/12R7lVG}{http://bit.ly/WKwtGR}.\\
+\years{2012}\textit{From the Community to the Capitol: Immigrants Flex Political Muscle in the 2012 Congressional Races} (October). New American Leaders Project. \href{http://bit.ly/RLVzVF}{http://bit.ly/RLVzVF}.\\
+\years{2012}\textit{How the U.S. is Still Struggling with Universal Suffrage} (September). National Journal's Next America.  \href{http://bit.ly/UDAUpD}{http://bit.ly/UDAUpD}.\\
+\years{2012}\textit{Educating Tomorrow's Workforce is Crucial for America's Prosperity} (July). National Journal's Next America. \href{http://bit.ly/NCHoyf}{http://bit.ly/NCHoyf}.\\
+
+\subsection*{Survey Datasets}
+\years{2014} Leadership Development and Recruitment Study (LDRS). Co-Principal Investigator with Paru Shah.
+\\
+
+\subsection*{Conference Presentations}
+
+\years{2016}``Public Reactions to Anti-Latino Appeals in the Age of Obama: Race, Illegality and Changing Norms,'' WPSA, San Diego, CA.\\
+\years{2015}``Contemporary Racial Appeals: Anti-Latino Campaign Advertising in the Age of Obama,'' PRIEC, Riverside, CA.\\
+\years{2015}``The New Race Card: Demographic Change and the Politics of Immigration,'' APSA, San Francisco, CA.\\
+\years{2015}``Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals,'' MPSA, Chicago, IL.\\
+\years{2015}``Mobilizing Immigration Attitudes: Context, Competition, and Contemporary Racial Appeals,'' WPSA, Las Vegas, NV.\\
+\years{2014}``Anti-immigrant Appeals in Senate and Gubernatorial Campaigns'', PRIEC, Albuquerque, NM.\\
+\years{2014}``Immigrant Political Ambition:  New Americans and the Quest for Political Office'' (with Paru Shah), WPSA, Seattle, WA.\\
+\years{2013}``Guillermo Horton: When Do Gubernatorial Candidates Go Nativist?'' (with Bob Turner), State Politics and Policy Conference, Iowa City, Iowa.\\
+
+\section*{Research Experience}
+\years{2016}Research Assistant, Assistant Professor Justin Gest, George Mason University\\
+\years{2015}Research Fellow, New American Leaders Project, NY\\
+\years{2015}Research Assistant, Professor Lynn Vavreck, UCLA\\
+\years{2014}Research Assistant, Professor Matt Barreto, University of Washington\\
+\years{2014}Research Consultant, New American Leaders Project, NY\\
+\years{2011-2013}Program and Research Associate, New American Leaders Project, NY\\
+\years{2011}Research Assistant for Associate Professor David Karp, Skidmore College, NY\\
+\years{2011}Research Assistant for Dr. Tom Gais, Rockefeller Institute, NY\\
+\years{2009-2011}Research Assistant for Associate Professor Bob Turner and Assistant Professor Patricia Ferraioli, Skidmore College, NY\\
+\years{2011}Research Intern for Senator Olympia Snowe (ME), Washington, D.C.\\
+
+\section*{Teaching Experience}
+\years{2015} TA: Introduction to American Politics. Professor Mark Smith.\\
+\years{2015} TA: Introduction to American Politics. Professor Megan Frances.\\
+\years{2014} TA: Introduction to American Politics. Professor Becca Thorpe.
+
+
+\section*{Skills}
+
+GIS, SPSS, STATA, R, Python, \LaTeX, SQLite\\
+Adobe Creative Suites\\
+Experience with HTML and CSS\\
+Proficient in Spanish\\
+\\
+\\
+Updated March 2016
+
+\end{document}
