@@ -31,7 +31,7 @@ Before you show up to the first course, please download R and R-Studio ([here](h
 
 **R Resources**
 
-A lot of the R Course material was borrowed and adapted from Kathy Bryant's excellent [UBC Stat 545 course](http://stat545.com/faq.html). She goes much further in depth on all topics than I do. I strongly recommend referring back to this site as needed.
+A lot of the R Course material was borrowed and adapted from Jenny Bryan's excellent [UBC Stat 545 course](http://stat545.com/faq.html). She goes much further in depth on all topics than I do. I strongly recommend referring back to this site as needed.
 
 There are a number of very useful [*cheatsheets*](https://www.rstudio.com/resources/cheatsheets/) produced by the folks over at R-Studio that I refer to often.
 
