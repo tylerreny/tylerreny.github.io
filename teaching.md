@@ -19,6 +19,13 @@ This is a beginners R course for incoming graduate students in political science
 
 Before you show up to the first course, please download R and R-Studio ([here](http://stat545.com/block000_r-rstudio-install.html) is a tutorial if you get stuck) and complete this [Try-R](http://tryr.codeschool.com/) short course that will introduce you to the very basics of R. I assume you will have a very basic understanding of R by Day 1 below. If you have any issues with the install process, please reach out to me before the course starts!
 
+I would like everyone to complete this pre-session worksheet before the course begins to make sure we are all on the same page with the basics. If you do the Try-R course above, this should be very simple to complete. Please complete it, knit to PDF, and email to me before the sessions begin. 
+
+[Pre-Session Worksheet](https://www.dropbox.com/s/j9p9y2h1czychs4/
+intro_worksheet.Rmd?dl=0)
+
+# Crash Course Files
+
 [Day 1: Intro to R](https://www.dropbox.com/s/h98l5lnm4agqm6r/R%20Crash%201-Intro%20to%20R%201.Rmd?dl=0)
 
 [Day 2: Data Munging](https://www.dropbox.com/s/zob1p629l3b9401/R%20Crash%202-Data%20Munging.Rmd?dl=0)
