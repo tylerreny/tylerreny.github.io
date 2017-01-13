@@ -44,6 +44,7 @@ There are a number of very useful [*cheatsheets*](https://www.rstudio.com/resour
 
 I have also recently come across [Software Carpentry's lessons](http://software-carpentry.org/lessons/), several of which address programming with R. They look pretty good. If you check them out let me know what you think.
 
+Text Mining with R [[Site]](http://tidytextmining.com/)
 
 [//]: # (**Undergrad Resources**)
 
