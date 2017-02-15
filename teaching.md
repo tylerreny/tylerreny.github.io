@@ -26,15 +26,23 @@ intro_worksheet.Rmd?dl=0)
 
 # Crash Course Files
 
-[Day 1: Intro to R](https://www.dropbox.com/s/h98l5lnm4agqm6r/R%20Crash%201-Intro%20to%20R%201.Rmd?dl=0)
+[1: Intro to R](https://www.dropbox.com/s/h98l5lnm4agqm6r/R%20Crash%201-Intro%20to%20R%201.Rmd?dl=0)
 
-[Day 2: Data Munging](https://www.dropbox.com/s/zob1p629l3b9401/R%20Crash%202-Data%20Munging.Rmd?dl=0)
+[2: Data Munging](https://www.dropbox.com/s/zob1p629l3b9401/R%20Crash%202-Data%20Munging.Rmd?dl=0)
 
-[Day 3: Summarizing Data](https://www.dropbox.com/s/7j3xvqcdyc1dj3f/R%20Crash%203-Summarising%20Data.Rmd?dl=0)
+[3: Summarizing Data](https://www.dropbox.com/s/7j3xvqcdyc1dj3f/R%20Crash%203-Summarising%20Data.Rmd?dl=0)
 
-[Day 4: Plotting](https://www.dropbox.com/s/65infkrpx6gz86w/R%20Crash%204-Plotting%20Data.Rmd?dl=0)
+[4: Functions, Loops, and Apply](https://www.dropbox.com/s/na726gge3ut9sfo/R%20Crash%204-%20Functions%20and%20Loops.Rmd?dl=0)
 
-[Bonus: Predicted Probabilities](https://www.dropbox.com/s/2iytt2p1p3z20zw/R%20Crash%205-Bonus%20Predicted%20Probabilities.Rmd?dl=0)
+[5: Plotting](https://www.dropbox.com/s/65infkrpx6gz86w/R%20Crash%204-Plotting%20Data.Rmd?dl=0)
+
+[6: Predicted Probabilities](https://www.dropbox.com/s/2iytt2p1p3z20zw/R%20Crash%205-Bonus%20Predicted%20Probabilities.Rmd?dl=0)
+
+7: Merging Datasets (to come)
+
+8: Text Data (to come)
+
+9: Basic Mapping (to come)
 
 **R Resources**
 
