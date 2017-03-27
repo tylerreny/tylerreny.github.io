@@ -32,9 +32,9 @@ intro_worksheet.Rmd?dl=0)
 
 [3: Summarizing Data](https://www.dropbox.com/s/7j3xvqcdyc1dj3f/R%20Crash%203-Summarising%20Data.Rmd?dl=0)
 
-[4: Functions, Loops, and Apply](https://www.dropbox.com/s/na726gge3ut9sfo/R%20Crash%204-%20Functions%20and%20Loops.Rmd?dl=0)
+[4: Plotting](https://www.dropbox.com/s/65infkrpx6gz86w/R%20Crash%204-Plotting%20Data.Rmd?dl=0)
 
-[5: Plotting](https://www.dropbox.com/s/65infkrpx6gz86w/R%20Crash%204-Plotting%20Data.Rmd?dl=0)
+[5: Functions, Loops, and Apply](https://www.dropbox.com/s/na726gge3ut9sfo/R%20Crash%204-%20Functions%20and%20Loops.Rmd?dl=0)
 
 [6: Predicted Probabilities](https://www.dropbox.com/s/2iytt2p1p3z20zw/R%20Crash%205-Bonus%20Predicted%20Probabilities.Rmd?dl=0)
 
