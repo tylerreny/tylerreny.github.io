@@ -5,8 +5,6 @@ permalink: /teaching/
 ---
 # GRADUATE
 
-**R Crash Course**
-
 <div>
 <a href="http://xkcd.com/1513/">
 <img src="/img/code_quality.png" align="left" padding="10px" />
@@ -14,8 +12,9 @@ permalink: /teaching/
 </div>  
 <small style="color:grey">Source: XKCD</small>
 
+# Intro to R
 
-This is a beginners R course for incoming graduate students in political science at UCLA. The purpose of this course is to starting thinking about functional programming and data analysis in a systematic way using the latest in R packages (dplyr, ggplot2, etc) to clean, analyze, and visualize real data. By the end of the course, students should have an understanding of object oriented languages, work flow, reproducibility, data munging, summarizing data, and visualizing data. Each of the four courses should take about 2 hours to complete. 
+This is a beginners R course for incoming graduate students in political science at UCLA. The purpose of this course is to starting thinking about functional programming and data analysis in a systematic way using both base R and Tidyverse packages (dplyr, ggplot2, etc) to clean, analyze, and visualize real data. By the end of the course, students should have an understanding of object oriented languages, work flow, reproducibility, data munging, summarizing data, and visualizing data. Each of the lessons will take about 2 hours to complete. 
 
 Before you show up to the first course, please download R and R-Studio ([here](http://stat545.com/block000_r-rstudio-install.html) is a tutorial if you get stuck) and complete this [Try-R](http://tryr.codeschool.com/) short course that will introduce you to the very basics of R. I assume you will have a very basic understanding of R by Day 1 below. If you have any issues with the install process, please reach out to me before the course starts!
 
@@ -23,8 +22,6 @@ I would like everyone to complete this pre-session worksheet before the course b
 
 [Pre-Session Worksheet](https://www.dropbox.com/s/j9p9y2h1czychs4/
 intro_worksheet.Rmd?dl=0)
-
-# Crash Course Files
 
 [1: Intro to R](https://www.dropbox.com/s/h98l5lnm4agqm6r/R%20Crash%201-Intro%20to%20R%201.Rmd?dl=0)
 
@@ -34,15 +31,37 @@ intro_worksheet.Rmd?dl=0)
 
 [4: Plotting](https://www.dropbox.com/s/65infkrpx6gz86w/R%20Crash%204-Plotting%20Data.Rmd?dl=0)
 
-[5: Functions, Loops, and Apply](https://www.dropbox.com/s/na726gge3ut9sfo/R%20Crash%204-%20Functions%20and%20Loops.Rmd?dl=0)
+# 200D R Bootcamp
 
-[6: Predicted Probabilities](https://www.dropbox.com/s/2iytt2p1p3z20zw/R%20Crash%205-Bonus%20Predicted%20Probabilities.Rmd?dl=0)
+This is an R course that builds off of the previous Intro to R lessons and is particularly designed to prepare graduate students for UCLA's 200D course on causal inference with Chad Hazlett. I recommend downloading the entire course at once, which is a zipped file of the lessons, worksheet, and data:
 
-7: Merging Datasets (to come)
+[Download the whole course here](https://www.dropbox.com/sh/55b2k00kbpkyc1c/AACj3DmqYLwAnYRsi760YoEea?dl=0)
 
-8: Text Data (to come)
+Or you can download individual files here:
 
-9: Basic Mapping (to come)
+[1: Reading and Writing Data](https://www.dropbox.com/s/yuke9jqvp6w1akf/200D%20R%20Crash%20Day%201%20Lesson%201-Reading%20and%20Writing%20Data.Rmd?dl=0)
+
+[2: R Markdown](/Users/treny/Dropbox/_projects/r_crash_course_2016/r_bootcamp_200D/200D R Crash Day 1 Lesson 2-R Markdown.Rmd)
+
+[3: Assessing Balance](/Users/treny/Dropbox/_projects/r_crash_course_2016/r_bootcamp_200D/200D R Crash Day 1 Lesson 3-Assessing Balance.Rmd)
+
+[4: Regression Basics](/Users/treny/Dropbox/_projects/r_crash_course_2016/r_bootcamp_200D/200D R Crash Day 2 Lesson 1-Regression Basics.Rmd)
+
+[5: Loops, Functions, and Apply](/Users/treny/Dropbox/_projects/r_crash_course_2016/r_bootcamp_200D/200D R Crash Day 2 Lesson 2-Loops, Functions, Apply.Rmd)
+
+[Worksheets](https://www.dropbox.com/s/d6s5nb17m9ovp18/200D%20Worksheets.docx?dl=0)
+
+[Data](https://www.dropbox.com/sh/60bacpyg5vcz4l8/AACjMZ2Oe-boAah4tfPzHcv6a?dl=0)
+
+# Other (to come)
+
+Predicted Probabilities 
+
+Merging Datasets 
+
+Text Data 
+
+Basic Mapping 
 
 **R Resources**
 
