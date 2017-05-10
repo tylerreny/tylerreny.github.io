@@ -39,7 +39,7 @@ Conclusions: We find that the traditional barriers to office---lack of professio
 
 **El peso del voto Latino en 2016** (with Sergio I. Garcia-Rios, Angela X. Ocampo, and Bryan Wilcox-Archuleta) *Foreign Affairs Latinoamerica* Volumen 17, Numero 1. 
 
-In this article we use precinct level election and demographic data to estimate Latino 2016 presidential general election votes in Arizona, Florida, North Carolina, and Texas. We find that Trump won an estimated 16% of the Latino vote, a historic low and well below Exit Poll estimates. [[PDF]](http://revistafal.com/fal-17-1/)
+In this article we use precinct level election and demographic data to estimate Latino 2016 presidential general election votes in Arizona, Florida, North Carolina, and Texas. We find that Trump won an estimated 16% of the Latino vote, a historic low and well below Exit Poll estimates. [[PDF]](https://media.wix.com/ugd/07c246_74b2c2e48a1c4486b83bd7fd908b1625.pdf)
 
 # Working Papers
 
