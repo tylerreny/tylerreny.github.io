@@ -43,9 +43,15 @@ In this article we use precinct level election and demographic data to estimate 
 
 # Working Papers
 
-**Public Reactions to Anti-Latino Appeals in the Age of Obama: Race, Illegality and Changing Norms* (with Loren Collingwood and Ali Valenzuela)**
+**Public Reactions to Anti-Latino Appeals in the Age of Obama: Race, Illegality and Changing Norms** (with Loren Collingwood and Ali Valenzuela)
 
 While prior work shows diminished effects of implicit racial appeals in the face of explicit discussion of their racial content, more recent work has cast doubt on their durability, suggesting a shift in political norms around the use of these appeals. Existing scholarship has not examined whether similar constraints or leeway exist for anti-immigrant and anti-Latino appeals. We address this gap by testing the effects of anti-black, anti-immigrant and anti-Latino appeals among whites in 2015 and 2016. We argue that the chronic accessibility of race and immigration in the current political climate leads respondents to perceive even implicit anti-black and anti-immigrant appeals as racially insensitive. However, because of an apparent weakening of anti-discriminatory norms against groups perceived to violate American values, exposing the racial content of these appeals will have no impact. Implicit anti-Latino appeals, however, provide no legitimated basis for discrimination and will incur an electoral penalty when made explicit. Across four studies, we find support for our claims.
+
+**Flipping for Trump: Immigration, Not Economics, Explains White Working Class Vote Switching in 2016** (with Loren Collingwood and Ali Valenzuela)
+
+The voting habits of the white working class (WWC) received a great deal of attention in the aftermath of the 2016 election. One untested proposition is that Trump's unorthodox candidacy flipped enough WWC Democrats to propel his electoral college victory. Theories of racial realignment, however, suggest party coalitions established in the 1960s and cemented during Obama's presidency make vote switching exceedingly rare. Theories of partisan sorting and racial backlash, by contrast, point to polarization over demographic change and Trump's anti-immigrant appeals as catalysts for further reshuffling among conservative white Democrats. More sanguine interpretations argue economic dislocation and marginality were the main source of any vote switching from 2012 (Obama) to 2016 (Trump). We test these competing expectations and find clear evidence for immigrant backlash explanations, with WWC Democrats and Independents who hold negative immigrant attitudes, and who live in high Latino-growth counties, demonstrating the greatest propensity of flipping for Trump.
+
+**Right to Discriminate: Proposition 14, The Black Migration, and Racial Threat in the 1964 California Election** (with Ben Newman)
 
 **Selective Norm Enforcement and Prejudice** (with Ben Newman and Sono Shah)
 
