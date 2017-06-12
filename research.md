@@ -51,18 +51,19 @@ While prior work shows diminished effects of implicit racial appeals in the face
 
 The voting habits of the white working class (WWC) received a great deal of attention in the aftermath of the 2016 election. One untested proposition is that Trump's unorthodox candidacy flipped enough WWC Democrats to propel his electoral college victory. Theories of racial realignment, however, suggest party coalitions established in the 1960s and cemented during Obama's presidency make vote switching exceedingly rare. Theories of partisan sorting and racial backlash, by contrast, point to polarization over demographic change and Trump's anti-immigrant appeals as catalysts for further reshuffling among conservative white Democrats. More sanguine interpretations argue economic dislocation and marginality were the main source of any vote switching from 2012 (Obama) to 2016 (Trump). We test these competing expectations and find clear evidence for immigrant backlash explanations, with WWC Democrats and Independents who hold negative immigrant attitudes, and who live in high Latino-growth counties, demonstrating the greatest propensity of flipping for Trump.
 
+**First Contact: Impact of Refugee Influx on Voting in the US** (with Bryan Wilcox)
+
+As unrest across the globe continues to forcibly displace tens of millions of people, politicians in Western Europe and the United States continue to debate the merits and risks of accepting and resettling refugees within their borders. Much like in Europe, anti-refugee fervor became a central component of the 2016 election cycle. While there is little doubt that anti-refugee attitudes played an important role in moderating support for Trump, little is known about the actual impact of refugee resettlement on the political behaviors of native-born Americans. Does the influx of refugees into a community in the US trigger racial threat and increase voting for Republican candidates? Or does exposure to refugees actually decrease threat by upending stereotypes and abstract fear? We collect a unique dataset of nearly two decades of refugee resettlement in the United States, historic election data, census demographics and economic indicators. Using synthetic control methods we estimate the impact of refugee resettlement on presidential vote totals at the county level. Contrary to expectations, when we average across localities and elections we find a 5 percentage point drop in voting for the Republicans presidential candidate. Implications are discussed.
+
 **Right to Discriminate: Proposition 14, The Black Migration, and Racial Threat in the 1964 California Election** (with Ben Newman)
+
+In this project we leverage the black migration into California to analyze the association between residential proximity to rapidly growing black communities in the 1960s and voting for Proposition 14, a racialized ballot proposition that gave landlords and homeowners the right to discriminate based on race.
 
 **Selective Norm Enforcement and Prejudice** (with Ben Newman and Sono Shah)
 
-**Refugee Resettlement and Voting: Exogenous Demographic Shifts and Racial Threat** (with Bryan Wilcox)
+Prejudice has been defined as negative feelings or antipathy, usually directed towards a group or individual of a group, that is based on faulty generalizations or stereotypes (Allport, 1954). Indeed, nearly a century of research in social psychology, political psychology, and political science has relied on some variation of this definition (Kinder, 2013). We argue that scholars have overlooked another subtle form of prejudice that we call differential norm rigor---a set of standards and intolerance of norm violating behavior that varies as a function of the group an individual belongs to. History has shown that whites have often held blacks to higher standards of behavior and presentation than their white counterparts and punished them more harshly for violating norms. We suggest that similar patterns hold for multiple out-groups in society. Using a survey experiment, we plan to test the extent to which respondents set different standards for different groups (African Americans, Mexican immigrants, Canadian immigrants, themselves, and Americans) and differentially punish them for violation of norms. Norms of interest include language use (speaking proper English), civic behavior (volunteering, donating money, attending church), behavioral self-control (controlling temper, refraining from drinking to excess or drug use, dressing in properly fitting clothing), courtesy and deference behavior, work habits and productivity (work hard, do not expect handouts), and child rearing (teach children to respect elders). We expect that respondents will hold African Americans and Mexican immigrants to higher standards than Canadian immigrants, themselves, and Americans, writ large.
 
 **Refugees and Residential Context: Exploring the Mechanisms of Racial Threat** (with Justin Gest)
-
-
-
-
-
 
  
 
