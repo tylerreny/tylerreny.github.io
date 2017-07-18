@@ -1,0 +1,1 @@
+The attached replication file includes an R script that will reproduce all the figures and tables in the article: `replication_file_CPS_nostalgic_deprivation.R` and the variables from the two datasets used in the study in two csv files: `replication_data_us.csv` and `replication_data_uk.csv`. If you have any questions please contact Tyler Reny at ttreny@gmail.com. 
