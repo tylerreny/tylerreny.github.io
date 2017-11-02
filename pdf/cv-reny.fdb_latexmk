@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1506716314 "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.tex" "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.pdf" "cv-reny" 1506716317
-  "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.aux" 1506716316 3532 a70d3148b74e41debc509fd82b5e26ad ""
-  "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.tex" 1506716309 12173 df98544341be9adea3754fe11378c722 ""
+["pdflatex"] 1509644745 "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.tex" "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.pdf" "cv-reny" 1509645546
+  "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.aux" 1509644747 3532 a70d3148b74e41debc509fd82b5e26ad ""
+  "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.tex" 1509645543 12304 db1581a596c147c50ff0bc3b7785cba6 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -90,13 +90,13 @@
   "/usr/local/texlive/2013/texmf-dist/web2c/texmf.cnf" 1366045088 31707 0953c15448e216a6585e92ee639d2dc2 ""
   "/usr/local/texlive/2013/texmf-var/web2c/xetex/xelatex.fmt" 1369923297 3164676 5cc58b946cc3cf2366970309b0c00e97 ""
   "/usr/local/texlive/2013/texmf.cnf" 1369923207 577 cbc827f6294276973a1952e86e8ad73a ""
-  "cv-reny.aux" 1506716316 3532 a70d3148b74e41debc509fd82b5e26ad ""
-  "cv-reny.out" 1506716316 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "cv-reny.tex" 1506716309 12173 df98544341be9adea3754fe11378c722 ""
+  "cv-reny.aux" 1509644747 3532 a70d3148b74e41debc509fd82b5e26ad ""
+  "cv-reny.out" 1509644747 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "cv-reny.tex" 1509645543 12304 db1581a596c147c50ff0bc3b7785cba6 ""
   (generated)
   "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.log"
   "cv-reny.pdf"
   "/Users/treny/gitsite/tylerreny.github.io/pdf/cv-reny.pdf"
   "cv-reny.aux"
-  "cv-reny.log"
   "cv-reny.out"
+  "cv-reny.log"
