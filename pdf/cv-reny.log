@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  4 JAN 2018 12:43
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  13 JAN 2018 13:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1277,6 +1277,13 @@ Package marginnote Info: right page because not two side mode on input line 206
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 206.
+
+Overfull \hbox (2.63536pt too wide) in paragraph at lines 210--211
+\EU1/LinLibertine_R.otf(0)/m/n/10.95 Reviewer for \EU1/LinLibertine_R.otf(0)/m/
+it/10.95 Political Science Quarterly, American Politics Research, Political Beh
+avior, Trans-
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 214--221
 
