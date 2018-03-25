@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  1 MAR 2018 16:34
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  25 MAR 2018 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1241,7 +1241,7 @@ Package marginnote Info: right page because not two side mode on input line 184
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 184.
-Package marginnote Info: Margin note 3.18 is on absolute page 3
+Package marginnote Info: Margin note 3.18 is on absolute page 4
 (marginnote)              on input line 185.
 Package marginnote Info: right page because not two side mode on input line 185
 .
