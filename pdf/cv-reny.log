@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  6 JUL 2018 10:03
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  9 JUL 2018 07:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,113 +1114,119 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--151
 
 [2]
 Package marginnote Info: Margin note 3.1 is on absolute page 3
+(marginnote)              on input line 158.
+Package marginnote Info: right page because not two side mode on input line 158
+.
+Package marginnote Info: xpos seems to be 100.01144pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 158.
+Package marginnote Info: Margin note 3.2 is on absolute page 3
 (marginnote)              on input line 159.
 Package marginnote Info: right page because not two side mode on input line 159
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 159.
-Package marginnote Info: Margin note 3.2 is on absolute page 3
+Package marginnote Info: Margin note 3.3 is on absolute page 3
 (marginnote)              on input line 165.
 Package marginnote Info: right page because not two side mode on input line 165
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 165.
-Package marginnote Info: Margin note 3.3 is on absolute page 3
+Package marginnote Info: Margin note 3.4 is on absolute page 3
 (marginnote)              on input line 166.
 Package marginnote Info: right page because not two side mode on input line 166
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 166.
-Package marginnote Info: Margin note 3.4 is on absolute page 3
+Package marginnote Info: Margin note 3.5 is on absolute page 3
 (marginnote)              on input line 167.
 Package marginnote Info: right page because not two side mode on input line 167
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 167.
-Package marginnote Info: Margin note 3.5 is on absolute page 3
+Package marginnote Info: Margin note 3.6 is on absolute page 3
 (marginnote)              on input line 168.
 Package marginnote Info: right page because not two side mode on input line 168
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 168.
-Package marginnote Info: Margin note 3.6 is on absolute page 3
+Package marginnote Info: Margin note 3.7 is on absolute page 3
 (marginnote)              on input line 169.
 Package marginnote Info: right page because not two side mode on input line 169
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 169.
-Package marginnote Info: Margin note 3.7 is on absolute page 3
+Package marginnote Info: Margin note 3.8 is on absolute page 3
 (marginnote)              on input line 170.
 Package marginnote Info: right page because not two side mode on input line 170
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 170.
-Package marginnote Info: Margin note 3.8 is on absolute page 3
+Package marginnote Info: Margin note 3.9 is on absolute page 3
 (marginnote)              on input line 171.
 Package marginnote Info: right page because not two side mode on input line 171
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 171.
-Package marginnote Info: Margin note 3.9 is on absolute page 3
+Package marginnote Info: Margin note 3.10 is on absolute page 3
 (marginnote)              on input line 172.
 Package marginnote Info: right page because not two side mode on input line 172
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 172.
-Package marginnote Info: Margin note 3.10 is on absolute page 3
+Package marginnote Info: Margin note 3.11 is on absolute page 3
 (marginnote)              on input line 173.
 Package marginnote Info: right page because not two side mode on input line 173
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 173.
-Package marginnote Info: Margin note 3.11 is on absolute page 3
+Package marginnote Info: Margin note 3.12 is on absolute page 3
 (marginnote)              on input line 174.
 Package marginnote Info: right page because not two side mode on input line 174
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 174.
 
-Overfull \hbox (47.15071pt too wide) in paragraph at lines 159--175
+Overfull \hbox (47.15071pt too wide) in paragraph at lines 158--175
 \TU/LinLibertine_R.otf(0)/m/n/10.95 pense with that exit-poll-based fiction.” (
 January). The New York Daily News. [][]http://nydn.us/2jtowIr[][]. 
  []
 
 
-Overfull \hbox (63.6597pt too wide) in paragraph at lines 159--175
+Overfull \hbox (63.6597pt too wide) in paragraph at lines 158--175
 |[]\TU/LinLibertine_R.otf(0)/m/n/10.95 “Trump fared worse than Romney in Florid
 a Hispanic vote.” (December). The Hill. [][]http://bit.ly/2gNFKOz[][]. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--175
+Underfull \hbox (badness 10000) in paragraph at lines 158--175
 
  []
 
-Package marginnote Info: Margin note 3.12 is on absolute page 3
+Package marginnote Info: Margin note 3.13 is on absolute page 3
 (marginnote)              on input line 182.
 Package marginnote Info: right page because not two side mode on input line 182
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 182.
-Package marginnote Info: Margin note 3.13 is on absolute page 3
+Package marginnote Info: Margin note 3.14 is on absolute page 4
 (marginnote)              on input line 183.
 Package marginnote Info: right page because not two side mode on input line 183
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 183.
-Package marginnote Info: Margin note 3.14 is on absolute page 3
+Package marginnote Info: Margin note 3.15 is on absolute page 4
 (marginnote)              on input line 184.
 Package marginnote Info: right page because not two side mode on input line 184
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 184.
-Package marginnote Info: Margin note 3.15 is on absolute page 4
+Package marginnote Info: Margin note 3.16 is on absolute page 4
 (marginnote)              on input line 185.
 Package marginnote Info: right page because not two side mode on input line 185
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 185.
-Package marginnote Info: Margin note 3.16 is on absolute page 4
+Package marginnote Info: Margin note 3.17 is on absolute page 4
 (marginnote)              on input line 186.
 Package marginnote Info: right page because not two side mode on input line 186
 .
@@ -1359,12 +1365,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 234.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
  ) 
 Here is how much of TeX's memory you used:
- 21300 strings out of 493005
- 387930 string characters out of 6134596
- 460483 words of memory out of 5000000
- 25151 multiletter control sequences out of 15000+600000
+ 21301 strings out of 493005
+ 387942 string characters out of 6134596
+ 460499 words of memory out of 5000000
+ 25152 multiletter control sequences out of 15000+600000
  7534 words of font info for 47 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  43i,9n,84p,10347b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv-reny.xdv (5 pages, 85924 bytes).
+Output written on cv-reny.xdv (5 pages, 87048 bytes).
