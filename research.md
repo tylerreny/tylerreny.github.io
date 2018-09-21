@@ -44,23 +44,27 @@ In this chapter, we leverage data from a national survey and an interactive onli
 
 In this article we use precinct level election and demographic data to estimate Latino 2016 presidential general election votes in Arizona, Florida, North Carolina, and Texas. We find that Trump won an estimated 16% of the Latino vote, a historic low and well below Exit Poll estimates. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_et_al_2017_foreign_affairs.pdf)
 
-# Working Papers
+# Under Review
 
 **No, You're Playing the Race Card: Anti-Black and Anti-Latino Appeals in The Post-Obama Era** (with Loren Collingwood and Ali Valenzuela) *Under review*
 
 Despite the sizable literature on racial priming in political campaigns, scholars have failed to account for the shifting reality of race in politics. First, theories of racial priming have not yet been applied to increasingly common anti-Latino political appeals. Second, theories of racial priming have failed to take into account the increasing salience of race and the increased tolerance of explicit racial appeals among white Americans, both of which violate central axioms of the Implicit-Explicit (IE) model of racial appeals. Across four survey experiments, we find consistent evidence that the IE model only weakly holds for black and Latino racial appeals. In our "most-racial" era, we find that white respondents are more likely to recognize the racial content in racially coded black and Latino appeals but also tolerate it at higher levels than previously seen.
 
-**Hands Off My Obamacare: Self-Interest and Symbolic Attitudes in The Health Care Debate** (with David O. Sears)
-
-Republicans voted more than 60 times to dismantle the Affordable Care Act during Barack Obama's presidency. Despite these vibrant displays of political signaling, Republicans failed to shepherd through repeal-and-replace legislation during the summer of 2017, despite their new-found unified control of the federal government. Journalists have attributed this failure primarily to the fact that more than 22 million Americans gained coverage under the law, and many would lose coverage under the Republican legislation.  The implication of their argument is that intense public opposition would be stimulated among those who would lose their insurance. Social scientists, however, have consistently shown that self-interest rarely has an effect on the ordinary citizen's sociopolitical attitudes. In this paper we use data from Kaiser's monthly health tracking poll and eleven years of Gallup daily tracking poll data to show how symoblic attitudes overwhelm self-interest in shaping attitudes towards the ACA and enrollment in state exchanges.
+# Working Papers
 
 **How In-Group Elite Rhetoric Shapes Mass Immigration Attitudes** (with Justin Gest)
 
 What role do elites play in shaping attitudes on immigration? Existing literature suggests that most policy attitudes are heavily influences by elites. It is less clear the power of elite rhetoric for issues that are highly contentious and rooted in group-based antagonisms. Drawing from resesarch on persuasion, we design and field a well-powered large survey experiment with white Republicans (n=10,000) to test the power of counter-stereotypical pro-immigration messages from trusted in-group elites to move respondents' attitudes and behavior regarding immigrants and immigration. In doing so, we explore the characteristics of both elites and respondents that facilitate attitude change.
 
+**Hands Off My Obamacare: Self-Interest and Symbolic Attitudes in The Health Care Debate** (with David O. Sears)
+
+Republicans voted more than 60 times to dismantle the Affordable Care Act during Barack Obama's presidency. Despite these vibrant displays of political signaling, Republicans failed to shepherd through repeal-and-replace legislation during the summer of 2017, despite their new-found unified control of the federal government. Journalists have attributed this failure primarily to the fact that more than 22 million Americans gained coverage under the law, and many would lose coverage under the Republican legislation.  The implication of their argument is that intense public opposition would be stimulated among those who would lose their insurance. Social scientists, however, have consistently shown that self-interest rarely has an effect on the ordinary citizen's sociopolitical attitudes. In this paper we use data from Kaiser's monthly health tracking poll and eleven years of Gallup daily tracking poll data to show how symoblic attitudes overwhelm self-interest in shaping attitudes towards the ACA and enrollment in state exchanges.
+
 **Racial Attitudes in Post-Obamacare Health Coverage** (with Michael Tesler)
 
 During Obama's presidency, racial attitudes became not just strong predictors of attitudes towards health care but of obtaining coverage under the ACA. Emerging evidence from Trump presidency suggest that health care is becoming deracialized, however, as racial conservatism becomes a weaker predictor of support for repeal and of coverage under federal and state exchanges. This evidence suggests that racial conservatism is strongly related to not just attitudes but to behaviors as well, even those with potentially serious health consequences.
+
+# Inactive
 
 **First Contact: Impact of Refugee Influx on Voting in the US** (with Bryan Wilcox)
 
@@ -70,11 +74,7 @@ As unrest across the globe continues to forcibly displace tens of millions of pe
 
 Prejudice has been defined as negative feelings or antipathy, usually directed towards a group or individual of a group, that is based on faulty generalizations or stereotypes (Allport, 1954). Indeed, nearly a century of research in social psychology, political psychology, and political science has relied on some variation of this definition (Kinder, 2013). We argue that scholars have overlooked another subtle form of prejudice that we call differential norm rigor---a set of standards and intolerance of norm violating behavior that varies as a function of the group an individual belongs to. History has shown that whites have often held blacks to higher standards of behavior and presentation than their white counterparts and punished them more harshly for violating norms. We suggest that similar patterns hold for multiple out-groups in society. Using a survey experiment, we test the extent to which respondents set different standards for different groups (African Americans, Mexican immigrants, Canadian immigrants, Americans, and themselves) and differentially punish them for violation of norms. Norms of interest include language use (speaking proper English), civic behavior (volunteering, donating money, attending church), behavioral self-control (controlling temper, refraining from drinking to excess or drug use, dressing in properly fitting clothing), courtesy and deference behavior, work habits and productivity (work hard, do not expect handouts), and child rearing (teach children to respect elders). We expect that respondents will hold African Americans and Mexican immigrants to higher standards than Canadian immigrants, themselves, and Americans, writ large.
 
-# Inactive
-
 **Refugees and Residential Context: Exploring the Mechanisms of Racial Threat** (with Justin Gest)
-
-
 
 
 

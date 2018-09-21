@@ -94,24 +94,19 @@ This is a beginners R course for graduate students about to start POLS 200B at U
 
 [//]: # (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Senate and House Polarization](https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/wonkblog/files/2013/01/overall_polarization_112th1.jpg&w=1484))
 
-
-
-
-
-
-
-
 # UNDERGRADUATE
-
-(Summer 2018) PS6: Intro to Data Analysis
 
 **Past Teaching Experience**
 
-(Spring 2015) American Politics with Professor Mark Smith at UW
+(Fall 2018) TA: Political Communications with Professor Tim Groeling at UCLA
 
-(Fall 2014) American Politics with Professor Becca Thorpe at UW
+(Summer 2018) Instructor: PS6---Intro to Data Analysis
 
-(Winter 2014) American Politics with Professor Megan Francis at UW
+(Spring 2015) TA: American Politics with Professor Mark Smith at UW
+
+(Fall 2014) TA: American Politics with Professor Becca Thorpe at UW
+
+(Winter 2014) TA: American Politics with Professor Megan Francis at UW
 
 
 
