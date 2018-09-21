@@ -1,0 +1,751 @@
+---
+title: "R Refresher"
+author: "Tyler Reny"
+date: "9/19/2018"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(tidyverse)
+library(stringi)
+library(sandwich)
+library(lmtest)
+library(simcf) #go to chris adolph's website and download
+library(gapminder)
+library(lubridate)
+library(MASS)
+library(ordinal)
+
+```
+
+
+We'll be going over:
+
+1) tips for quick descriptives and subsetting data using dplyr
+2) merging data
+3) advanced functions
+4) predicted probabilities (w interactions; ordinal probit)
+5) advanced plotting (w interactions; ordinal probit) both predicted probabilites and first differences
+
+# Using the pipe for quick descriptives
+
+Here we'll start really quickly with some tricks for summarizing data. Let's start by loading a sample dataset that is useful:
+
+```{r}
+df <- gapminder
+glimpse(df)
+```
+
+So let's say we have a dataset like this which has natural groups variables (year, country, continent) and we want to find the mean/median/etc. of any given groups. We can easily do this using the commands from dplyr: filter(), group_by(), and summarize.
+
+Let's first say that we want to take the mean life expectancy by continent over the whole time period. You could do this using base R:
+
+```{r}
+unique(df$continent)
+mean(df$lifeExp[df$continent == 'Asia'])
+mean(df$lifeExp[df$continent == 'Europe'])
+# etc
+```
+
+But this takes too long. We can simply use the group_by() function:
+
+```{r}
+df %>%
+  group_by(continent) %>%
+  summarise(mean_lifeExp = mean(lifeExp, na.rm=T))
+```
+
+Let's say we want to do the same thing but only for the year 2007:
+
+```{r}
+df %>%
+  filter(year == 2007) %>%
+  group_by(continent) %>%
+  summarise(mean_lifeExp = mean(lifeExp, na.rm=T))
+```
+
+Or perhaps every year but 2007:
+
+```{r}
+df %>%
+  filter(year != 2007) %>%
+  group_by(continent) %>%
+  summarise(mean_lifeExp = mean(lifeExp, na.rm=T))
+```
+
+Or maybe just a few years:
+
+```{r}
+unique(df$year)
+df %>%
+  filter(year %in% c(1952, 1967, 1997)) %>%
+  group_by(continent) %>%
+  summarise(mean_lifeExp = mean(lifeExp, na.rm=T))
+```
+
+You can pipe this directly into a plot to visualize. Let's construct 95% CIs first and plot as a dot plot:
+
+```{r}
+unique(df$year)
+g.out <- df %>%
+  group_by(continent) %>%
+  summarise(mean_lifeExp = mean(lifeExp, na.rm=T),
+            lower = mean_lifeExp - 1.96*sd(lifeExp)/sqrt(n()),
+            upper = mean_lifeExp + 1.96*sd(lifeExp)/sqrt(n())) %>%
+  ggplot(aes(x=reorder(continent, mean_lifeExp), y=mean_lifeExp)) +
+  geom_errorbar(aes(ymin=lower, ymax=upper), width=.05) +
+  geom_point(shape=21, color='black',fill='white', size=3) + coord_flip() +
+  theme_bw() + 
+  labs(x='',y='Mean Life Expectancy') +
+  scale_fill_manual(values='white')
+g.out
+```
+
+# Exercise
+
+Now create your own plot that plots the mean population by country in Europe, sorted, on a dot plot like the one above.
+
+```{r}
+
+
+
+
+
+```
+
+# Cleaning  and merging data
+
+Merging data is crucial when you are constructing your own datasets, but often the data is not provided in formats with clear merging variables so you need to become quite proficient with functions in R that help you clean strings so that you can get them into similar formats. Here I will give you some useful functions that will help you do that and then we will go over merging.
+
+# Dates
+
+Sometimes you need to clean dates and put them in a format that is recognized by R as a date format so they can be treated as ordinal. For this we'll use lubridate() and some functions that will be useful for cleaning strings in general.
+
+Let's start by making some fake date data that will be in a format that we might encounter date data in the real world.
+
+```{r}
+months <- seq(1,12, by=1)
+days <- seq(1,30, by=1)
+years <- c(04,08,12,16)
+fake_dates <- paste(sample(months, 100, replace=T),
+                     sample(days, 100, replace=T),
+                     sample(years, 100, replace=T),
+                     sep='/')
+fake_dates
+is.Date(fake_dates)
+```
+
+So let's get it into a format that is recognized by R. This will require a few steps. First, we're going to add 0s in front of single digit days and months. Then we're going to add 20 in front of years. Then we're going to change the slashes to hyphens. Then we're going to tell R to convert these into dates for us. We start by splitting the string at the forward slash:
+
+```{r}
+split_dates <- str_split(fake_dates, '/')
+split_dates
+```
+
+Notice you have a list here. You can now do things on the first, second, and third items in the list. Let's pull out month and add leading zeros.
+
+```{r}
+months <- sapply(split_dates, function(x) x[1]) # pull out just months
+months # check it out
+months <- str_pad(months, width=2, side='left',pad = '0')
+months
+```
+
+Now let's do the same for days:
+
+```{r}
+days <- sapply(split_dates, function(x) x[2]) # pull out just days
+days # check it out
+days <- str_pad(days, width=2, side='left',pad = '0')
+days
+```
+
+Now for years:
+
+```{r}
+years <- sapply(split_dates, function(x) x[3]) # pull out just years
+years # check it out
+years <- paste0('20',str_pad(years,2,'left','0'))
+years
+```
+
+Now let's paste back together in proper order (yyyy-mm-dd):
+
+```{r}
+date_clean <- paste(years, months, days, sep='-')
+is.Date(date_clean) # still not a date!
+
+# use lubridate
+date_clean <- ymd(date_clean)
+is.Date(date_clean) # yay!
+sort(date_clean)
+```
+
+# Some skills you learned above include
+
+1) str_split
+2) str_pad
+3) sapply
+
+These are all useful. 
+
+# Zipcodes and FIPS codes
+
+Now let's do it with a hypothetical zipcode file, which is something you will often merge on.
+
+```{r}
+set.seed(12345)
+fakezips <- rep(NA,1000)
+for(i in 1:1000){
+  fakezips[i] <- as.numeric(paste0(sample(0:9,1),
+                                   sample(0:9,1),
+                                   sample(0:9,1),
+                                   sample(0:9,1),
+                                   sample(0:9,1)))
+}
+table(nchar(fakezips))
+```
+
+Notice that numeric variables, when read in, drop leading zeros! Need to add those back in:
+
+```{r}
+fakezips <- str_pad(fakezips, 5, 'left','0')
+table(nchar(fakezips))
+```
+
+# Join functions
+
+Finally, we can look at the join functions. These still confuse me, so I'll walk through the intuition of the most frequently used left_join and right_join and you can do research on the rest. See http://stat545.com/bit001_dplyr-cheatsheet.html for more on other join functions
+
+For any join you have your left-hand dataframe and your right-hand dataframe. Most frequently what you'll be doing is merging in some extra data to a survey or main dataset. You almost always want your main dataset to be the lefthand data and your extra data you are merging in to be right hand data.
+
+Step 1. Figure out what variable you are merging on.
+Step 2. Clean that variable in one or both datasets so that they are identical in format.
+Step 3. Use left_join to merge the extra data into your main dataset.
+
+Let's say you have a dataset that has state names and some data aggregated up to the state level.
+
+```{r}
+main <- data.frame(state=state.name, x=rnorm(length(state.name)))
+glimpse(main)
+```
+
+Now let's say you have another dataset that has data for states that you want to merge in but the state names are abbreviations and some are missing:
+
+```{r}
+extra <- data.frame(state_short=sample(state.abb, 40, replace=F), y=rnorm(40))
+extra
+```
+
+Step 1. We need to merge on state name.
+Step 2. Clean variables so that they are the same:
+
+First, let's merge state abbreviations into the main file:
+
+```{r}
+mergefile <- data.frame(state=state.name, stateAbb=state.abb)
+mergefile$state <- as.character(mergefile$state)
+mergefile$stateAbb <- as.character(mergefile$stateAbb)
+glimpse(mergefile)
+```
+
+Now clean main file:
+
+```{r}
+main$state <- as.character(main$state)
+```
+
+Now join:
+
+```{r}
+main <- left_join(main, mergefile, by='state')
+main
+```
+
+Okay now we need to merge the other file in:
+
+```{r}
+extra <- extra %>% 
+  mutate(stateAbb = as.character(extra$state_short)) %>% 
+  dplyr::select(-state_short)
+extra
+main <- left_join(main, extra, by='stateAbb')
+main
+```
+
+Notice the missing values.
+
+# Finally, manipulating strings for more complex string merges
+
+Sometimes you need to merge on county names and you have to do some crazy manipulation to strings to get them into the correct format. Let's look at these two files:
+
+```{r}
+cty1 <- read_csv('https://raw.githubusercontent.com/tylerreny/tylerreny.github.io/master/data/cty1.csv')
+cty2 <- read_csv('https://raw.githubusercontent.com/tylerreny/tylerreny.github.io/master/data/cty2.csv')
+glimpse(cty1)
+glimpse(cty2)
+```
+
+Okay, we have to do a number of things. Let's start with the second file and get two columns, one for name and the other for state.
+
+```{r}
+cty2 <- separate(cty2, col=name,c('county','state'),sep=', ')
+
+#fix encodings
+cty2$county <- stri_encode(cty2$county, "", "UTF-8") 
+
+#to lower case
+cty2$county <- tolower(cty2$county)
+
+#state
+cty2$state
+```
+
+Now let's do the same to the other dataframe
+
+```{r}
+cty1$county <- tolower(cty1$CNTYNAME)
+cty1$state <- cty1$STNAME
+```
+
+Now we can merge:
+
+```{r}
+out <- left_join(cty1, cty2, by=c('county','state'))
+nrow(cty1)
+nrow(cty2)
+nrow(out)
+```
+
+Finally, you sometimes need to sub out certain characters for others. Let's go back to dates. Let's say, for some reason, we need to substitute out the forward slash for a hyphen:
+
+```{r}
+months <- seq(1,12, by=1)
+days <- seq(1,30, by=1)
+years <- c(04,08,12,16)
+fake_dates <- paste(sample(months, 100, replace=T),
+                     sample(days, 100, replace=T),
+                     sample(years, 100, replace=T),
+                     sep='/')
+fake_dates
+```
+
+You can use the gsub() function:
+
+```{r}
+fake_dates <- gsub('/','-',fake_dates)
+```
+
+You sometimes also want to remove certain words from strings. Let's say you don't need the word 'county' in the county names, you can substitute it out for nothing:
+
+```{r}
+gsub(' county','',out$county)
+```
+
+Notice my use of spacing. Be sure you don't leave extra spaces.
+
+# Exercise
+
+1) Go to social explorer (www.socialexplorer.com) and download Hispanic by Race tables for zipcodes and save as CSV (I will walk you through this step)
+2) Go download the latest CCES, if you don't have it already. 
+3) Read both in and clean zipcodes in both so that they can be merged.
+4) Merge on zipcode using left_join() function in R.
+
+# Writing Functions
+
+Functions are useful when you want to do some operation in R many times and you don't want to copy and paste the code over and over again. This saves both space in your code and reduces the chance of error.
+
+What do functions do? They take any number of inputs, does something to them, and returns some outputs. If you want to do something a bunch of times, and the operation is generalizable, then use a function!
+
+Here's a very simple version of a function. This takes a vector, calculates the mean, and returns that mean:
+
+```{r}
+meanNM <- function(myVector){ #this is the same setup in every function
+  mean.out <- mean(myVector, na.rm=T) # do some calculation to your input
+  return(mean.out) #return 
+}
+
+#let's test it
+x <- rnorm(1000)
+meanNM(x)
+```
+
+Notice that if you are tired of typing out ,na.rm=T every time, this new function saves you from having to do that.
+
+Let's say you want to clean a bunch of variables with likert scales. For each you want to recode them to between 1 and 0. And for one you want to reverse the order of the coding.
+
+```{r}
+q10 <- sample(1:5, 1000, replace=T)
+```
+
+We could, for each, recode them by hand and/or flip them by hand:
+
+```{r}
+(q10-1)/4 #recode between zero and 1
+(abs(q10-6) - 1)/4 # flip coding recode between zero and 1
+```
+
+Or we could code up a function that would do both when we want:
+
+```{r}
+rLike <- function(x, flip=F){
+  if(flip==F){
+    x <- (x - 1)/(length(unique(x)) - 1)
+  } else {
+    x <- abs(x - (length(unique(x)) + 1))
+    x <- (x - 1)/(length(unique(x)) - 1)
+  }
+  return(x)
+}
+rLike(q10)
+rLike(q10, T)
+table(rLike(q10), rLike(q10,T))
+```
+
+This function is generalized, too, so if you had a 7 pt likert, it would still work properly:
+
+```{r}
+q11 <- sample(1:7, 1000, replace=T)
+rLike(q11)
+table(rLike(q11), q11)
+```
+
+Or maybe you want a funcation to calculate a 95% confidence interval for the mean of any variable:
+
+```{r}
+ci95 <- function(x){
+  mean <- mean(x, na.rm=T)
+  var <- sd(x)/sqrt(length(x))
+  lower <- mean - 1.96 * var
+  upper <- mean + 1.96 * var
+  dat.out <- data.frame(mean=mean, lower=lower,upper=upper)
+  return(dat.out)
+}
+ci95(rnorm(100))
+```
+
+Now let's write a function to calculate heteroskedastic robust standard errors:
+
+```{r}
+x <- rnorm(1000)
+z <- 1.5 * x + rnorm(1000)
+pr <- 1/(1 + exp(-z))
+y <- rbinom(1000,1,pr)
+dat <- data.frame(y, x)
+lm.out <- lm(y ~ x, dat)
+summary(lm.out)
+
+
+robustSE <- function(model){
+  return(coeftest(model, vcovHC(model, type = 'HC0')))
+}
+robustSE(lm.out)
+```
+
+# Exercise
+
+1) I'm going to give you code to calculate cluster robust standard errors. I want you to turn it into a function that takes two inputs, the model object and the name of the cluster variable and returns the regression table with cluster robust standard errors:
+
+```{r}
+# create a clustering variable
+dat <- cbind(dat, state=sample(state.abb, 1000, replace=T))
+
+# degree of freedom correction
+M <- length(unique(dat$state))
+N <- length(dat$state)
+K <- lm.out$rank
+dfc <- (M/(M - 1)) * ((N - 1)/(N - K))
+
+# adjust standard errors using cluster
+vcovAdj <- dfc * vcovHC(lm.out, type = "HC0", cluster = dat$state, adjust = T)
+
+#return model with clustered standard errors
+coeftest(lm.out, vcov = vcovAdj)
+```
+
+
+
+# Predicted probabilities
+
+Let's load up the ANES Pilot:
+
+```{r}
+dat <- read_csv('https://raw.githubusercontent.com/tylerreny/tylerreny.github.io/master/data/anes_2016_pilot_RAW.csv')
+
+# recode age
+dat$age <- 2016 - dat$birthyr
+
+# recode gender
+dat$female <- dat$gender - 1
+
+# recode education
+dat$college <- ifelse(dat$educ >= 5,1,0)
+
+# recode income
+dat$inc_under60 <- ifelse(dat$faminc < 7,1,0)
+dat$inc_over60 <- ifelse(dat$faminc >= 7,1,0)
+dat$inc_missing <- ifelse(dat$faminc %in% c(97,98),1,0)
+
+# partisanship
+dat$repub7 <- dat$pid7
+
+# DV oppose equal pay
+table(dat$equalpay)
+```
+
+We're going to model opposition to equal pay as a function of partisanship while controling for age, gender, education, and income
+
+```{r}
+form <- equalpay ~ repub7 + age + female + college + inc_over60 + inc_missing
+lm.out <- lm(form, dat)
+summary(lm.out)
+```
+
+Let's calculate predicted probabilities of opposing equal for each level of partisanship. First we need to make a model matrix
+
+```{r}
+modeldat <- dat[, all.vars(form)]
+modeldat <- na.omit(modeldat)
+nscen <- 7
+mm <- as.data.frame(matrix(apply(modeldat, 2, mean), nrow=nscen, ncol=ncol(modeldat), byrow=T))
+names(mm) <- names(modeldat)
+mm
+
+#add in your new scenarios
+mm$repub7 <- 1:7
+mm
+```
+
+Now you have your new data that you can feed into the predict function:
+
+```{r}
+pred.out <- predict(lm.out, newdata=mm, se.fit=T)
+```
+
+So now we need to convert this to something that can plot nicely. I can do this by hand or I can write  afunction that takes the predict output and turns it into a nice dataframe for plotting in R. I'll give you the innards of the function, you write the function:
+
+# exercise
+
+```{r}
+fp <- data.frame(x=xhyp, y=pred.out$fit,
+                 lower=pred.out$fit - 1.96 * pred.out$se.fit,
+                 upper=pred.out$fit + 1.96 * pred.out$se.fit)
+```
+
+Now we can plot it:
+
+```{r}
+ggplot(fp, aes(x, y)) +
+  geom_line() +
+  geom_ribbon(aes(x=x, ymin=lower, ymax=upper), alpha=.2) +
+  labs(y='Oppose Equal Pay', x='Partisanship (R)') +
+  scale_x_continuous(breaks=1:7) +
+  theme_bw()
+```
+
+Can also use the margins packate to plot this:
+
+
+```{r}
+cdat <- cplot(lm.out, "repub7", draw = FALSE)
+ggplot(cdat, aes(xvals, yvals)) +
+  geom_line() +
+  geom_ribbon(aes(x=xvals, ymin=lower, ymax=upper), alpha=.2) +
+  labs(y='Oppose Equal Pay', x='Partisanship (R)') +
+  scale_x_continuous(breaks=1:7) +
+  theme_bw()
+```
+
+
+Let's say we want to instead plot first differences, the effect of moving from strong dem to strong repub on support for equal pay. We can easily calculate this difference in R but getting the CI is a bit more difficult. Here's the difference:
+
+```{r}
+nscen <- 2
+mm <- as.data.frame(matrix(apply(modeldat, 2, mean), nrow=nscen, ncol=ncol(modeldat), byrow=T))
+names(mm) <- names(modeldat)
+mm
+
+#add in your new scenarios
+mm$repub7 <- c(1,7)
+out <- predict(lm.out, newdata=mm)
+out[2] - out[1]
+```
+
+So that difference is about 1.1 between strong dems and strong republicans. But we'd like to be able to plot this with a confidence interval, so let's bootstrap it:
+
+```{r}
+res <- rep(NA, 1000)
+for(i in 1:1000){
+  
+  bootdat <- sample_n(dat, nrow(dat),replace=T)
+  lm.out <- lm(form, bootdat)
+  modeldat <- bootdat[, all.vars(form)]
+  modeldat <- na.omit(modeldat)
+
+  nscen <- 2
+  mm <- as.data.frame(matrix(apply(modeldat, 2, mean), 
+                             nrow=nscen, 
+                             ncol=ncol(modeldat), 
+                             byrow=T))
+  names(mm) <- names(modeldat)
+  mm$repub7 <- c(1,7)
+
+  out <- predict(lm.out, newdata=mm)
+  res[i] <- out[2] - out[1]
+  print(i)
+}
+
+data.frame(y=mean(res), 
+           lower=quantile(res, 0.025),
+           upper=quantile(res, 0.975))
+```
+
+I also use a package called simcf. The bootstrap above can be re-written with these simple lines of code which uses simulation rather than the bootstrap so the results are slightly different.
+
+```{r}
+lm.out <- lm(form, dat)
+pe <- coef(lm.out)
+vc <- vcov(lm.out)
+simbetas <- mvrnorm(1000,pe,vc)
+
+mm <- cfMake(form, dat, 1)
+mm <- cfChange(mm, 'repub7', xpre=1, x=7, scen=1)
+linearsimfd(mm, simbetas)
+```
+
+Plotting first differences for multiple variables. Sometimes we are interested not in looking at how yhat changes with respect to x but in the overall changes in probability for EACH variable moving them all from their minimums to thier maximums, (regarldess of the full range of the variable itself).
+
+Let's make a plot doing just that. I am going to use simcf becasue it is much faster, but you could bootstrap all of these.
+
+```{r}
+lm.out <- lm(form, dat)
+pe <- coef(lm.out)
+vc <- vcov(lm.out)
+simbetas <- MASS::mvrnorm(1000,pe,vc)
+
+mm <- cfMake(form, dat, nscen=4)
+
+#party
+mm <- cfChange(mm, 'repub7', xpre=1, x=7, scen=1)
+
+#range age
+range(dat$age, na.rm=T)
+mm <- cfChange(mm, 'age', xpre=19, x=95, scen=2)
+
+#female
+mm <- cfChange(mm, 'female', xpre=0, x=1, scen=3)
+
+#income
+mm <- cfChange(mm, 'inc_over60', xpre=0, x=1, scen=4)
+
+linearsimfd(mm, simbetas)
+
+cfToDF <- function(out, labels){
+  return(
+    data.frame(labels=labels,
+               y=out$pe,
+               lower=out$lower,
+               upper=out$upper)
+  )
+}
+res <- cfToDF(linearsimfd(mm, simbetas),c('Republican','Age','Female','Income Over 60'))
+res
+```
+
+Let's plot it!
+
+```{r}
+ggplot(res, aes(x=labels, y=y)) +
+  geom_errorbar(aes(ymin=lower,ymax=upper), width=0.05) +
+  geom_point(size=3,shape=21, fill='white') +
+  labs(y='First Differences (min to max)', x='') +
+  coord_flip() +
+  geom_hline(yintercept=0, linetype=2, color='red')
+```
+
+Let's say we have an interaction term. Here I will interact party with gender to show how you might think about plotting the predicted probablities.
+
+```{r}
+form <- equalpay ~ repub7*female + age + college + inc_over60 + inc_missing
+lm.out <- lm(form, dat)
+summary(lm.out)
+
+modeldat <- dat[, all.vars(form)]
+modeldat <- na.omit(modeldat)
+nscen <- 7
+mm <- as.data.frame(matrix(apply(modeldat, 2, mean), nrow=nscen, ncol=ncol(modeldat), byrow=T))
+names(mm) <- names(modeldat)
+mm
+
+#add in your new scenarios
+mm$repub7 <- 1:7
+mm$female <- 0
+pred.out.men <- predict(lm.out, mm, se.fit=T)
+
+mm$repub7 <- 1:7
+mm$female <- 1
+pred.out.women <- predict(lm.out, mm, se.fit=T)
+
+fp <- data.frame(x=c(xhyp, xhyp), 
+                 y=c(pred.out.men$fit,pred.out.women$fit),
+                 Gender=c(rep('Male',length(xhyp)), rep('Female', length(xhyp))),
+                 lower=c(pred.out.men$fit - 1.96 * pred.out.men$se.fit,pred.out.women$fit - 1.96 * pred.out.women$se.fit),
+                 upper=c(pred.out.men$fit + 1.96 * pred.out.men$se.fit,pred.out.women$fit + 1.96 * pred.out.women$se.fit))
+fp %>%
+  ggplot(aes(x, y, color=Gender)) +
+  geom_line() +
+  geom_ribbon(aes(x=x, ymin=lower, ymax=upper), alpha=.2) +
+  labs(y='Oppose Equal Pay', x='Partisanship (R)') +
+  scale_x_continuous(breaks=1:7) +
+  theme_bw()
+```
+
+# Ordered Probit
+
+Finally, we can think through a more complex model like an ordered probit. This outcome we're using is actually an ordered outcome and is more appropriately modeled using an ordered probit.
+
+```{r}
+form <- equalpay ~ repub7 + female + age + college + inc_over60 + inc_missing
+dat$equalpay <- as.factor(dat$equalpay)
+clm.out <- clm(form, data = dat)
+summary(clm.out)
+```
+
+Now for predicted probabilities:
+
+```{r}
+modeldat <- dat[, all.vars(form)[-1]] # notice I delete the outcome var
+modeldat <- na.omit(modeldat)
+nscen <- 7
+mm <- as.data.frame(matrix(apply(modeldat, 2, mean), nrow=nscen, ncol=ncol(modeldat), byrow=T))
+names(mm) <- names(modeldat)
+mm
+
+#add in your new scenarios
+mm$repub7 <- 1:7
+mm
+```
+
+Now you have your new data that you can feed into the predict function:
+
+```{r}
+pred.out <- predict(clm.out, newdata=mm,  se.fit=T)
+fp <- data.frame(x=c(1:7,1:7,1:7), y=c(pred.out$fit[,1],pred.out$fit[,4],pred.out$fit[,7]),
+                 group=c(rep('Strongly Support',7),rep('Neutral',7),rep('Strongly Oppose',7)),
+                 lower=c(pred.out$fit[,1] - 1.96 * pred.out$se.fit[,1],
+                         pred.out$fit[,4] - 1.96 * pred.out$se.fit[,4],
+                         pred.out$fit[,7] - 1.96 * pred.out$se.fit[,7]),
+                 upper=c(pred.out$fit[,1] + 1.96 * pred.out$se.fit[,1],
+                         pred.out$fit[,4] + 1.96 * pred.out$se.fit[,4],
+                         pred.out$fit[,7] + 1.96 * pred.out$se.fit[,7]))
+                
+ggplot(fp, aes(x, y, color=group)) +
+  geom_line() +
+  geom_ribbon(aes(x=x, ymin=lower, ymax=upper), alpha=.2) +
+  labs(y='Equal Pay', x='Partisanship (R)') +
+  scale_x_continuous(breaks=1:7) +
+  theme_bw()
+```
+
