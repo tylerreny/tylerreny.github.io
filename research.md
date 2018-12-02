@@ -48,7 +48,11 @@ In this article we use precinct level election and demographic data to estimate 
 
 # Under Review
 
-**No, You're Playing the Race Card: Anti-Black and Anti-Latino Appeals in The Post-Obama Era** (with Loren Collingwood and Ali Valenzuela) *Under review*
+**Hands Off My Obamacare: Self-Interest and Symbolic Attitudes in The Health Care Debate** (with David O. Sears)
+
+Social scientists have long shown that self-interest rarely has a large effect on citizens’ sociopolitical attitudes.  Instead, Americans’ opinions about public policy are driven more by symbolic predispositions.  Yet, those opinions about policy may just be cheap talk.  When Americans’ are faced with costly behaviors that pit their interests against their values, perhaps self-interest will play a larger role.  Post-Obamacare health insurance coverage provides an important test for self-interest and symbolic politics.  Faced with costly decisions to pay fines or purchase insurance, did Americans put symbolic politics over material self-interests?  We first show that symbolic attitudes overwhelm self-interest in shaping public opinion about health policy.  Marshaling data from over one million respondents from Gallup’s Tracking Poll, however, we show that both self-interest and symbolic predispositions play important roles in decisions to purchase health insurance under the ACA.  
+
+**No, You're Playing the Race Card: Anti-Black and Anti-Latino Appeals in The Post-Obama Era** (with Loren Collingwood and Ali Valenzuela) 
 
 Despite the sizable literature on racial priming in political campaigns, scholars have failed to account for the shifting reality of race in politics. First, theories of racial priming have not yet been applied to increasingly common anti-Latino political appeals. Second, theories of racial priming have failed to take into account the increasing salience of race and the increased tolerance of explicit racial appeals among white Americans, both of which violate central axioms of the Implicit-Explicit (IE) model of racial appeals. Across four survey experiments, we find consistent evidence that the IE model only weakly holds for black and Latino racial appeals. In our "most-racial" era, we find that white respondents are more likely to recognize the racial content in racially coded black and Latino appeals but also tolerate it at higher levels than previously seen.
 
@@ -57,10 +61,6 @@ Despite the sizable literature on racial priming in political campaigns, scholar
 **How In-Group Elite Rhetoric Shapes Mass Immigration Attitudes** (with Justin Gest)
 
 What role do elites play in shaping attitudes on immigration? Existing literature suggests that most policy attitudes are heavily influences by elites. It is less clear the power of elite rhetoric for issues that are highly contentious and rooted in group-based antagonisms. Drawing from resesarch on persuasion, we design and field a well-powered large survey experiment with white Republicans (n=10,000) to test the power of counter-stereotypical pro-immigration messages from trusted in-group elites to move respondents' attitudes and behavior regarding immigrants and immigration. In doing so, we explore the characteristics of both elites and respondents that facilitate attitude change.
-
-**Hands Off My Obamacare: Self-Interest and Symbolic Attitudes in The Health Care Debate** (with David O. Sears)
-
-Republicans voted more than 60 times to dismantle the Affordable Care Act during Barack Obama's presidency. Despite these vibrant displays of political signaling, Republicans failed to shepherd through repeal-and-replace legislation during the summer of 2017, despite their new-found unified control of the federal government. Journalists have attributed this failure primarily to the fact that more than 22 million Americans gained coverage under the law, and many would lose coverage under the Republican legislation.  The implication of their argument is that intense public opposition would be stimulated among those who would lose their insurance. Social scientists, however, have consistently shown that self-interest rarely has an effect on the ordinary citizen's sociopolitical attitudes. In this paper we use data from Kaiser's monthly health tracking poll and eleven years of Gallup daily tracking poll data to show how symoblic attitudes overwhelm self-interest in shaping attitudes towards the ACA and enrollment in state exchanges.
 
 **Racial Attitudes in Post-Obamacare Health Coverage** (with Michael Tesler)
 
