@@ -98,6 +98,8 @@ This is a beginners R course for graduate students about to start POLS 200B at U
 
 **Past Teaching Experience**
 
+(Winter 2018) TA: Political Communications with Professor Georgia Kernell at UCLA
+
 (Fall 2018) TA: Political Communications with Professor Tim Groeling at UCLA
 
 (Summer 2018) Instructor: PS6---Intro to Data Analysis
@@ -108,5 +110,7 @@ This is a beginners R course for graduate students about to start POLS 200B at U
 
 (Winter 2014) TA: American Politics with Professor Megan Francis at UW
 
+# RESOURCES
 
+[Creating Realistic Stimuli with Chrome Developer Tools](http://u.osu.edu/pearson.325/2018/12/04/creating-realistic-stimuli-with-chrome-developer-tools/)
 
