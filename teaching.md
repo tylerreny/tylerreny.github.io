@@ -98,17 +98,13 @@ This is a beginners R course for graduate students about to start POLS 200B at U
 
 **Past Teaching Experience**
 
-(Winter 2018) TA: Political Communications with Professor Georgia Kernell at UCLA
+Instructor: PS6: Intro to Data Analysis (Summer 2018; Summer 2019)
 
-(Fall 2018) TA: Political Communications with Professor Tim Groeling at UCLA
+Instructor: Cluster 60A: Intro to Data Analysis --- Public Opinion in the 1960s (Spring 2019)
 
-(Summer 2018) Instructor: PS6---Intro to Data Analysis
+TA: Political Communications, UCLA (Fall, 2018; Winter, 2018)
 
-(Spring 2015) TA: American Politics with Professor Mark Smith at UW
-
-(Fall 2014) TA: American Politics with Professor Becca Thorpe at UW
-
-(Winter 2014) TA: American Politics with Professor Megan Francis at UW
+TA: American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 # RESOURCES
 
