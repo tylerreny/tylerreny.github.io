@@ -16,19 +16,11 @@ permalink: /teaching/
 
 This is a beginners R course for graduate students about to start POLS 200B at UCLA. The purpose of this course is to introduce you to the R programming language, R Studio, and R Markdown. By the end of the course, students should have an understanding of object oriented languages, work flow, reproducibility, basic data structure, loops, and functions. Please download the files below. We will work through them together.
 
-[Day 1: Intro to R](https://www.dropbox.com/s/a5g7yguf75bv102/intro_to_R_day1.Rmd?dl=0)
-
-[Day 2: Intermediate R](https://www.dropbox.com/s/vlrpcblyuvqghwo/intro_to_R_day2.Rmd?dl=0)
-
-[Day 2: R Markdown](https://www.dropbox.com/s/pjg6tishqjl6pwr/intro_to_R_day2_markdown.Rmd?dl=0)
+[Day 1](https://www.dropbox.com/s/dh506tfjhc7w0v7/day1_rcamp.zip?dl=0)
 
 [//]: # (This is a beginners R course for incoming graduate students in political science at UCLA. The purpose of this course is to starting thinking about functional programming and data analysis in a systematic way using both base R and Tidyverse packages (dplyr, ggplot2, etc) to clean, analyze, and visualize real data. By the end of the course, students should have an understanding of object oriented languages, work flow, reproducibility, data munging, summarizing data, and visualizing data. Each of the lessons will take about 2 hours to complete. 
 
 [//]:Before you show up to the first course, please download R and R-Studio ([here](http://stat545.com/block000_r-rstudio-install.html) is a tutorial if you get stuck) and complete this [Try-R](http://tryr.codeschool.com/) short course that will introduce you to the very basics of R. I assume you will have a very basic understanding of R by Day 1 below. If you have any issues with the install process, please reach out to me before the course starts!
-
-[//]:I would like everyone to complete this pre-session worksheet before the course begins to make sure we are all on the same page with the basics. If you do the Try-R course above, this should be very simple to complete. Please complete it, knit to PDF, and email to me before the sessions begin. 
-
-[//]:[Pre-Session Worksheet](https://www.dropbox.com/s/j9p9y2h1czychs4/intro_worksheet.Rmd?dl=0)
 
 [//]:[1: Intro to R](https://www.dropbox.com/s/h98l5lnm4agqm6r/R%20Crash%201-Intro%20to%20R%201.Rmd?dl=0)
 
@@ -96,13 +88,13 @@ This is a beginners R course for graduate students about to start POLS 200B at U
 
 # UNDERGRADUATE
 
-**Past Teaching Experience**
+**Teaching Experience**
 
 Instructor: PS6: Intro to Data Analysis (Summer 2018; Summer 2019)
 
 Instructor: Cluster 60A: Intro to Data Analysis --- Public Opinion in the 1960s (Spring 2019)
 
-TA: Political Communications, UCLA (Fall, 2018; Winter, 2018)
+TA: Political Communications, UCLA (Fall 2018; Winter 2018)
 
 TA: American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
