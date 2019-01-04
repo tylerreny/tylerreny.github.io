@@ -18,6 +18,9 @@ This is a beginners R course for graduate students about to start POLS 200B at U
 
 [Download Day 1 Materials](https://www.dropbox.com/s/dh506tfjhc7w0v7/day1_rcamp.zip?dl=0)
 
+[Download Day 2 Materials](https://www.dropbox.com/s/n5ao2ht8r5mpvik/day2_rcamp.zip?dl=0)
+
+
 [//]: # (This is a beginners R course for incoming graduate students in political science at UCLA. The purpose of this course is to starting thinking about functional programming and data analysis in a systematic way using both base R and Tidyverse packages (dplyr, ggplot2, etc) to clean, analyze, and visualize real data. By the end of the course, students should have an understanding of object oriented languages, work flow, reproducibility, data munging, summarizing data, and visualizing data. Each of the lessons will take about 2 hours to complete. 
 
 [//]:Before you show up to the first course, please download R and R-Studio ([here](http://stat545.com/block000_r-rstudio-install.html) is a tutorial if you get stuck) and complete this [Try-R](http://tryr.codeschool.com/) short course that will introduce you to the very basics of R. I assume you will have a very basic understanding of R by Day 1 below. If you have any issues with the install process, please reach out to me before the course starts!
