@@ -91,15 +91,19 @@ This is a beginners R course for graduate students about to start POLS 200B at U
 
 # UNDERGRADUATE
 
-**Teaching Experience**
+**Teaching Experience: Instructor**
 
-Instructor: PS6: Intro to Data Analysis (Summer 2018; Summer 2019)
+Graduate Bootcamp in R Statistical Programming (2016-2019)
 
-Instructor: Cluster 60A: Intro to Data Analysis --- Public Opinion in the 1960s (Spring 2019)
+PS6: Intro to Data Analysis (Summer 2018; Summer 2019)
 
-TA: Political Communications, UCLA (Fall 2018; Winter 2018)
+Cluster 60A: Intro to Data Analysis --- Public Opinion in the 1960s (Spring 2019)
 
-TA: American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
+**Teaching Experience: Teaching Assistant**
+
+Political Communications, UCLA (Fall 2018; Winter 2018)
+
+American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 # RESOURCES
 
