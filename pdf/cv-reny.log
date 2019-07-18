@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  2 JUL 2019 20:35
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  18 JUL 2019 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -917,15 +917,14 @@ Package marginnote Info: right page because not two side mode on input line 94.
 
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 94.
+[1
 
+]
 Overfull \hbox (1.14618pt too wide) in paragraph at lines 96--97
 []\TU/LinLibertine_R.otf(0)/m/n/10.95 Awards: Charles Redd Award for Best Paper
  on Politics of the American West (WPSA
  []
 
-[1
-
-]
 Package marginnote Info: Margin note 2.1 is on absolute page 2
 (marginnote)              on input line 99.
 Package marginnote Info: right page because not two side mode on input line 99.
@@ -1487,6 +1486,6 @@ Here is how much of TeX's memory you used:
  25166 multiletter control sequences out of 15000+600000
  7534 words of font info for 47 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 43i,9n,84p,10347b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,9n,84p,10347b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv-reny.xdv (6 pages, 117324 bytes).
+Output written on cv-reny.xdv (6 pages, 117992 bytes).
