@@ -95,7 +95,7 @@ This is a beginners R course for graduate students about to start POLS 200B at U
 
 Graduate Bootcamp in R Statistical Programming (2016-2019)
 
-PS6: Intro to Data Analysis (Summer 2018; Summer 2019)
+PS6: Intro to Data Analysis (Summer 2018)
 
 Cluster 60A: Intro to Data Analysis --- Public Opinion in the 1960s (Spring 2019)
 
