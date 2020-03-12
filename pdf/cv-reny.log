@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  2 MAR 2020 08:38
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  11 MAR 2020 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1111,7 +1111,7 @@ Package marginnote Info: right page because not two side mode on input line 153
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 153.
-Package marginnote Info: Margin note 3.18 is on absolute page 4
+Package marginnote Info: Margin note 3.18 is on absolute page 3
 (marginnote)              on input line 154.
 Package marginnote Info: right page because not two side mode on input line 154
 .
@@ -1249,7 +1249,7 @@ Package marginnote Info: right page because not two side mode on input line 186
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 186.
-Package marginnote Info: Margin note 4.14 is on absolute page 5
+Package marginnote Info: Margin note 4.14 is on absolute page 4
 (marginnote)              on input line 187.
 Package marginnote Info: right page because not two side mode on input line 187
 .
@@ -1466,4 +1466,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  43i,9n,84p,10347b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv-reny.xdv (6 pages, 124400 bytes).
+Output written on cv-reny.xdv (6 pages, 123988 bytes).
