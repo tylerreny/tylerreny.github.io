@@ -4,4 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-You can download the CV [here](https://www.dropbox.com/s/qqzhd1vh3n02863/cv-reny.pdf?dl=0).
+You can download the CV [here](http://tylerreny.github.io/pdf/cv-reny.pdf).
+
+<iframe title="Tyler Reny CV" src="http://tylerreny.github.io/pdf/cv-reny.pdf" width="100%" height="500px"></iframe>
