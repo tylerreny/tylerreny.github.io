@@ -1,10 +1,12 @@
 # Site settings
 title: Tyler Reny
-email: ttreny@ucla.edu	
+email: ttreny@gmail.com	
 description: >
- Department of Political Science 
- 4289 Bunche Hall
- Los Angeles, CA 90095
+ Washington University in St. Louis 
+ Weidenbaum Center
+ CB 1027, Seigle 187
+ One Brookings Drive
+ St. Louis, MO 63130
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tylerreny.github.io" # the base hostname & protocol for your site
 twitter_username: tylerreny	
