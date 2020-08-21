@@ -105,7 +105,36 @@ Political Communications, UCLA (Fall 2018; Winter 2018)
 
 American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
-# RESOURCES
+## RESOURCES
+
+# Experimental Methods Resources
 
 [Creating Realistic Stimuli with Chrome Developer Tools](http://u.osu.edu/pearson.325/2018/12/04/creating-realistic-stimuli-with-chrome-developer-tools/)
+
+# MRP Guides and Software
+
+[Guide by Rob Williams](https://jayrobwilliams.com/files/html/teaching-materials/MRP#)
+
+[Guide by Jonathan Kastellec (w/data)](https://scholar.princeton.edu/jkastellec/publications/mrp_primer)
+
+[AAPOR Presentation by Doug Rivers](https://github.com/rdrivers/mrp-aapor)
+
+[MRP With rstanarm by Lauren Kennedy and Johan Gabry](https://cran.r-project.org/web/packages/rstanarm/vignettes/mrp.html)
+
+[MRP using brms and tidybayes by Tim Mastny](https://timmastny.rbind.io/blog/multilevel-mrp-tidybayes-brms-stan/)
+
+[Target Estimation and Adjustment Weighting
+for Survey Nonresponse and Sampling Bias by Caughey et al 2019](https://t.co/yMKjV98jZk?amp=1)
+
+[Measuring Attitudes -- Multilevel Modeling with Post-Stratification book chapter by Leeman and Wasserfallen](https://lucasleemann.files.wordpress.com/2020/03/leemann-and-wasserfallen-2020.pdf)
+[// Code Guide to Accompany Leeman and Wasserfallen Chapter](https://github.com/lleemann/MrP_chapter/blob/master/MrP_Illsutration.pdf)
+
+[An Introduction to Multilevel Regression and Post-Stratification for Estimating Constituency Opinion](https://journals.sagepub.com/doi/abs/10.1177/1478929919864773) [// Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IPPPNU)
+
+[DGO R Package](https://github.com/jamesdunham/dgo)
+
+[Method behind DGO R Package](https://www.jstor.org/stable/24572968?seq=1#metadata_info_tab_contents)
+
+
+
 
