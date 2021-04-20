@@ -67,6 +67,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/realscripts/realscripts.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/realscripts/realscripts.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/metalogo/metalogo.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/metalogo/metalogo.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/marginnote/marginnote.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/marginnote/marginnote.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/sectsty/sectsty.sty
