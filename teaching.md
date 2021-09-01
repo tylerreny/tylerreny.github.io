@@ -15,13 +15,17 @@ permalink: /teaching/
 </div>  
 <small style="color:grey">Source: XKCD</small>
 
-# Intro to R
+# Computational Tools for Social Science SPE 489
 
-This is a beginners R course for graduate students about to start POLS 200B at UCLA. The purpose of this course is to introduce you to the R programming language, R Studio, and R Markdown. By the end of the course, students should have an understanding of object oriented languages, work flow, reproducibility, basic data structure, loops, and functions. Please download the files below. We will work through them together.
+[Syllabus](https://www.dropbox.com/s/uike78pii3mp6yc/SPE489_Fall2021.pdf?dl=1)
 
-[Download Day 1 Materials](https://www.dropbox.com/s/dh506tfjhc7w0v7/day1_rcamp.zip?dl=0)
+[Class 1 (Sept 2, 2021) Script: Intro to R](https://www.dropbox.com/s/g49idjkuh9k6sdy/spe489_class1_intro_r.Rmd?dl=1)
 
-[Download Day 2 Materials](https://www.dropbox.com/s/n5ao2ht8r5mpvik/day2_rcamp.zip?dl=0)
+[Class 2 (Sept 9, 2021) Script A: Packages, Reading and Writing Data, Intro to dplyr](https://www.dropbox.com/s/5ehzpf6x59gfmvx/spe489_class2_r.Rmd?dl=1)
+
+[Class 2 (Sept 9, 2021) Script B: R Markdown Tutorial](https://www.dropbox.com/s/pet3ggt2v4ddai6/spe489_class2_rmarkdown_tutorial.Rmd?dl=1)
+
+[Class 3 (Sept 16, 2021) Script: dplyr](https://www.dropbox.com/s/33v234vv6zxix4d/spe489_class3_dplyr.Rmd?dl=1)
 
 
 [//]: # (This is a beginners R course for incoming graduate students in political science at UCLA. The purpose of this course is to starting thinking about functional programming and data analysis in a systematic way using both base R and Tidyverse packages (dplyr, ggplot2, etc) to clean, analyze, and visualize real data. By the end of the course, students should have an understanding of object oriented languages, work flow, reproducibility, data munging, summarizing data, and visualizing data. Each of the lessons will take about 2 hours to complete. 
