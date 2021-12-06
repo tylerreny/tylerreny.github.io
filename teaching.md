@@ -123,6 +123,12 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Creating Realistic Stimuli with Chrome Developer Tools](http://u.osu.edu/pearson.325/2018/12/04/creating-realistic-stimuli-with-chrome-developer-tools/)
 
+# Shapefiles
+
+[Historic Shapefile Boundaries (state, county, congressional district, and zip code) 1629 - 2000](https://cran.r-project.org/web/packages/USAboundaries/index.html)
+
+[Bridging Census Tracts Over time](https://s4.ad.brown.edu/Projects/Diversity/researcher/bridging.htm)
+
 # MRP Guides and Software
 
 [Guide by Rob Williams](https://jayrobwilliams.com/files/html/teaching-materials/MRP#)
