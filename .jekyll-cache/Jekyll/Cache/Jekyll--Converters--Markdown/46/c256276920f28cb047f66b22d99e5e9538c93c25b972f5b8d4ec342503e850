@@ -1,0 +1,72 @@
+I"�<iframe width="100%" height="300" src="https://rdrr.io/snippets/embed/?code=" frameborder="0"></iframe>
+
+<h1 id="graduate">GRADUATE</h1>
+
+<div>
+<a href="http://xkcd.com/1513/">
+<img src="/img/code_quality.png" align="left" padding="10px" />
+</a>
+</div>
+<p><small style="color:grey">Source: XKCD</small></p>
+
+<h1 id="computational-tools-for-social-science-spe-489">Computational Tools for Social Science SPE 489</h1>
+
+<p><a href="https://www.dropbox.com/s/uike78pii3mp6yc/SPE489_Fall2021.pdf?dl=1">Syllabus</a></p>
+
+<h1 id="undergraduate">UNDERGRADUATE</h1>
+
+<p><strong>Teaching Experience: Instructor</strong></p>
+
+<p>Graduate Bootcamp in R Statistical Programming (2016-2019)</p>
+
+<p>PS6: Intro to Data Analysis (Summer 2018)</p>
+
+<p>Cluster 60A: Intro to Data Analysis — Public Opinion in the 1960s (Spring 2019)</p>
+
+<p><strong>Teaching Experience: Teaching Assistant</strong></p>
+
+<p>Political Communications, UCLA (Fall 2018; Winter 2018)</p>
+
+<p>American Politics, UW (Fall 2014; Winter 2014; Spring 2015)</p>
+
+<h2 id="resources">RESOURCES</h2>
+
+<h1 id="experimental-methods-resources">Experimental Methods Resources</h1>
+
+<p><a href="http://u.osu.edu/pearson.325/2018/12/04/creating-realistic-stimuli-with-chrome-developer-tools/">Creating Realistic Stimuli with Chrome Developer Tools</a></p>
+
+<h1 id="public-data-sources-political-data">Public Data Sources Political Data</h1>
+
+<p><a href="https://pollsandvotes.com/?p=184">Polling, Voting, and Census Data Resources</a></p>
+
+<h1 id="shapefiles">Shapefiles</h1>
+
+<p><a href="https://cran.r-project.org/web/packages/USAboundaries/index.html">Historic Shapefile Boundaries (state, county, congressional district, and zip code) 1629 - 2000</a></p>
+
+<p><a href="https://s4.ad.brown.edu/Projects/Diversity/researcher/bridging.htm">Bridging Census Tracts Over time</a></p>
+
+<h1 id="mrp-guides-and-software">MRP Guides and Software</h1>
+
+<p><a href="https://jayrobwilliams.com/files/html/teaching-materials/MRP#">Guide by Rob Williams</a></p>
+
+<p><a href="https://scholar.princeton.edu/jkastellec/publications/mrp_primer">Guide by Jonathan Kastellec (w/data)</a></p>
+
+<p><a href="https://github.com/rdrivers/mrp-aapor">AAPOR Presentation by Doug Rivers</a></p>
+
+<p><a href="https://cran.r-project.org/web/packages/rstanarm/vignettes/mrp.html">MRP With rstanarm by Lauren Kennedy and Johan Gabry</a></p>
+
+<p><a href="https://timmastny.rbind.io/blog/multilevel-mrp-tidybayes-brms-stan/">MRP using brms and tidybayes by Tim Mastny</a></p>
+
+<p><a href="https://t.co/yMKjV98jZk?amp=1">Target Estimation and Adjustment Weighting
+for Survey Nonresponse and Sampling Bias by Caughey et al 2019</a></p>
+
+<p><a href="https://lucasleemann.files.wordpress.com/2020/03/leemann-and-wasserfallen-2020.pdf">Measuring Attitudes – Multilevel Modeling with Post-Stratification book chapter by Leeman and Wasserfallen</a>
+<a href="https://github.com/lleemann/MrP_chapter/blob/master/MrP_Illsutration.pdf">// Code Guide to Accompany Leeman and Wasserfallen Chapter</a></p>
+
+<p><a href="https://journals.sagepub.com/doi/abs/10.1177/1478929919864773">An Introduction to Multilevel Regression and Post-Stratification for Estimating Constituency Opinion</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IPPPNU">// Replication Data</a></p>
+
+<p><a href="https://github.com/jamesdunham/dgo">DGO R Package</a></p>
+
+<p><a href="https://www.jstor.org/stable/24572968?seq=1#metadata_info_tab_contents">Method behind DGO R Package</a></p>
+
+:ET

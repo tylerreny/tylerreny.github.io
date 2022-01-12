@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching and Resources
 permalink: /teaching/
 ---
 
@@ -19,19 +19,8 @@ permalink: /teaching/
 
 [Syllabus](https://www.dropbox.com/s/uike78pii3mp6yc/SPE489_Fall2021.pdf?dl=1)
 
-[Class 1 (Sept 2, 2021) Script: Intro to R](https://www.dropbox.com/s/g49idjkuh9k6sdy/spe489_class1_intro_r.Rmd?dl=1)
 
-[Class 2 (Sept 9, 2021) Script A: Packages, Reading and Writing Data, Intro to dplyr](https://www.dropbox.com/s/5ehzpf6x59gfmvx/spe489_class2_r.Rmd?dl=1)
 
-[Class 2 (Sept 9, 2021) Script B: R Markdown Tutorial](https://www.dropbox.com/s/pet3ggt2v4ddai6/spe489_class2_rmarkdown_tutorial.Rmd?dl=1)
-
-[Class 3 (Sept 16, 2021) Script: dplyr](https://www.dropbox.com/s/33v234vv6zxix4d/spe489_class3_dplyr.Rmd?dl=1)
-
-[Class 4 (Sept 23, 2021) Script: dplyr cont](https://www.dropbox.com/s/xgcn4z4uq0jlew3/spe489_class4_dplyr.Rmd?dl=0)
-
-[Class 6 (Sept 23, 2021) Script: dplyr continued cont](https://www.dropbox.com/s/x9tmfkmt977xi6f/spe489_class6_dplyr_cont.Rmd?dl=0)
-
-[Class 7 (Oct 14, 2021) Script: factors, string manipulation, joining data](https://www.dropbox.com/s/9dn4bf3qyb6scn4/spe489_class7_strings_factors.Rmd?dl=0)
 
 [//]: # (This is a beginners R course for incoming graduate students in political science at UCLA. The purpose of this course is to starting thinking about functional programming and data analysis in a systematic way using both base R and Tidyverse packages (dplyr, ggplot2, etc) to clean, analyze, and visualize real data. By the end of the course, students should have an understanding of object oriented languages, work flow, reproducibility, data munging, summarizing data, and visualizing data. Each of the lessons will take about 2 hours to complete. 
 
@@ -122,6 +111,10 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 # Experimental Methods Resources
 
 [Creating Realistic Stimuli with Chrome Developer Tools](http://u.osu.edu/pearson.325/2018/12/04/creating-realistic-stimuli-with-chrome-developer-tools/)
+
+# Public Data Sources Political Data
+
+[Polling, Voting, and Census Data Resources](https://pollsandvotes.com/?p=184)
 
 # Shapefiles
 
