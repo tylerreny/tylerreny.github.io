@@ -4,11 +4,11 @@ title: Teaching and Resources
 permalink: /teaching/
 ---
 
-<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/?code=' frameborder='0'></iframe>
-
 # GRADUATE
 
 # Computational Tools for Social Science SPE 489
+
+<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/?code=' frameborder='0'></iframe>
 
 [Syllabus](https://www.dropbox.com/s/uike78pii3mp6yc/SPE489_Fall2021.pdf?dl=0)
 
