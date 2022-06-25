@@ -8,9 +8,10 @@ permalink: /research/
 
 **The Opinion Mobilizing Effect of Social Protest Against Police Violence: Evidence from the 2020 George Floyd Protests** (with Ben Newman) *The American Political Science Review* 
 
-[expand]
+<details>
+	<summary>Click to expand</summary>
 Does social protest following the police killing of unarmed Black civilians have a widespread "opinion mobilizing” effect against the police? Or, does the racialized nature of these events polarize mass opinion based on standing racial and political orientations? To answer these questions, we utilize a large dataset comprised of weekly cross-sections of the American public and employ a regression discontinuity in time (RDiT) approach leveraging the random timing of the police killing of George Floyd and ensuing nationwide protests. We find that the Floyd protests swiftly decreased favorability toward the police and increased perceived anti-Black discrimination among low-prejudice and politically liberal Americans. However, attitudes among high-prejudice and politically conservative Americans either remained unchanged or evinced only small and ephemeral shifts. Our evidence suggests that the Floyd protests served to further racialize and politicize attitudes within the domain of race and law enforcement in the U.S. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_newman_2021_floyd.pdf)
-[/expand]
+</details>
 
 **The Color of Disparity: Racialized Income Inequality and Support for Liberal Economic Policies** (with Ben Newman and Bea-Sim Ooi) *The Journal of Politics* 
 
