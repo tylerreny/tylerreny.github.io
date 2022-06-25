@@ -6,17 +6,21 @@ permalink: /teaching/
 
 # GRADUATE
 
-# Computational Tools for Social Science SPE 489
+# Computational Tools for Social Science SPE 489 (Fall 2021, Fall 2022)
 
 [Syllabus](https://www.dropbox.com/s/uike78pii3mp6yc/SPE489_Fall2021.pdf?dl=0)
 
-# American Political Behavior PP 302
+# American Political Behavior PP 302 (Spring 2022)
 
 [Syllabus](https://www.dropbox.com/s/umctl1vqfc0e2ns/PP302_spring_2022.docx?dl=0)
 
-# Identity Politics PP 333
+# Identity Politics PP 333 (Spring 2022)
 
 [Syllabus](https://www.dropbox.com/s/tt0l9u1a2zqxif3/PP333_Spring_2022.docx?dl=0)
+
+# Survey Methods PP 343 (Fall 2022)
+
+[Syllabus Coming Soon]
 
 [//]: # (**Undergrad Resources**)
 
