@@ -36,113 +36,155 @@ Social scientists have long shown that self-interest rarely has a large effect o
 &nbsp;
 &nbsp;
 
-**Masculine Norms and Infectious Disease: The Case of COVID-19** *Politics and Gender* 
+**Masculine Norms and Infectious Disease: The Case of COVID-19** *Politics and Gender* [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_2020_sexism_covid_final_public.pdf) [[Gated]](https://www.cambridge.org/core/journals/politics-and-gender/article/masculine-norms-and-infectious-disease-the-case-of-covid19/730D3884492AEF9F9CCD2AD8B5E429E8)
 
-During the novel coronavirus pandemic of 2019-2020 early data suggested that men were slightly more likely to contract COVID-19 than women, less likely to seek medical attention for the disease, and far more likely to die as a result of COVID-19. While several studies have explored this gender gap, none have attempted to isolate the psychological processes underpinning this phenomenon. In this research note, I suggest that belief in masculine norms partly explains these differences. Using data from a large (n=100,689) survey of American adults conducted between March and June by the Democracy Fund + UCLA (Nationscape), I find that sexist beliefs, a component of masculine norms, are consistently the strongest predictor of coronavirus-related emotions, behaviors, policy attitudes, and ultimately contracting COVID-19. This study highlights how gender ideology can impact health and impede government public health efforts. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_2020_sexism_covid_final_public.pdf) [[Gated]](https://www.cambridge.org/core/journals/politics-and-gender/article/masculine-norms-and-infectious-disease-the-case-of-covid19/730D3884492AEF9F9CCD2AD8B5E429E8)
-
-&nbsp;
-&nbsp;
-
-**Xenophobia in the Time of Pandemic: Othering, Anti-Asian Attitudes, and COVID-19** (with Matt Barreto) *Politics, Groups, and Identities*
-
-As the number of COVID-19 cases rose in the U.S. and around the world in early 2020, conservative elites in the United States racialized the pandemic, referring to the coronavirus as the “Chinese flu” or the “Wuhan virus.” Existing research suggests that this linking of the viral pandemic to a social group will “activate” anti-Asian attitudes in the mass public, helping bring those attitudes to bear on behaviors and attitudes related to COVID-19. Despite anecdotal evidence of a spike in discriminatory behavior targeted at Asians across western countries, little empirical evidence for this “othering” hypothesis exists. Using a large survey (n=4,311) benchmarked to national demographics, we analyze the relationship between attitudes toward Asian Americans, xenophobia, concern about contracting the coronavirus, and a variety of behavioral outcomes and policy attitudes. We find evidence that anti-Asian attitudes are associated with concern about the virus but also with xenophobic behaviors and policy preferences. These relationships are unique to Asian American attitudes, are not related to attitudes toward other outgroups, and do not hold for a variety of placebo outcomes. Together our findings suggest that anti-Asian attitudes were activated and were associated with a variety of COVID-19 attitudes and behaviors in the early stages of the pandemic. [[PDF]](https://www.dropbox.com/s/3bniukgr62yu02m/Reny_Barreto_COVID_for_sharing.pdf?dl=0)
+<details>
+	<summary>Abstract</summary>
+During the novel coronavirus pandemic of 2019-2020 early data suggested that men were slightly more likely to contract COVID-19 than women, less likely to seek medical attention for the disease, and far more likely to die as a result of COVID-19. While several studies have explored this gender gap, none have attempted to isolate the psychological processes underpinning this phenomenon. In this research note, I suggest that belief in masculine norms partly explains these differences. Using data from a large (n=100,689) survey of American adults conducted between March and June by the Democracy Fund + UCLA (Nationscape), I find that sexist beliefs, a component of masculine norms, are consistently the strongest predictor of coronavirus-related emotions, behaviors, policy attitudes, and ultimately contracting COVID-19. This study highlights how gender ideology can impact health and impede government public health efforts. 
+</details>
 
 &nbsp;
 &nbsp;
 
-**Female Empowerment and the Politics of Language: Evidence Using Gender-Neutral Amendments to State Constitutions** (with Benjamin Newman and Stephanie L. DeMora) *British Journal of Political Science*
+**Xenophobia in the Time of Pandemic: Othering, Anti-Asian Attitudes, and COVID-19** (with Matt Barreto) *Politics, Groups, and Identities* [[PDF]](https://www.dropbox.com/s/3bniukgr62yu02m/Reny_Barreto_COVID_for_sharing.pdf?dl=0)
 
-This letter explores language politics as it concerns gender, and investigates the adoption of amendments which introduce gender-neutral language to subnational constitutions via popular initiative. Embracing theories of female empowerment based on resource acquisition and shrinking gender differentials in economic resources, we argue that popular support for these initiatives will be higher in contexts where female and male incomes are closer to parity. We test this expectation using city-level historical administrative data in California on Proposition 11 in 1974—the first American state to hold a popular vote on amending its constitution to include only gender-neutral language. We find that greater parity in income between women and men is associated with greater voter support for the initiative. This result holds after controlling for conceivable confounders, fails to emerge when analyzing gender-irrelevant ballot measures, and replicates when analyzing similar measures held in three additional jurisdictions. [[PDF]](http://tylerreny.github.io/pdf/pubs/Newman_DeMora_Reny_2020_BJPolS_Letter_Final.pdf)
-
-&nbsp;
-&nbsp;
-
-**Evolution of Experiments on Racial Priming**  (with Ali Valenzuela) *in Advances in Experimental Political Science Eds. James N. Druckman and Donald P. Green*
-
-A large body of research shows exposure to racialized media and racist campaign communication can increase the likelihood that racial attitudes influence Americans’ subsequent political evaluations. Recent political trends, however, suggest existing models may no longer adequately explain the effects of racial and racist messages among whites and non-whites alike. Of particular importance for this question is whether implicitly racial messages still prime white Americans’ racial attitudes. Additional questions considered in this chapter include the following. Do classic theories of racial priming apply to political messages about other racial, ethnic, and religious minority groups? Who is most susceptible to racial priming? When should researchers measure racial attitudes in survey experiments? How can we design racial messages that are implicit? And do identity-based appeals and attacks commonly used today still prime ethno-racial identity attachments? We synthesize debates in the extant research on racial priming, explain why experiments are the best approach for measuring racial priming effects, discuss how to overcome several design and methodological challenges facing racial priming scholars, and then propose an agenda for future research to help address a variety of outstanding questions in this increasingly important area of scholarship. [[PDF]](http://tylerreny.github.io/pdf/pubs/ValenzuelaReny_racial_priming_cambridge_handbook.pdf)
+<details>
+	<summary>Abstract</summary>
+As the number of COVID-19 cases rose in the U.S. and around the world in early 2020, conservative elites in the United States racialized the pandemic, referring to the coronavirus as the “Chinese flu” or the “Wuhan virus.” Existing research suggests that this linking of the viral pandemic to a social group will “activate” anti-Asian attitudes in the mass public, helping bring those attitudes to bear on behaviors and attitudes related to COVID-19. Despite anecdotal evidence of a spike in discriminatory behavior targeted at Asians across western countries, little empirical evidence for this “othering” hypothesis exists. Using a large survey (n=4,311) benchmarked to national demographics, we analyze the relationship between attitudes toward Asian Americans, xenophobia, concern about contracting the coronavirus, and a variety of behavioral outcomes and policy attitudes. We find evidence that anti-Asian attitudes are associated with concern about the virus but also with xenophobic behaviors and policy preferences. These relationships are unique to Asian American attitudes, are not related to attitudes toward other outgroups, and do not hold for a variety of placebo outcomes. Together our findings suggest that anti-Asian attitudes were activated and were associated with a variety of COVID-19 attitudes and behaviors in the early stages of the pandemic. 
+</details>
 
 &nbsp;
 &nbsp;
 
-**No, You’re Playing the Race Card': Testing the Effects of Anti-Black, Anti-Latino and Anti-Immigration Appeals in the post-Obama Era** (with Ali Valenzuela and Loren Collingwood) *Political Psychology*
+**Female Empowerment and the Politics of Language: Evidence Using Gender-Neutral Amendments to State Constitutions** (with Benjamin Newman and Stephanie L. DeMora) *British Journal of Political Science* [[PDF]](http://tylerreny.github.io/pdf/pubs/Newman_DeMora_Reny_2020_BJPolS_Letter_Final.pdf)
 
-Despite a sizable literature on racial priming, scholars have failed to account for the shifting nature of racial appeals. First, theories of racial priming have not yet been widely applied to increasingly common anti-immigrant and anti-Latino political appeals. Second, theories of racial priming have not adequately accounted for both an increasingly racialized political climate and increased tolerance for explicit anti-minority appeals. In two survey experiments fielded both before Trump’s rise and after his presidential victory, we find the Implicit-Explicit (IE) model always fails for anti-Black appeals, sometimes fails for anti-immigrant appeals, but consistently holds for anti-Latino appeals. While we find the null effects of implicit versus explicit anti-Black and anti-immigrant appeals are partly driven by tolerance for the explicit appeals, we also find evidence that white Americans are adept at recognizing the racial content of appeals featuring widely used issue-group congruent pairs. Our findings shed light on conditions under which the IE model does and does not hold in the current political era.[[PDF]](http://tylerreny.github.io/pdf/pubs/reny_etal_2019_polpsych.pdf) [[Appendix]](http://tylerreny.github.io/pdf/pubs/reny_etal_2019_polpsych_appendix.pdf) 
-
-&nbsp;
-&nbsp;
-
-**Threat, Mobilization, and Latino Voting in the 2018 Election** (with Bryan Wilcox-Archuleta and Vanessa Cruz Nichols) *The Forum: A Journal of Applied Research in Contemporary Politics* 
-
-Throughout the 2016 U.S. presidential campaign and the first two years of his presidency, Donald Trump has repeatedly dehumanized immigrants in pursuit of more restrictive immigration policies. Despite the common perception that this threat should increase the political mobilization of Latino voters, existing research has yielded mixed findings. In this article, we argue that attention has to be paid to both threatening climate and mobilization. We examine Latino voting in the 2018 midterm election using both aggregate election data from 2014 and 2018 as well as a large 10-week tracking poll (n=2,767) of Latinos during the last two months of the 2018 election. We show that, compared to 2014, the number of ballots cast by Latinos increased substantially. Using the tracking poll, however, we show that threat alone did not appear to be sufficient to mobilize Latino voters in the 2018 election. It is threat combined with mobilization, rather, that increased Latino voting. We discuss implications for future Latino political participation in the United States. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_wilcox_cruz_nichols2019.pdf) 
+<details>
+	<summary>Abstract</summary>
+This letter explores language politics as it concerns gender, and investigates the adoption of amendments which introduce gender-neutral language to subnational constitutions via popular initiative. Embracing theories of female empowerment based on resource acquisition and shrinking gender differentials in economic resources, we argue that popular support for these initiatives will be higher in contexts where female and male incomes are closer to parity. We test this expectation using city-level historical administrative data in California on Proposition 11 in 1974—the first American state to hold a popular vote on amending its constitution to include only gender-neutral language. We find that greater parity in income between women and men is associated with greater voter support for the initiative. This result holds after controlling for conceivable confounders, fails to emerge when analyzing gender-irrelevant ballot measures, and replicates when analyzing similar measures held in three additional jurisdictions. 
+</details>
 
 &nbsp;
 &nbsp;
 
-**Vote Switching in the 2016 Election: Racial and Immigration Attitudes, Not Economics, Explains Shifts in White Voting** (with Loren Collingwood and Ali Valenzuela) *Forthcoming at Public Opinion Quarterly*
+**Evolution of Experiments on Racial Priming**  (with Ali Valenzuela) *in Advances in Experimental Political Science Eds. James N. Druckman and Donald P. Green* [[PDF]](http://tylerreny.github.io/pdf/pubs/ValenzuelaReny_racial_priming_cambridge_handbook.pdf)
 
-In the aftermath of Donald Trump's 2016 electoral college victory, journalists focused heavily on the white working class (WWC) and the relationship between economic anxiety, racial attitudes, and immigration attitudes and support for Trump. One hypothesized but untested proposition for Donald Trump's success is that his unorthodox candidacy, particularly his rhetoric surrounding economic marginalization and immigration, shifted WWC voters who did not vote Republican in 2012 into his coalition. Using a large nationally representative survey we examine 1) whether racial and immigration attitudes or economic dislocation and marginality were the main catalysts for vote switching, and; 2) whether this phenomena was isolated among the white working class. We find a non-trivial number of white voters switched their votes in the 2016 election to Trump or Clinton, that this vote switching was associated much more strongly with racial and immigration attitudes than economic factors, and that the phenomena occurred among both working class and non-working class whites, though many more working class whites switched than non-working class whites. Our findings suggest that racial and immigration attitudes may be continuing to sort white voters into new partisan camps and further polarize the parties along racial lines. [[PDF]](http://tylerreny.github.io/pdf/pubs/final_submission_reny_etal_poq_public.pdf) [[Appendix]](http://tylerreny.github.io/pdf/pubs/final_submission_reny_etal_poq_2018_appendix.pdf) [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
+<details>
+	<summary>Abstract</summary>
+A large body of research shows exposure to racialized media and racist campaign communication can increase the likelihood that racial attitudes influence Americans’ subsequent political evaluations. Recent political trends, however, suggest existing models may no longer adequately explain the effects of racial and racist messages among whites and non-whites alike. Of particular importance for this question is whether implicitly racial messages still prime white Americans’ racial attitudes. Additional questions considered in this chapter include the following. Do classic theories of racial priming apply to political messages about other racial, ethnic, and religious minority groups? Who is most susceptible to racial priming? When should researchers measure racial attitudes in survey experiments? How can we design racial messages that are implicit? And do identity-based appeals and attacks commonly used today still prime ethno-racial identity attachments? We synthesize debates in the extant research on racial priming, explain why experiments are the best approach for measuring racial priming effects, discuss how to overcome several design and methodological challenges facing racial priming scholars, and then propose an agenda for future research to help address a variety of outstanding questions in this increasingly important area of scholarship. 
+</details>
+
+&nbsp;
+&nbsp;
+
+**No, You’re Playing the Race Card': Testing the Effects of Anti-Black, Anti-Latino and Anti-Immigration Appeals in the post-Obama Era** (with Ali Valenzuela and Loren Collingwood) *Political Psychology* [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_etal_2019_polpsych.pdf) [[Appendix]](http://tylerreny.github.io/pdf/pubs/reny_etal_2019_polpsych_appendix.pdf) 
+
+<details>
+	<summary>Abstract</summary>
+Despite a sizable literature on racial priming, scholars have failed to account for the shifting nature of racial appeals. First, theories of racial priming have not yet been widely applied to increasingly common anti-immigrant and anti-Latino political appeals. Second, theories of racial priming have not adequately accounted for both an increasingly racialized political climate and increased tolerance for explicit anti-minority appeals. In two survey experiments fielded both before Trump’s rise and after his presidential victory, we find the Implicit-Explicit (IE) model always fails for anti-Black appeals, sometimes fails for anti-immigrant appeals, but consistently holds for anti-Latino appeals. While we find the null effects of implicit versus explicit anti-Black and anti-immigrant appeals are partly driven by tolerance for the explicit appeals, we also find evidence that white Americans are adept at recognizing the racial content of appeals featuring widely used issue-group congruent pairs. Our findings shed light on conditions under which the IE model does and does not hold in the current political era.
+</details>
+
+&nbsp;
+&nbsp;
+
+**Threat, Mobilization, and Latino Voting in the 2018 Election** (with Bryan Wilcox-Archuleta and Vanessa Cruz Nichols) *The Forum: A Journal of Applied Research in Contemporary Politics* [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_wilcox_cruz_nichols2019.pdf) 
+
+<details>
+	<summary>Abstract</summary>
+Throughout the 2016 U.S. presidential campaign and the first two years of his presidency, Donald Trump has repeatedly dehumanized immigrants in pursuit of more restrictive immigration policies. Despite the common perception that this threat should increase the political mobilization of Latino voters, existing research has yielded mixed findings. In this article, we argue that attention has to be paid to both threatening climate and mobilization. We examine Latino voting in the 2018 midterm election using both aggregate election data from 2014 and 2018 as well as a large 10-week tracking poll (n=2,767) of Latinos during the last two months of the 2018 election. We show that, compared to 2014, the number of ballots cast by Latinos increased substantially. Using the tracking poll, however, we show that threat alone did not appear to be sufficient to mobilize Latino voters in the 2018 election. It is threat combined with mobilization, rather, that increased Latino voting. We discuss implications for future Latino political participation in the United States. 
+</details>
+
+&nbsp;
+&nbsp;
+
+**Vote Switching in the 2016 Election: Racial and Immigration Attitudes, Not Economics, Explains Shifts in White Voting** (with Loren Collingwood and Ali Valenzuela) *Forthcoming at Public Opinion Quarterly* [[PDF]](http://tylerreny.github.io/pdf/pubs/final_submission_reny_etal_poq_public.pdf) [[Appendix]](http://tylerreny.github.io/pdf/pubs/final_submission_reny_etal_poq_2018_appendix.pdf) [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
+
+<details>
+	<summary>Abstract</summary>
+In the aftermath of Donald Trump's 2016 electoral college victory, journalists focused heavily on the white working class (WWC) and the relationship between economic anxiety, racial attitudes, and immigration attitudes and support for Trump. One hypothesized but untested proposition for Donald Trump's success is that his unorthodox candidacy, particularly his rhetoric surrounding economic marginalization and immigration, shifted WWC voters who did not vote Republican in 2012 into his coalition. Using a large nationally representative survey we examine 1) whether racial and immigration attitudes or economic dislocation and marginality were the main catalysts for vote switching, and; 2) whether this phenomena was isolated among the white working class. We find a non-trivial number of white voters switched their votes in the 2016 election to Trump or Clinton, that this vote switching was associated much more strongly with racial and immigration attitudes than economic factors, and that the phenomena occurred among both working class and non-working class whites, though many more working class whites switched than non-working class whites. Our findings suggest that racial and immigration attitudes may be continuing to sort white voters into new partisan camps and further polarize the parties along racial lines. 
 
 
 Media: [[Vox.com]](https://www.vox.com/policy-and-politics/2018/10/16/17980820/trump-obama-2016-race-racism-class-economy-2018-midterm) [[Daily Beat Podcast Pt. 1]](http://www.btrtoday.com/listen/thedailybeat/vote-switching-in-the-2016-election-with-tyler-reny-part-1/) [[Daily Beat Podcast Pt. 2]](http://www.btrtoday.com/listen/thedailybeat/vote-switching-white-economic-anxiety-more-with-tyler-reny-part2/)
+</details>
 
 &nbsp;
 &nbsp;
 
-**Protecting the Right to Discriminate: The Second Great Migration and Racial Threat in the American West** (with Ben Newman) *American Political Science Review*
+**Protecting the Right to Discriminate: The Second Great Migration and Racial Threat in the American West** (with Ben Newman) *American Political Science Review* [[Online Appendix]](http://tylerreny.github.io/pdf/pubs/reny_newman_apsr_2018_SI.pdf) [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
 
 &nbsp;
 &nbsp;
 
-Taking advantage of a unique event in American history, the Second Great Migration, we explore whether the rapid entry of blacks into nearly exclusively white contexts triggered "racial threat" in white voting behavior in the state of California. Utilizing historical administrative data, we find that increasing proximity to previously white areas experiencing drastic black population growth between 1940 to 1960 is associated with significant increases in aggregate white voter support for a highly racially-charged ballot measure, Proposition 14, which legally protected racial discrimination in housing. Importantly, we find that this result holds when restricting the analysis to all-white areas with high rates of residential tenure and low rates of white population growth. These latter findings indicate that this relationship materializes in contexts where a larger share of white voters (a) were present during the treatment and (b) exercised residential-choice before the treatment commenced, which is suggestive of a causal effect.  [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_newman_apsr_2018.pdf) [[Online Appendix]](http://tylerreny.github.io/pdf/pubs/reny_newman_apsr_2018_SI.pdf) [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
+<details>
+	<summary>Abstract</summary>
+Taking advantage of a unique event in American history, the Second Great Migration, we explore whether the rapid entry of blacks into nearly exclusively white contexts triggered "racial threat" in white voting behavior in the state of California. Utilizing historical administrative data, we find that increasing proximity to previously white areas experiencing drastic black population growth between 1940 to 1960 is associated with significant increases in aggregate white voter support for a highly racially-charged ballot measure, Proposition 14, which legally protected racial discrimination in housing. Importantly, we find that this result holds when restricting the analysis to all-white areas with high rates of residential tenure and low rates of white population growth. These latter findings indicate that this relationship materializes in contexts where a larger share of white voters (a) were present during the treatment and (b) exercised residential-choice before the treatment commenced, which is suggestive of a causal effect.  [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_newman_apsr_2018.pdf) 
+</details>
 
 *Awards: Charles Redd Award for Best Paper on Politics of the American West (WPSA 2018)*
 
 &nbsp;
 &nbsp;
 
-**Roots of the Radical Right: Nostalgic Deprivation in the United States and Britain** (with Justin Gest and Jeremy Mayer) *Comparative Political Studies*
+**Roots of the Radical Right: Nostalgic Deprivation in the United States and Britain** (with Justin Gest and Jeremy Mayer) *Comparative Political Studies*  [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_2017_cps_final.pdf)  [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
 
-Following trends in Europe over the past decade, support for the Radical Right has recently grown more significant in the United States and the United Kingdom. While the United Kingdom has witnessed the rise of Radical Right fringe groups, the United States's political spectrum has been altered by the Tea Party and the election of Donald Trump. This paper asks what predicts white individuals' support for such groups. In original, representative surveys of white individuals in Britain and the United States, we use an innovative technique to measure subjective social, political, and economic status that captures individuals' perceptions of increasing or decreasing deprivation over time. We then analyze the impact of these deprivation measures on support for the Radical Right among Republicans (Conservatives), Democrats (Labourites), and Independents. We show that nostalgic deprivation among white respondents drives support for the Radical Right in the United Kingdom and the United States. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_2017_cps_final.pdf)  [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
-
-&nbsp;
-&nbsp;
-
-**Demographic Change, Latino Countermobilization, and the Politics of Immigration in U.S. Senate Campaigns** *Political Research Quarterly*
-
-Demographic changes from decades of mass immigration and shifts in internal migration patterns are upending the traditional racial composition of many states throughout the United States, transforming the American electorate, and increasing both the political salience of immigration and the racial salience of Latinos. Politicizing these visible demographic shifts has become an increasingly common strategy by both Democrats and Republicans with potentially significant electoral effects. While many have examined the impact of these demographic changes on dominant receiving populations' attitudes, few have examined how changing demographics are shaping immigration politics in electoral campaigns. Specifically, under what conditions do political candidates politicize demographic change? I hypothesize that both political and demographic considerations drive variation in immigration appeals. I test my hypotheses using candidate campaign websites from 2010, 2012, and 2014 U.S. Senate primary and general elections. I argue that racial party cleavages increase the electoral temptation of immigration appeals but it is the interaction between Latino population growth, electoral competition, and Latino voters that determines campaign strategy more broadly and moderates the use of pro- and anti-immigrant appeals [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_2017_prq_final.pdf) [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
+<details>
+	<summary>Abstract</summary>
+Following trends in Europe over the past decade, support for the Radical Right has recently grown more significant in the United States and the United Kingdom. While the United Kingdom has witnessed the rise of Radical Right fringe groups, the United States's political spectrum has been altered by the Tea Party and the election of Donald Trump. This paper asks what predicts white individuals' support for such groups. In original, representative surveys of white individuals in Britain and the United States, we use an innovative technique to measure subjective social, political, and economic status that captures individuals' perceptions of increasing or decreasing deprivation over time. We then analyze the impact of these deprivation measures on support for the Radical Right among Republicans (Conservatives), Democrats (Labourites), and Independents. We show that nostalgic deprivation among white respondents drives support for the Radical Right in the United Kingdom and the United States.
+</details>
 
 &nbsp;
 &nbsp;
 
-**Immigrant Political Ambition:  New Americans and the Quest for Political Office** (with Paru Shah) *Social Sciences Quarterly*
+**Demographic Change, Latino Countermobilization, and the Politics of Immigration in U.S. Senate Campaigns** *Political Research Quarterly* [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_2017_prq_final.pdf) [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
 
+<details>
+	<summary>Abstract</summary>
+Demographic changes from decades of mass immigration and shifts in internal migration patterns are upending the traditional racial composition of many states throughout the United States, transforming the American electorate, and increasing both the political salience of immigration and the racial salience of Latinos. Politicizing these visible demographic shifts has become an increasingly common strategy by both Democrats and Republicans with potentially significant electoral effects. While many have examined the impact of these demographic changes on dominant receiving populations' attitudes, few have examined how changing demographics are shaping immigration politics in electoral campaigns. Specifically, under what conditions do political candidates politicize demographic change? I hypothesize that both political and demographic considerations drive variation in immigration appeals. I test my hypotheses using candidate campaign websites from 2010, 2012, and 2014 U.S. Senate primary and general elections. I argue that racial party cleavages increase the electoral temptation of immigration appeals but it is the interaction between Latino population growth, electoral competition, and Latino voters that determines campaign strategy more broadly and moderates the use of pro- and anti-immigrant appeals 
+</details>
+
+&nbsp;
+&nbsp;
+
+**Immigrant Political Ambition:  New Americans and the Quest for Political Office** (with Paru Shah) *Social Sciences Quarterly*  [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_shah_2018_ssq_immigrant_ambition.pdf) [[Press]](https://www.voanews.com/a/immigrants-candidates-make-a-run-for-it-in-upcoming-us-elections/4439132.html)
+
+<details>
+	<summary>Abstract</summary>
 Objective: Record numbers of first- and second-generation immigrants have won elected office over the last few electoral cycles, yet we find immigrants are still underrepresented at all levels of government. What are the perceived barriers to entry into political life among these New Americans? 
 
 Method: Using a unique survey dataset that includes an oversample of first- and second-generation immigrants who have enrolled in civic leadership trainings, we examine the similarities and differences between immigrant and non-immigrant leaders.
 
 Results: We find that immigrants are in many ways similar to their non-immigrant counterparts in that access to structural resources help shape their political ambition. Yet immigrants, unlike their non-immigrant counterparts, often have less of these resources and perceive their ability to capitalize on these resources as less feasible.
  
-Conclusions: We find that the traditional barriers to office---lack of professional and political experiences, finances, and monied networks---all contribute to lower self-perceived qualifications for office among both immigrants and non-immigrants. Yet the New American leaders who are highly politically involved, deeply rooted in their communities, and well-positioned to run for office, face the additional psychological barriers posed by their race and ethnicity, immigrant identity, citizenship status, language ability, and acculturation, barriers that are often offered in open-ended essays as self-evident and crippling. Leadership training programs play a crucial role in providing training and instilling confidence in would-be immigrant candidates. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_shah_2018_ssq_immigrant_ambition.pdf) [[Press]](https://www.voanews.com/a/immigrants-candidates-make-a-run-for-it-in-upcoming-us-elections/4439132.html)
+Conclusions: We find that the traditional barriers to office---lack of professional and political experiences, finances, and monied networks---all contribute to lower self-perceived qualifications for office among both immigrants and non-immigrants. Yet the New American leaders who are highly politically involved, deeply rooted in their communities, and well-positioned to run for office, face the additional psychological barriers posed by their race and ethnicity, immigrant identity, citizenship status, language ability, and acculturation, barriers that are often offered in open-ended essays as self-evident and crippling. Leadership training programs play a crucial role in providing training and instilling confidence in would-be immigrant candidates.
+</details>
 
 &nbsp;
 &nbsp;
 
-**Survey Methodology and the Latina/o Vote: Why a Bilingual, Bicultural, Latino-centered Approach Matters** (with Matt Barreto and Bryan Wilcox-Archuleta) *Aztlan: A Journal of Chicano Studies*
+**Survey Methodology and the Latina/o Vote: Why a Bilingual, Bicultural, Latino-centered Approach Matters** (with Matt Barreto and Bryan Wilcox-Archuleta) *Aztlan: A Journal of Chicano Studies* [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_2017_aztlan_final.pdf) 
 
-In this article, we briefly summarize the academic literature on Latino political behavior, explain why understanding the attitudes of subgroups requires pollsters sensitive to the populations they study, and present a novel analysis of real vote data that suggests that Clinton did, as expected, surpass Obama's margin of victory among Latino voters. Analyzing 29,045,522 votes from 39,118 electoral precincts across 10 states, we show that Latino Decisions polling was far closer to the actual vote returns than the Edison Exit Poll. We conclude by looking to the future of the Latino electorate and polling in U.S. elections. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_2017_aztlan_final.pdf) 
-
-&nbsp;
-&nbsp;
-
-**"The Negative Effects of Mass Media Stereotypes of Latinos and Immigrants" In *Media and Minorities: Questions on Representation from an International Perspective*. Eds Georg Ruhrmann, Yasemin Shooman, and Peter Widmann. Jewish Museum of Berlin Press**
-
-In this chapter, we leverage data from a national survey and an interactive online experiment to answer two key questions. First, which stereotypes about Latinos and immigrants do Americans hold? Second, does exposure to these stereotypes from popular media sources reinforce or attenuate them? We find convincing evidence that non-Latinos attribute both negative and positive stereotypes to Latinos and immigrants, that these stereotypes are not moderated by interpersonal contact with Latinos or immigrants, and that news and entertainment media can shape public opinion about Latinos and immigrants in a variety of ways [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_manzano_stereotypes_2016.pdf)
+<details>
+	<summary>Abstract</summary>
+In this article, we briefly summarize the academic literature on Latino political behavior, explain why understanding the attitudes of subgroups requires pollsters sensitive to the populations they study, and present a novel analysis of real vote data that suggests that Clinton did, as expected, surpass Obama's margin of victory among Latino voters. Analyzing 29,045,522 votes from 39,118 electoral precincts across 10 states, we show that Latino Decisions polling was far closer to the actual vote returns than the Edison Exit Poll. We conclude by looking to the future of the Latino electorate and polling in U.S. elections. 
+</details>
 
 &nbsp;
 &nbsp;
 
-**El peso del voto Latino en 2016** (with Sergio I. Garcia-Rios, Angela X. Ocampo, and Bryan Wilcox-Archuleta) *Foreign Affairs Latinoamerica* Volumen 17, Numero 1. 
+**"The Negative Effects of Mass Media Stereotypes of Latinos and Immigrants" In *Media and Minorities: Questions on Representation from an International Perspective*. Eds Georg Ruhrmann, Yasemin Shooman, and Peter Widmann. Jewish Museum of Berlin Press** [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_manzano_stereotypes_2016.pdf)
 
-In this article we use precinct level election and demographic data to estimate Latino 2016 presidential general election votes in Arizona, Florida, North Carolina, and Texas. We find that Trump won an estimated 16% of the Latino vote, a historic low and well below Exit Poll estimates. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_et_al_2017_foreign_affairs.pdf)
+<details>
+	<summary>Abstract</summary>
+In this chapter, we leverage data from a national survey and an interactive online experiment to answer two key questions. First, which stereotypes about Latinos and immigrants do Americans hold? Second, does exposure to these stereotypes from popular media sources reinforce or attenuate them? We find convincing evidence that non-Latinos attribute both negative and positive stereotypes to Latinos and immigrants, that these stereotypes are not moderated by interpersonal contact with Latinos or immigrants, and that news and entertainment media can shape public opinion about Latinos and immigrants in a variety of ways 
+</details>
+
+&nbsp;
+&nbsp;
+
+**El peso del voto Latino en 2016** (with Sergio I. Garcia-Rios, Angela X. Ocampo, and Bryan Wilcox-Archuleta) *Foreign Affairs Latinoamerica* Volumen 17, Numero 1. [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_et_al_2017_foreign_affairs.pdf)
+
+<details>
+	<summary>Abstract</summary>
+In this article we use precinct level election and demographic data to estimate Latino 2016 presidential general election votes in Arizona, Florida, North Carolina, and Texas. We find that Trump won an estimated 16% of the Latino vote, a historic low and well below Exit Poll estimates. 
+</details>
 
 
