@@ -23,10 +23,6 @@ permalink: /teaching/
 
 [Syllabus](https://www.dropbox.com/s/tt0l9u1a2zqxif3/PP333_Spring_2022.docx?dl=0)
 
-# Survey Methods PP 343 (Fall 2022)
-
-[Syllabus Coming Soon]
-
 [//]: # (**Undergrad Resources**)
 
 [//]: # (*Gerrymandering*)
