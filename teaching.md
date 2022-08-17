@@ -8,7 +8,12 @@ permalink: /teaching/
 
 # Computational Tools for Social Science SPE 489 (Fall 2021, Fall 2022)
 
-[Syllabus](https://www.dropbox.com/s/uike78pii3mp6yc/SPE489_Fall2021.pdf?dl=0)
+[Syllabus](https://www.dropbox.com/s/58elem8dzc2shrn/SPE489_Fall2022.docx?dl=0)
+
+# Survey Research PP484 (Fall 2022)
+
+[Syllabus](https://www.dropbox.com/s/py9ddyv34lltshz/PP484_Fall2022.docx?dl=0)
+[Readings](https://www.dropbox.com/s/umors3z7ox7gl8s/readings_pp484.zip?dl=0)
 
 # American Political Behavior PP 302 (Spring 2022)
 
