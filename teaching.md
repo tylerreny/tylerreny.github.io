@@ -12,8 +12,8 @@ permalink: /teaching/
 
 # Survey Research PP484 (Fall 2022)
 
-[Syllabus](https://www.dropbox.com/s/py9ddyv34lltshz/PP484_Fall2022.docx?dl=0)
-[Readings](https://www.dropbox.com/s/umors3z7ox7gl8s/readings_pp484.zip?dl=0)
+[Syllabus](https://www.dropbox.com/s/py9ddyv34lltshz/PP484_Fall2022.docx?dl=1)
+[Readings](https://www.dropbox.com/s/rp7p1w8ypp8t4h3/readings_pp484.zip?dl=1)
 
 # American Political Behavior PP 302 (Spring 2022)
 
