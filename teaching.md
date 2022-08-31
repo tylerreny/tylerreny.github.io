@@ -63,6 +63,12 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Polling, Voting, and Census Data Resources](https://pollsandvotes.com/?p=184)
 
+[Presidential, Senatorial, & Gubernatorial Elections in the U.S. Counties, 1872-2020](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DGUMFI)
+
+[Social Explorer for Aggregated Census Data](https://www.socialexplorer.com/explore-maps)
+
+[Media Analysis](https://mediacloud.org/)
+
 # Reading Papers like a Professor
 
 [From Prof. Michael J. Nelson's Website](https://github.com/tylerreny/tylerreny.github.io/blob/master/pdf/teaching/How%20to%20Read%20Journal%20Articles%20Like%20a%20Professor.pdf)
