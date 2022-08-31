@@ -63,7 +63,9 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Polling, Voting, and Census Data Resources](https://pollsandvotes.com/?p=184)
 
+# Reading Papers like a Professor
 
+[From Prof. Michael J. Nelson's Website](https://github.com/tylerreny/tylerreny.github.io/blob/master/pdf/teaching/How%20to%20Read%20Journal%20Articles%20Like%20a%20Professor.pdf)
 
 # Shapefiles
 
