@@ -55,6 +55,10 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 ## RESOURCES
 
+# Free student access to programming classes
+
+[Github Student](https://education.github.com/pack)
+
 # Experimental Methods Resources
 
 [Creating Realistic Stimuli with Chrome Developer Tools](http://u.osu.edu/pearson.325/2018/12/04/creating-realistic-stimuli-with-chrome-developer-tools/)
