@@ -55,6 +55,10 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 ## RESOURCES
 
+# On being a successful graduate student
+
+[Arthur Sprirling Advice on Being a Graduate Student](https://github.com/ArthurSpirling/BeingAGradStudent)
+
 # Free student access to programming classes
 
 [Github Student](https://education.github.com/pack)
