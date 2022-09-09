@@ -57,7 +57,10 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 # On being a successful graduate student
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From my experience, a key factor distinguishing between successful and less successful grad students, is the willingness to put oneself &quot;out there&quot; and ask for feedback (on memos, drafts) early and regularly.</p>&mdash; Guy Grossman (he/him) (@guygrossman) <a href="https://twitter.com/guygrossman/status/1568254045999046658?ref_src=twsrc%5Etfw">September 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [Arthur Sprirling Advice on Being a Graduate Student](https://github.com/ArthurSpirling/BeingAGradStudent)
+
 
 # Free student access to programming classes
 
