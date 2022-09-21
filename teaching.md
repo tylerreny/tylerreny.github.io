@@ -61,6 +61,13 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Arthur Sprirling Advice on Being a Graduate Student](https://github.com/ArthurSpirling/BeingAGradStudent)
 
+[UCLA REPS Lab Manual: Establishing and Maintaining a Writing Routine, Building Theoretical Frameworks, Managing Failure as a Professional Researcher](https://eoperez.com/lab-manuals/)
+
+[Michael J. Nelson: On Reading Papers like a Prof](https://github.com/tylerreny/tylerreny.github.io/blob/master/pdf/teaching/How%20to%20Read%20Journal%20Articles%20Like%20a%20Professor.pdf)
+
+[On Writing Academic Papers](https://mitsloan.mit.edu/shared/ods/documents?PublicationDocumentID=7627)
+
+[On Writing Academic Papers (cont.)](https://www.dropbox.com/s/egi2br32h0p4xy3/On%20Genre.pdf?dl=0)
 
 # Free student access to programming classes
 
@@ -80,9 +87,9 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Media Analysis](https://mediacloud.org/)
 
-# Reading Papers like a Professor
+# Diff in Diff Methods
 
-[From Prof. Michael J. Nelson's Website](https://github.com/tylerreny/tylerreny.github.io/blob/master/pdf/teaching/How%20to%20Read%20Journal%20Articles%20Like%20a%20Professor.pdf)
+[Readings and Code for Diff in Diff Methods](https://asjadnaqvi.github.io/DiD/)
 
 # Shapefiles
 
