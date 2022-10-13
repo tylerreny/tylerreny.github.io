@@ -57,6 +57,8 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 # On being a successful graduate student
 
+[My talk to CGU graduate students: The Hidden Curriculum: What You Should Learn in Grad School (But Might Not)](https://www.dropbox.com/s/7ngbtvgkieb6kr2/hidden_syllabus.pdf?dl=0)
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">From my experience, a key factor distinguishing between successful and less successful grad students, is the willingness to put oneself &quot;out there&quot; and ask for feedback (on memos, drafts) early and regularly.</p>&mdash; Guy Grossman (he/him) (@guygrossman) <a href="https://twitter.com/guygrossman/status/1568254045999046658?ref_src=twsrc%5Etfw">September 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Arthur Sprirling Advice on Being a Graduate Student](https://github.com/ArthurSpirling/BeingAGradStudent)
@@ -87,15 +89,21 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Media Analysis](https://mediacloud.org/)
 
+# Text as Data
+
+[text package in R attempts to provide user-friendly access and pipelines to HuggingFace’s transformer language models](https://blogs.rstudio.com/ai/posts/2022-09-29-r-text/)
+
 # Diff in Diff Methods
 
 [Readings and Code for Diff in Diff Methods](https://asjadnaqvi.github.io/DiD/)
 
-# Shapefiles
+# Shapefiles and Spatial Data
 
 [Historic Shapefile Boundaries (state, county, congressional district, and zip code) 1629 - 2000](https://cran.r-project.org/web/packages/USAboundaries/index.html)
 
 [Bridging Census Tracts Over time](https://s4.ad.brown.edu/Projects/Diversity/researcher/bridging.htm)
+
+[Spatial data for R (free book)](https://pyoflife.com/applied-spatial-data-analysis-with-r/)
 
 # MRP Guides and Software
 
