@@ -6,6 +6,11 @@ permalink: /teaching/
 
 # GRADUATE
 
+# Visualizing Data SPE 487 (Spring 2023)
+
+[Syllabus](https://www.dropbox.com/s/9mvil2ymrxm93sp/SPE487_Spring2023.docx?dl=1)
+[Readings](https://www.dropbox.com/s/nwwju9ddg8931yp/_all_readings_pp487.zip?dl=1)
+
 # Computational Tools for Social Science SPE 489 (Fall 2021, Fall 2022)
 
 [Syllabus](https://www.dropbox.com/s/58elem8dzc2shrn/SPE489_Fall2022.docx?dl=0)
@@ -15,9 +20,10 @@ permalink: /teaching/
 [Syllabus](https://www.dropbox.com/s/py9ddyv34lltshz/PP484_Fall2022.docx?dl=1)
 [Readings](https://www.dropbox.com/s/rp7p1w8ypp8t4h3/readings_pp484.zip?dl=1)
 
-# American Political Behavior PP 302 (Spring 2022)
+# American Political Behavior PP 302 (Spring 2022, Spring 2023)
 
-[Syllabus](https://www.dropbox.com/s/umctl1vqfc0e2ns/PP302_spring_2022.docx?dl=0)
+[Syllabus](https://www.dropbox.com/s/umctl1vqfc0e2ns/PP302_spring_2022.docx?dl=1)
+[Readings](https://www.dropbox.com/s/iaereuf9iechsym/readings_pp302.zip?dl=1)
 
 # Identity Politics PP 333 (Spring 2022)
 
@@ -70,6 +76,8 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 [On Writing Academic Papers](https://mitsloan.mit.edu/shared/ods/documents?PublicationDocumentID=7627)
 
 [On Writing Academic Papers (cont.)](https://www.dropbox.com/s/egi2br32h0p4xy3/On%20Genre.pdf?dl=0)
+
+[On Navigating an R&R from APSR editors](https://www.cambridge.org/core/blog/2022/12/05/navigating-an-rr/?utm_source=hootsuite&utm_medium=twitter&utm_campaign=MNE_campaign)
 
 # Free student access to programming classes
 
