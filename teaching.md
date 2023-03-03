@@ -82,6 +82,9 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [On Navigating an R&R from APSR editors](https://www.cambridge.org/core/blog/2022/12/05/navigating-an-rr/?utm_source=hootsuite&utm_medium=twitter&utm_campaign=MNE_campaign)
 
+[On Doing Research](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
+
+
 # Free student access to programming classes
 
 [Github Student](https://education.github.com/pack)
