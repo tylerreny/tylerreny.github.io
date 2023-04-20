@@ -109,7 +109,7 @@ Media: [[Vox.com]](https://www.vox.com/policy-and-politics/2018/10/16/17980820/t
 &nbsp;
 &nbsp;
 
-**Protecting the Right to Discriminate: The Second Great Migration and Racial Threat in the American West** (with Ben Newman) *American Political Science Review* [[Online Appendix]](http://tylerreny.github.io/pdf/pubs/reny_newman_apsr_2018_SI.pdf) [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
+**Protecting the Right to Discriminate: The Second Great Migration and Racial Threat in the American West** (with Ben Newman) *American Political Science Review* [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_newman_apsr_2018.pdf)[[Online Appendix]](http://tylerreny.github.io/pdf/pubs/reny_newman_apsr_2018_SI.pdf) [[Replication]](https://dataverse.harvard.edu/dataverse/tylerreny) 
 
 &nbsp;
 &nbsp;
