@@ -84,6 +84,7 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [On Doing Research](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
 
+[OUP Guide to Academic Writing](https://academic.oup.com/journals/pages/publishing-advice-and-guidance?login=false)
 
 # Free student access to programming classes
 
