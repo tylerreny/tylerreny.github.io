@@ -6,6 +6,16 @@ permalink: /research/
 
 # Publications
 
+**Race, Prejudice and Support for Racial Justice Countermovements: The Case of “Blue Lives Matter”** (with Ben Newman and Jenn Merolla) *Political Behavior* [[PDF]](https://link.springer.com/article/10.1007/s11109-023-09881-y)
+
+<details>
+	<summary>Abstract</summary>
+In this article, we develop and test three propositions related to the status of a primary counterpoint of the Black Lives Matter (BLM) movement—“Blue Lives Matter” (BlueLM). Employing correlational and causal analyses on a wide array of data, including public opinion, news and social media, internet searches, and merchandise sales, our findings are threefold: first, we offer evidence that Whiteness is associated with attitudinal and behavioral indicators of support for BlueLM; second, we present evidence that support for BlueLM is systematically linked to White racial prejudice; and third, we demonstrate that BlueLM activity is caused by BLM protest following a high-profile police killing of a Black man, which comports with the conceptualization of BlueLM as engaging in a process of “competitive victimhood” against BLM. Together, these findings suggest that BlueLM is a new incarnation of an ongoing history of White countermobilization against organized Black claims-making activity.
+</details>
+
+&nbsp;
+&nbsp;
+
 **The Opinion Mobilizing Effect of Social Protest Against Police Violence: Evidence from the 2020 George Floyd Protests** (with Ben Newman) *The American Political Science Review* [[PDF]](http://tylerreny.github.io/pdf/pubs/reny_newman_2021_floyd.pdf)
 
 <details>
