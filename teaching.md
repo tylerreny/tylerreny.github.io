@@ -6,9 +6,15 @@ permalink: /teaching/
 
 # GRADUATE
 
-# Visualizing Data SPE 487 (Spring 2023)
+# Identity Politics PP 333 (Fall 2023)
 
-[Syllabus](https://www.dropbox.com/s/9mvil2ymrxm93sp/SPE487_Spring2023.docx?dl=1)
+[Syllabus](https://www.dropbox.com/scl/fi/cj7kf3qg39iu2bf3187wq/PP333_Fall_2023.docx?rlkey=1dpssfmeu6201coldkodbjxrc&dl=1)
+
+[Readings](https://www.dropbox.com/s/rn4aguagydym8ik/readings_pp333_fall2023.zip?dl=1)
+
+# Visualizing Data SPE 487 (Fall 2023)
+
+[Syllabus](https://www.dropbox.com/scl/fi/b75h4wbiy4ryf6jcwrqaj/SPE489_Fall2023.docx?rlkey=8j1f16vtta59x08m1jwii6ejz&dl=1)
 
 [Readings](https://www.dropbox.com/s/nwwju9ddg8931yp/_all_readings_pp487.zip?dl=1)
 
@@ -27,10 +33,6 @@ permalink: /teaching/
 [Syllabus](https://www.dropbox.com/s/py9ddyv34lltshz/PP484_Fall2022.docx?dl=1)
 
 [Readings](https://www.dropbox.com/s/rp7p1w8ypp8t4h3/readings_pp484.zip?dl=1)
-
-# Identity Politics PP 333 (Spring 2022)
-
-[Syllabus](https://www.dropbox.com/s/tt0l9u1a2zqxif3/PP333_Spring_2022.docx?dl=0)
 
 [//]: # (**Undergrad Resources**)
 
