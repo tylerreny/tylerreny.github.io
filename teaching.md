@@ -12,9 +12,11 @@ permalink: /teaching/
 
 [Readings](https://www.dropbox.com/s/rn4aguagydym8ik/readings_pp333_fall2023.zip?dl=1)
 
-# Visualizing Data SPE 487 (Fall 2023)
+# Computational Tools for Social Science SPE 489 (Fall 2023)
 
 [Syllabus](https://www.dropbox.com/scl/fi/b75h4wbiy4ryf6jcwrqaj/SPE489_Fall2023.docx?rlkey=8j1f16vtta59x08m1jwii6ejz&dl=1)
+
+# Visualizing Data SPE 487 (Spring 2023)
 
 [Readings](https://www.dropbox.com/s/nwwju9ddg8931yp/_all_readings_pp487.zip?dl=1)
 
@@ -23,10 +25,6 @@ permalink: /teaching/
 [Syllabus](https://www.dropbox.com/s/umctl1vqfc0e2ns/PP302_spring_2022.docx?dl=1)
 
 [Readings](https://www.dropbox.com/s/iaereuf9iechsym/readings_pp302.zip?dl=1)
-
-# Computational Tools for Social Science SPE 489 (Fall 2021, Fall 2022)
-
-[Syllabus](https://www.dropbox.com/s/58elem8dzc2shrn/SPE489_Fall2022.docx?dl=0)
 
 # Survey Research PP484 (Fall 2022)
 
