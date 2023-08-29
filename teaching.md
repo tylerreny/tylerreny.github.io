@@ -94,6 +94,8 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Creating Realistic Stimuli with Chrome Developer Tools](http://u.osu.edu/pearson.325/2018/12/04/creating-realistic-stimuli-with-chrome-developer-tools/)
 
+[Recent research on best practices in experimental political science](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/special-collections/best-practices-in-experimental-research)
+
 # Public Data Sources Political Data
 
 [Polling, Voting, and Census Data Resources](https://pollsandvotes.com/?p=184)
