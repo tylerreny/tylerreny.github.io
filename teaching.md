@@ -64,6 +64,10 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 ## RESOURCES
 
+# Skills Building in Graduate School
+
+[My talk to CGU graduate students: Skills Building in Graduate School](https://www.dropbox.com/scl/fi/ma0oviqtveu3cy3isr2ur/skills_workshop.pdf?rlkey=y22b65l7lirgksxhx95oy5v3k&dl=0)
+
 # On being a successful graduate student
 
 [My talk to CGU graduate students: The Hidden Curriculum: What You Should Learn in Grad School (But Might Not)](https://www.dropbox.com/s/7ngbtvgkieb6kr2/hidden_syllabus.pdf?dl=0)
@@ -105,6 +109,8 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 [Social Explorer for Aggregated Census Data](https://www.socialexplorer.com/explore-maps)
 
 [Media Analysis](https://mediacloud.org/)
+
+[Melange of different poli sci datasets from Joseph Coll](https://www.josephcoll.com/where-to-find-data.html)
 
 # Text as Data
 
