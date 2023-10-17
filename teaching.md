@@ -120,6 +120,8 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Readings and Code for Diff in Diff Methods](https://asjadnaqvi.github.io/DiD/)
 
+[Checklist for DiD Practitioners (see Table 1)](https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf)
+
 # Shapefiles and Spatial Data
 
 [Historic Shapefile Boundaries (state, county, congressional district, and zip code) 1629 - 2000](https://cran.r-project.org/web/packages/USAboundaries/index.html)
