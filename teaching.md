@@ -112,6 +112,10 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [Melange of different poli sci datasets from Joseph Coll](https://www.josephcoll.com/where-to-find-data.html)
 
+# County Name to Fips Crosswalks
+
+[Klarner County FIPS Matching Tool](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OSLU4G)
+
 # Text as Data
 
 [text package in R attempts to provide user-friendly access and pipelines to HuggingFace’s transformer language models](https://blogs.rstudio.com/ai/posts/2022-09-29-r-text/)
