@@ -120,6 +120,8 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 [text package in R attempts to provide user-friendly access and pipelines to HuggingFace’s transformer language models](https://blogs.rstudio.com/ai/posts/2022-09-29-r-text/)
 
+[Ben Noble's class on text as data offered 2024 to Syracuse University](https://github.com/bennoble/iqrm2024-text-analysis/tree/main)
+
 # Diff in Diff Methods
 
 [Readings and Code for Diff in Diff Methods](https://asjadnaqvi.github.io/DiD/)
