@@ -6,8 +6,6 @@ permalink: /research/
 
 # Publications
 
-pops_geiger_reny_2024.pdf
-
 **Embracing the Status Hierarchy: How Immigration Attitudes, Prejudice, and Sexism Shaped Non-White Support for Trump** (with Jessica Geiger) *Perspectives on Politics* [[PDF]](https://www.cambridge.org/core/journals/perspectives-on-politics/article/embracing-the-status-hierarchy-how-immigration-attitudes-prejudice-and-sexism-shaped-nonwhite-support-for-trump/9F91070372394D892BF11E1FFC0C619F)
 
 <details>
