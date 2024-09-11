@@ -1,4 +1,4 @@
-I"� <h1 id="graduate">GRADUATE</h1>
+I""<h1 id="graduate">GRADUATE</h1>
 
 <h1 id="identity-politics-pp-333-fall-2023">Identity Politics PP 333 (Fall 2023)</h1>
 
@@ -93,9 +93,15 @@
 
 <p><a href="https://www.josephcoll.com/where-to-find-data.html">Melange of different poli sci datasets from Joseph Coll</a></p>
 
+<h1 id="county-name-to-fips-crosswalks">County Name to Fips Crosswalks</h1>
+
+<p><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OSLU4G">Klarner County FIPS Matching Tool</a></p>
+
 <h1 id="text-as-data">Text as Data</h1>
 
 <p><a href="https://blogs.rstudio.com/ai/posts/2022-09-29-r-text/">text package in R attempts to provide user-friendly access and pipelines to HuggingFace’s transformer language models</a></p>
+
+<p><a href="https://github.com/bennoble/iqrm2024-text-analysis/tree/main">Ben Noble’s class on text as data offered 2024 to Syracuse University</a></p>
 
 <h1 id="diff-in-diff-methods">Diff in Diff Methods</h1>
 
