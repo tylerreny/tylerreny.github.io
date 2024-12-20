@@ -9,7 +9,7 @@ permalink: /research/
 [[Replication Files]](https://dataverse.harvard.edu/dataverse/harvard?q=Tyler%20Reny)
 
 
-**Rising Seas, Rising Concerns: How Climate Change Vulnerability Shapes Opinions Towards Policy** (with Andrew Reeves and Dino Christenson) 
+**Rising Seas, Rising Concerns: How Climate Change Vulnerability Shapes Opinions Towards Policy** (with Andrew Reeves and Dino Christenson) *Environmental Politics* [[PDF]](pdf/pubs/manuscript_final_renyetal_enviro_politics_forshare.pdf)
 
 <details>
 	<summary>Abstract</summary>
