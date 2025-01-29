@@ -6,15 +6,15 @@ permalink: /teaching/
 
 # GRADUATE
 
+# Computational Tools for Social Science SPE 489 (Spring 2025)
+
+[Syllabus](https://www.dropbox.com/scl/fi/267h6gtnenj6sz1va13fv/SPE489_Spring2025.docx?rlkey=j4bs99z515en2q3aqmmux4skl&st=fsvcbvmc&dl=0)
+
 # Identity Politics PP 333 (Fall 2023)
 
 [Syllabus](https://www.dropbox.com/scl/fi/cj7kf3qg39iu2bf3187wq/PP333_Fall_2023.docx?rlkey=1dpssfmeu6201coldkodbjxrc&dl=1)
 
 [Readings](https://www.dropbox.com/s/rn4aguagydym8ik/readings_pp333_fall2023.zip?dl=1)
-
-# Computational Tools for Social Science SPE 489 (Fall 2023)
-
-[Syllabus](https://www.dropbox.com/scl/fi/b75h4wbiy4ryf6jcwrqaj/SPE489_Fall2023.docx?rlkey=8j1f16vtta59x08m1jwii6ejz&dl=1)
 
 # Visualizing Data SPE 487 (Spring 2023)
 
@@ -93,6 +93,8 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 # Free student access to programming classes
 
 [Github Student](https://education.github.com/pack)
+
+[Statistical Inference via Data Science: A Modern Dive into R and the Tidyverse](https://moderndive.com/v2/getting-started.html)
 
 # Experimental Methods Resources
 
