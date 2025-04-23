@@ -64,7 +64,11 @@ American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 ## RESOURCES
 
-# Skills Building in Graduate School
+# On writing a dissertation
+
+[My talk to CGU graduate students: Navigating a successful dissertation](https://tylerreny.github.io/pdf/CGU_Talk_Dissertations.pdf)
+
+# On skills building in graduate school
 
 [My talk to CGU graduate students: Skills Building in Graduate School](https://www.dropbox.com/scl/fi/ma0oviqtveu3cy3isr2ur/skills_workshop.pdf?rlkey=y22b65l7lirgksxhx95oy5v3k&dl=0)
 
