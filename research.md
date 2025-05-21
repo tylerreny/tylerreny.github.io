@@ -9,6 +9,16 @@ permalink: /research/
 [[Replication Files]](https://dataverse.harvard.edu/dataverse/harvard?q=Tyler%20Reny)
 
 
+**Perceived Opposition to Racially Progressive Policies and Negative Affect toward the Republican Party among Democrats** (with Kirill Zhirkov and Byengseon Bae) *JREP* [[PDF]](https://tylerreny.github.io/pdf/pubs/Disliking_Deplorables_Final.pdf)
+
+<details>
+	<summary>Abstract</summary>
+The American public is increasingly affectively polarized. A growing body of research has associated this affective polarization with two key phenomena: ideological polarization and social group sorting. Although there is ample evidence that social group sorting, particularly along racial and ethnic lines, is driving Republicans' affect toward the Democratic Party, it is not clear how it shapes Democrats', particularly White Democrats', feelings toward the predominantly White Republican Party. We propose a third model that bridges these two theoretical approaches, a racial ideology model that helps explain Democrats' feelings toward the Republican Party. Specifically, we argue that Democrats increasingly dislike Republicans because they view them as standing in opposition to racially progressive policies. Using a preregistered conjoint experiment we find that Americans across party lines see Republicans as opposing efforts to reduce racial inequality and that this perception is associated with negative affect toward the Republican Party among both White and non-White Democrats.
+</details>
+
+&nbsp;
+&nbsp;
+
 **Rising Seas, Rising Concerns: How Climate Change Vulnerability Shapes Opinions Towards Policy** (with Andrew Reeves and Dino Christenson) *Environmental Politics* [[PDF]](pdf/pubs/manuscript_final_renyetal_enviro_politics_forshare.pdf)
 
 <details>
