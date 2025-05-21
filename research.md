@@ -9,7 +9,7 @@ permalink: /research/
 [[Replication Files]](https://dataverse.harvard.edu/dataverse/harvard?q=Tyler%20Reny)
 
 
-**Perceived Opposition to Racially Progressive Policies and Negative Affect toward the Republican Party among Democrats** (with Kirill Zhirkov and Byengseon Bae) *Journal of Race, Ethnicity, and Politics* [[PDF]](https://tylerreny.github.io/pdf/pubs/Disliking_Deplorables_Final.pdf)
+**Perceived Opposition to Racially Progressive Policies and Negative Affect toward the Republican Party among Democrats** (with Kirill Zhirkov & Byengseon Bae) *Journal of Race, Ethnicity, and Politics* [[PDF]](https://tylerreny.github.io/pdf/pubs/Disliking_Deplorables_Final.pdf)
 
 <details>
 	<summary>Abstract</summary>
