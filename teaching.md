@@ -3,6 +3,7 @@ layout: page
 title: Teaching and Resources
 permalink: /teaching/
 ---
+## TEACHING
 
 # GRADUATE
 
@@ -63,6 +64,10 @@ Political Communications, UCLA (Fall 2018; Winter 2018)
 American Politics, UW (Fall 2014; Winter 2014; Spring 2015)
 
 ## RESOURCES
+
+# Conferences
+
+[List of major and smaller conferences in political science](https://tylerreny.github.io/conferences/)
 
 # On writing a dissertation
 
