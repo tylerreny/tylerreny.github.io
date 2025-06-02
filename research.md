@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+# Book Project
+
+My ongoing book project (with Marcel Roman), tentatively titled *Making Americans: The Racial Politics of Reproduction*, develops a theory of racialized attitudes toward reproduction (e.g. births, birth control, and abortion) in the United States. We argue that while American demographic engineering projects (such as immigration policy, incarceration, zoning, and others) have been studied extensively, the literature lacks nuanced theoretical engagement with reproduction, despite its foundational role in shaping the nation's demographic trajectory. 
+
+In an era marked by declining fertility rates, shrinking dominant-group populations, increasing diversity, and the rising prominence of "great replacement" ideology, reproduction is poised to become an increasingly critical site of political, economic, and cultural conflict. Drawing on a broad corpus of historical and contemporary data---including public opinion, archival texts, and voting returns---this project employs qualitative, observational, and causal methods to examine the extent to which racial concerns have shaped and sustained reproductive attitudes in the United States throughout the 20th century to present. 
+
 # Publications
 
 [[Replication Files]](https://dataverse.harvard.edu/dataverse/harvard?q=Tyler%20Reny)
