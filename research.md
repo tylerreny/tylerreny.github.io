@@ -14,7 +14,7 @@ In an era marked by declining fertility rates, shrinking dominant-group populati
 
 [[Replication Files]](https://dataverse.harvard.edu/dataverse/harvard?q=Tyler%20Reny)
 
-**Late-adolescents entering college intending a career as police officers hold more right-leaning views than their peers** (with Benjamin Newman, Marcel Roman, and David O. Sears) *Forthcoming PNAS* 
+**Late-adolescents entering college intending a career as police officers hold more right-leaning views than their peers** (with Benjamin Newman, Marcel Roman, and David O. Sears) *PNAS* [[PDF]](https://tylerreny.github.io/pdf/pubs/reny_at_al_2025_PNAS.pdf) 
 
 <details>
 	<summary>Abstract</summary>
