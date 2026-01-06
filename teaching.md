@@ -7,11 +7,11 @@ permalink: /teaching/
 
 # GRADUATE
 
-# Computational Tools for Social Science SPE 489 (Spring 2025)
+# Computational Tools for Social Science SPE 489 (Spring 2026)
 
 [Syllabus](https://www.dropbox.com/scl/fi/267h6gtnenj6sz1va13fv/SPE489_Spring2025.docx?rlkey=j4bs99z515en2q3aqmmux4skl&st=fsvcbvmc&dl=0)
 
-# Survey Research PP484 (Fall 2025)
+# Survey Research PP484 (Spring 2026)
 
 [Syllabus](https://www.dropbox.com/scl/fi/glj0oas95modbcx2n1gq0/PP484_Spring2025_2026.pdf?rlkey=ne9zq7ledkvvpyk6sksyqu1n6&st=ck12mp95&dl=1)
 
