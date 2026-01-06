@@ -11,27 +11,28 @@ permalink: /teaching/
 
 [Syllabus](https://www.dropbox.com/scl/fi/267h6gtnenj6sz1va13fv/SPE489_Spring2025.docx?rlkey=j4bs99z515en2q3aqmmux4skl&st=fsvcbvmc&dl=0)
 
-# Identity Politics PP 333 (Fall 2023)
+# Survey Research PP484 (Fall 2025)
+
+[Syllabus](https://www.dropbox.com/scl/fi/glj0oas95modbcx2n1gq0/PP484_Spring2025_2026.pdf?rlkey=ne9zq7ledkvvpyk6sksyqu1n6&st=ck12mp95&dl=1)
+
+[Readings](https://www.dropbox.com/scl/fi/1wgerkstfaxunvqz4yhtr/readings_pp484_2025.zip?rlkey=npz9z9t7unrgl2bbpi4ymob6q&dl=1)
+
+# Identity Politics PP 333
 
 [Syllabus](https://www.dropbox.com/scl/fi/cj7kf3qg39iu2bf3187wq/PP333_Fall_2023.docx?rlkey=1dpssfmeu6201coldkodbjxrc&dl=1)
 
 [Readings](https://www.dropbox.com/s/rn4aguagydym8ik/readings_pp333_fall2023.zip?dl=1)
 
-# Visualizing Data SPE 487 (Spring 2023)
+# Visualizing Data SPE 487
 
 [Readings](https://www.dropbox.com/s/nwwju9ddg8931yp/_all_readings_pp487.zip?dl=1)
 
-# American Political Behavior PP 302 (Spring 2022, Spring 2023)
+# American Political Behavior PP 302
 
 [Syllabus](https://www.dropbox.com/s/umctl1vqfc0e2ns/PP302_spring_2022.docx?dl=1)
 
 [Readings](https://www.dropbox.com/s/iaereuf9iechsym/readings_pp302.zip?dl=1)
 
-# Survey Research PP484 (Fall 2022)
-
-[Syllabus](https://www.dropbox.com/s/py9ddyv34lltshz/PP484_Fall2022.docx?dl=1)
-
-[Readings](https://www.dropbox.com/s/rp7p1w8ypp8t4h3/readings_pp484.zip?dl=1)
 
 [//]: # (**Undergrad Resources**)
 
