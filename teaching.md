@@ -15,7 +15,7 @@ permalink: /teaching/
 
 [Syllabus](https://www.dropbox.com/scl/fi/glj0oas95modbcx2n1gq0/PP484_Spring2025_2026.pdf?rlkey=ne9zq7ledkvvpyk6sksyqu1n6&st=ck12mp95&dl=1)
 
-[Readings](https://www.dropbox.com/scl/fi/1wgerkstfaxunvqz4yhtr/readings_pp484_2025.zip?rlkey=npz9z9t7unrgl2bbpi4ymob6q&dl=1)
+[Readings](https://www.dropbox.com/scl/fo/rwg6xs42vhb0a6cjehe3g/AM4GTUwyL2xtfb4sXgQqT0w?rlkey=y1git7qjj16cbnbszou99utn9&dl=0)
 
 # Identity Politics PP 333
 
