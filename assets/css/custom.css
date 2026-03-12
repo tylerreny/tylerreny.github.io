@@ -1,0 +1,8 @@
+a[href="/sitemap/"] {
+  display: none !important;
+}
+
+.page__footer-follow,
+.page__footer-links {
+  display: none !important;
+}

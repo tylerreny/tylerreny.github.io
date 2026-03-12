@@ -43,6 +43,16 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
+  a {
+    text-decoration: none;
+    color: #1E3A5F;
+
+    &:hover {
+      text-decoration: underline;
+      color: #1E3A5F;
+    }
+  }
+
   a + a {
     opacity: 0.5;
   }
@@ -241,5 +251,154 @@
         width: span(7 of 12);
       }
     }
+  }
+}
+
+/* Teaching page */
+.teaching-section-heading {
+  margin: 1.75em 0 0.75em;
+  padding-bottom: 0.5em;
+  font-size: $type-size-5;
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid var(--global-border-color);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+}
+
+.course-item {
+  margin-bottom: 1.75em;
+
+  .course-title {
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-4;
+    color: #1E3A5F;
+    font-weight: 700;
+    margin-bottom: 0.15em;
+  }
+
+  .course-meta {
+    font-size: $type-size-6;
+    color: var(--global-text-color-light);
+    margin: 0.1em 0 0.4em;
+  }
+
+  .course-links {
+    font-size: $type-size-6;
+
+    a {
+      color: var(--global-link-color);
+      text-decoration: none;
+      &:hover { text-decoration: underline; }
+    }
+
+    span.sep {
+      color: var(--global-text-color-light);
+      margin: 0 0.35em;
+    }
+  }
+}
+
+.teaching-experience {
+  margin-bottom: 1.5em;
+  font-size: $type-size-6;
+
+  .experience-role {
+    font-weight: 600;
+    color: #1E3A5F;
+    margin-bottom: 0.4em;
+    font-size: $type-size-5;
+  }
+
+  ul {
+    margin: 0 0 0.75em;
+    padding-left: 1.2em;
+
+    li { margin-bottom: 0.25em; }
+  }
+}
+
+.resource-group {
+  margin-bottom: 1.75em;
+
+  .resource-group-title {
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-5;
+    color: #1E3A5F;
+    font-weight: 700;
+    margin-bottom: 0.4em;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.2em;
+    font-size: $type-size-6;
+
+    li { margin-bottom: 0.3em; }
+
+    a {
+      color: var(--global-link-color);
+      text-decoration: none;
+      &:hover { text-decoration: underline; }
+    }
+  }
+}
+
+/* Publication abstract dropdown */
+.publication-abstract {
+  margin-top: 0.6em;
+
+  summary {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+    font-size: 0.78em;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--global-link-color);
+    border: 1px solid var(--global-link-color);
+    border-radius: 3px;
+    padding: 0.2em 0.6em;
+    user-select: none;
+    list-style: none;
+    transition: background 0.15s ease, color 0.15s ease;
+
+    /* hide default browser triangle */
+    &::-webkit-details-marker { display: none; }
+
+    /* + icon before label */
+    &::before {
+      content: '+';
+      font-size: 1.1em;
+      font-weight: 400;
+      line-height: 1;
+    }
+
+    &:hover {
+      background: var(--global-link-color);
+      color: #fff;
+    }
+
+    &:focus { outline: none; }
+  }
+
+  &[open] summary {
+    background: var(--global-link-color);
+    color: #fff;
+
+    &::before {
+      content: '\2212';
+    }
+  }
+
+  .abstract-content {
+    margin-top: 0.75em;
+    font-size: 0.875em;
+    line-height: 1.65;
+    border-left: 3px solid var(--global-link-color);
+    padding-left: 0.85em;
+    opacity: 0.9;
   }
 }
