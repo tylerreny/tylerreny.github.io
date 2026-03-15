@@ -21,6 +21,8 @@ redirect_from:
   ">&#8675; Download CV</a>
 </div>
 
-<iframe src="/pdf/cv_reny.pdf" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 3px;">
-  <p>Your browser does not support embedded PDFs. <a href="/pdf/cv_reny.pdf">Download the CV here.</a></p>
-</iframe>
+<div style="overflow: auto; -webkit-overflow-scrolling: touch; border: 1px solid #ddd; border-radius: 3px; height: 900px;">
+  <iframe src="/pdf/cv_reny.pdf" width="100%" height="100%" style="border: none; display: block;">
+    <p>Your browser does not support embedded PDFs. <a href="/pdf/cv_reny.pdf">Download the CV here.</a></p>
+  </iframe>
+</div>
