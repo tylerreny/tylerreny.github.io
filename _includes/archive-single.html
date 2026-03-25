@@ -41,7 +41,11 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
+          {% unless post.category == 'working_papers' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.coauthors %} (with {{ post.coauthors }}){% endif %}</p>
+          {% else %}
+          <p>{% if post.coauthors %}With {{ post.coauthors }}{% endif %}</p>
+          {% endunless %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -60,6 +64,7 @@
     {% endif %}
     
     {% if post.collection == 'publications' %}
+      {% unless post.category == 'working_papers' %}
       {% if post.paperurl and post.slidesurl %}
         <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
       {% elsif post.paperurl %}
@@ -67,6 +72,7 @@
       {% elsif post.slidesurl %}
         <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
       {% endif %}
+      {% endunless %}
     {% else %}
       {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
         <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
