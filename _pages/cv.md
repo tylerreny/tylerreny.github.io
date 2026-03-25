@@ -29,17 +29,17 @@ redirect_from:
 </style>
 
 <div class="cv-actions">
-  <a href="/pdf/cv_reny.pdf" download class="cv-btn">&#8675; Download CV</a>
-  <a href="/pdf/cv_reny.pdf" target="_blank" class="cv-btn cv-mobile">&#128196; Open CV</a>
+  <a href="/pdf/cv_reny.pdf?v=20260324" download class="cv-btn">&#8675; Download CV</a>
+  <a href="/pdf/cv_reny.pdf?v=20260324" target="_blank" class="cv-btn cv-mobile">&#128196; Open CV</a>
 </div>
 
 <div class="cv-desktop">
-  <iframe src="/pdf/cv_reny.pdf" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 3px; display: block;">
-    <p>Your browser does not support embedded PDFs. <a href="/pdf/cv_reny.pdf">Download the CV here.</a></p>
+  <iframe src="/pdf/cv_reny.pdf?v=20260324" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 3px; display: block;">
+    <p>Your browser does not support embedded PDFs. <a href="/pdf/cv_reny.pdf?v=20260324">Download the CV here.</a></p>
   </iframe>
 </div>
 
 <div class="cv-mobile" style="padding: 2em; text-align: center; border: 1px solid #ddd; border-radius: 3px; color: #666;">
   <p style="margin-bottom: 1em;">Tap below to view the CV in your browser.</p>
-  <a href="/pdf/cv_reny.pdf" target="_blank" class="cv-btn">&#128196; Open CV</a>
+  <a href="/pdf/cv_reny.pdf?v=20260324" target="_blank" class="cv-btn">&#128196; Open CV</a>
 </div>
