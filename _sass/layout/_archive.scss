@@ -45,11 +45,11 @@
 
   a {
     text-decoration: none;
-    color: #1E3A5F;
+    color: var(--archive-heading-color);
 
     &:hover {
       text-decoration: underline;
-      color: #1E3A5F;
+      color: var(--archive-heading-color);
     }
   }
 
@@ -272,7 +272,7 @@
   .course-title {
     font-family: $sans-serif-narrow;
     font-size: $type-size-4;
-    color: #1E3A5F;
+    color: var(--archive-heading-color);
     font-weight: 700;
     margin-bottom: 0.15em;
   }
@@ -305,7 +305,7 @@
 
   .experience-role {
     font-weight: 600;
-    color: #1E3A5F;
+    color: var(--archive-heading-color);
     margin-bottom: 0.4em;
     font-size: $type-size-5;
   }
@@ -324,7 +324,7 @@
   .resource-group-title {
     font-family: $sans-serif-narrow;
     font-size: $type-size-5;
-    color: #1E3A5F;
+    color: var(--archive-heading-color);
     font-weight: 700;
     margin-bottom: 0.4em;
   }

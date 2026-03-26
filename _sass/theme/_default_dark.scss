@@ -52,5 +52,6 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
+    --archive-heading-color             : #{$link};
 }
 
