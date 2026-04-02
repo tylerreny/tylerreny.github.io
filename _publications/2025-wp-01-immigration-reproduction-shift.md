@@ -6,7 +6,7 @@ permalink: /publication/2025-immigration-reproduction-shift
 excerpt: ''
 date: 2025-01-04
 venue: ''
-paperurl: ''
+paperurl: '/pdf/pubs/jmp_reny_2026.pdf'
 citation: 'Reny, T., Roman, M., & Newman, B. "The Immigration-to-Reproduction Shift: Latino Population Growth and White Support for Legal Abortion."'
 coauthors: "Marcel Roman and Benjamin Newman"
 ---
