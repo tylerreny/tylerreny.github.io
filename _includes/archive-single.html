@@ -69,9 +69,9 @@
       {% if post.paperurl and post.paperurl != '' %}{% assign has_paper = true %}{% endif %}
       {% if post.slidesurl and post.slidesurl != '' %}{% assign has_slides = true %}{% endif %}
       {% if has_paper and has_slides %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+        <p><a href="{{ post.paperurl }}">{% if post.category == 'working_papers' %}Download Working Paper{% else %}Download Paper{% endif %}</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
       {% elsif has_paper %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a></p>
+        <p><a href="{{ post.paperurl }}">{% if post.category == 'working_papers' %}Download Working Paper{% else %}Download Paper{% endif %}</a></p>
       {% elsif has_slides %}
         <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
       {% endif %}

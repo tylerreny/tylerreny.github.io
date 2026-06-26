@@ -6,7 +6,7 @@ permalink: /publication/2025-polarized-race-gender
 excerpt: ''
 date: 2025-01-01
 venue: ''
-paperurl: ''
+paperurl: 'https://tylerreny.github.io/pdf/pubs/Racial_and_Gender_Gaps_working.pdf'
 citation: 'Reny, T., Geiger, J., & Donovan, S. "Polarized About Not By Race and Gender."'
 coauthors: "Jessica Geiger and Sean Donovan"
 ---
